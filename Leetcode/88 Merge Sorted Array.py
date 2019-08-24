@@ -33,7 +33,7 @@ def merge(nums1, m, nums2, n):
 def merge(nums1, m, nums2, n):
     index1 = 0
     index2 = 0
-    if n !=0:
+    if n != 0:
         while(index2 < n):
             print(index1)
             print(index2)

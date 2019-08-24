@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="78a440fe-2f0d-440d-88c1-205e243682c0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/136 Single Number.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/26 Remove Duplicates from Sorted Array.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/27 Remove Element.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/53 Maximum Subarray.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/88 Merge Sorted Array.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/88 Merge Sorted Array.py" beforeDir="false" afterPath="$PROJECT_DIR$/88 Merge Sorted Array.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -56,8 +51,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/88 Merge Sorted Array.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="78">
-              <caret line="39" column="24" lean-forward="true" selection-start-line="39" selection-start-column="24" selection-end-line="39" selection-end-column="24" />
+            <state relative-caret-position="87">
+              <caret line="35" column="14" lean-forward="true" selection-start-line="35" selection-start-column="14" selection-end-line="35" selection-end-column="14" />
             </state>
           </provider>
         </entry>
@@ -356,12 +351,12 @@
       <workItem from="1566404496574" duration="11124000" />
       <workItem from="1566474229307" duration="22494000" />
       <workItem from="1566510458490" duration="18814000" />
-      <workItem from="1566634383335" duration="15797000" />
+      <workItem from="1566634383335" duration="16666000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="68229000" />
+    <option name="totallyTimeSpent" value="69098000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="7" y="23" width="736" height="876" extended-state="0" />
@@ -565,8 +560,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/88 Merge Sorted Array.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="78">
-          <caret line="39" column="24" lean-forward="true" selection-start-line="39" selection-start-column="24" selection-end-line="39" selection-end-column="24" />
+        <state relative-caret-position="87">
+          <caret line="35" column="14" lean-forward="true" selection-start-line="35" selection-start-column="14" selection-end-line="35" selection-end-column="14" />
         </state>
       </provider>
     </entry>
