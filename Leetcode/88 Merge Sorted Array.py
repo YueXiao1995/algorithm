@@ -35,9 +35,6 @@ def merge(nums1, m, nums2, n):
     index2 = 0
     if n != 0:
         while(index2 < n):
-            print(index1)
-            print(index2)
-            print(nums1)
             if index1 < m + index2:
                 if nums1[index1] < nums2[index2]:
                     index1 += 1
