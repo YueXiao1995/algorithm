@@ -9,55 +9,83 @@ Example:
 """
 
 """
+input = [-2,1,-3,4,-1,2,1,-5,4]
+def maxSubArry(nums):
+    max_sub_arry = None
+    l = len(nums)
+    if l == 1:
+        return nums[0]
 
-def maxSubArray(nums):
-    max = nums[0]
-    for num in nums:
-        if num > max:
-            max = num
-    print(max)
-    sum_list = list()
-    sum = 0
-    max_sum = nums[0]
-    max_sum_index = 0
-    i = 0
-    for num in nums:
-        sum += num
-        sum_list.append(sum)
-        if sum > max_sum:
-            max_sum_index = i
-            max_sum = sum
-        i += 1
-        print(sum_list)
+    for i in range(0, l):
+        if l - i > 1: # make sure the rest part of list has more than two elements
+            temp_sum = 0 # add the first element to temp_sum
+            if max_sub_arry == None:
+                max_sub_arry = nums[i]
 
-    print(max_sum)
-    print(max_sum_index)
+            for j in range(i, l):
+                temp_sum += nums[j]
+                if temp_sum > max_sub_arry:
+                    #print(temp_sum)
+                    max_sub_arry = temp_sum
 
-    if max_sum < 0:
-        return max
-    sum_list2 = list()
-    sum2 = 0
-    max_sum2 = 0
-    max_sum_index2 = 0
+        else:
+            if max_sub_arry == None:
+                max_sub_arry = nums[i]
+            else:
+                if nums[i] > max_sub_arry:
+                    max_sub_arry = nums[i]
+        #print(nums[i])
 
-    for i in reversed(range(0, max_sum_index + 1)):
-        print(i)
-        sum2 += nums[i]
-        sum_list2.append(sum2)
-        if sum2 > max_sum2:
-            max_sum_index2 = i
-            max_sum2 = sum2
-
-        print(sum_list2)
-
-    result = 0
-    for i in range(max_sum_index2, max_sum_index+1):
-        print(nums[i])
-        result += nums[i]
-
-    return result
-
-
-input = [-2,-1]
-print(maxSubArray(input))
+    return max_sub_arry
 """
+
+
+def maxSubArry(nums):
+    left_sum = nums[0]
+    right_sum = 0
+    left_index = 0
+    index = 0
+    l = len(nums)
+    for i in range(1, l):
+        right_sum += nums[i]
+        if right_sum > 0:
+            if right_sum > 0:
+                index = i
+                max_sum = 0
+                sum_value = 0
+                for j in reversed(range(left_index, i)):
+                    sum_value += nums[j]
+                    if sum_value > max_sum:
+                        max_sum = sum_value
+                if max_sum < 0:
+                    left_sum = nums[i]
+                    left_index = i
+                else:
+                    left_sum = max_sum + nums[i]
+
+                right_sum = 0
+                if nums[i] > left_sum:
+                    print(right_sum)
+                    left_sum = nums[i]
+                    right_sum = 0
+                    print("aaa")
+        else:
+            right_max_sum = nums[i]
+            right_sum_value = 0
+
+            # get the biggest right sum
+            for k in reversed(range(index, i+1)):
+                right_sum_value += nums[k]
+                if right_sum_value > right_max_sum:
+                     right_max_sum = right_sum_value
+            if right_max_sum > left_sum:
+                left_sum = right_max_sum
+                right_sum = 0
+    return left_sum
+
+input = [8,-19,5,-4,20]
+input2 = [-2,1,-3,4,-1,2,1,-5,4]
+input3 = [3,-2,-3,-3,1,3,0]
+input4 = [-2,-1]
+input5 = [2,-2,-2,0,-2,2,2]
+print(maxSubArry(input4))
