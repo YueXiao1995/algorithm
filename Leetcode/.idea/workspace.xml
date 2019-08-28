@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="78a440fe-2f0d-440d-88c1-205e243682c0" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/121 Best Time to Buy and Sell Stock.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/70 Climbing Stairs.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/66 Plus One.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -14,6 +14,7 @@
   </component>
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/Leetcode$121_Best_Time_to_Buy_and_Sell_Stock.coverage" NAME="121 Best Time to Buy and Sell Stock Coverage Results" MODIFIED="1566779150777" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Leetcode$66_Plus_One.coverage" NAME="66 Plus One Coverage Results" MODIFIED="1567020138324" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Leetcode$707_Design_Linked_List.coverage" NAME="707 Design Linked List Coverage Results" MODIFIED="1566503927877" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Leetcode$237_Delete_Node_in_a_Linked_List.coverage" NAME="237 Delete Node in a Linked List Coverage Results" MODIFIED="1566494518549" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Leetcode$141_Linked_List_Cycle.coverage" NAME="141 Linked List Cycle Coverage Results" MODIFIED="1566478148182" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -89,11 +90,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/70 Climbing Stairs.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="432">
-              <caret line="59" column="48" lean-forward="true" selection-start-line="59" selection-start-column="48" selection-end-line="59" selection-end-column="48" />
+            <state relative-caret-position="402">
+              <caret line="57" column="30" lean-forward="true" selection-start-line="57" selection-start-column="30" selection-end-line="57" selection-end-column="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/66 Plus One.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="20" selection-start-line="20" selection-end-line="32" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -174,6 +184,7 @@
         <option value="$PROJECT_DIR$/169 Majority Element.py" />
         <option value="$PROJECT_DIR$/189 Rotate Array.py" />
         <option value="$PROJECT_DIR$/70 Climbing Stairs.py" />
+        <option value="$PROJECT_DIR$/66 Plus One.py" />
       </list>
     </option>
   </component>
@@ -220,7 +231,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.70 Climbing Stairs">
+  <component name="RunManager" selected="Python.66 Plus One">
     <configuration name="167 Two Sum II - Input array is sorted" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Leetcode" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -287,7 +298,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="53 Maximum Subarray" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="66 Plus One" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Leetcode" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -300,7 +311,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/53 Maximum Subarray.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/66 Plus One.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -333,11 +344,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.66 Plus One" />
         <item itemvalue="Python.70 Climbing Stairs" />
         <item itemvalue="Python.189 Rotate Array" />
         <item itemvalue="Python.169 Majority Element" />
         <item itemvalue="Python.167 Two Sum II - Input array is sorted" />
-        <item itemvalue="Python.53 Maximum Subarray" />
       </list>
     </recent_temporary>
   </component>
@@ -354,18 +365,18 @@
       <workItem from="1566404496574" duration="11124000" />
       <workItem from="1566474229307" duration="22494000" />
       <workItem from="1566510458490" duration="18814000" />
-      <workItem from="1566634383335" duration="60905000" />
+      <workItem from="1566634383335" duration="62605000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="113337000" />
+    <option name="totallyTimeSpent" value="115037000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="7" y="23" width="748" height="876" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49772382" visible="true" weight="0.23654391" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49772382" visible="true" weight="0.2733711" />
       <window_info id="Structure" order="1" sideWeight="0.5022762" side_tool="true" weight="0.39938557" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -612,8 +623,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/70 Climbing Stairs.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="432">
-          <caret line="59" column="48" lean-forward="true" selection-start-line="59" selection-start-column="48" selection-end-line="59" selection-end-column="48" />
+        <state relative-caret-position="402">
+          <caret line="57" column="30" lean-forward="true" selection-start-line="57" selection-start-column="30" selection-end-line="57" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/66 Plus One.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" selection-start-line="20" selection-end-line="32" selection-end-column="17" />
         </state>
       </provider>
     </entry>
