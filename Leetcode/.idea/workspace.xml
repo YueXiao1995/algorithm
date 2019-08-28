@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="78a440fe-2f0d-440d-88c1-205e243682c0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/445 Add Two Numbers II.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/82 Remove Duplicates from Sorted List II.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/445 Add Two Numbers II.py" beforeDir="false" afterPath="$PROJECT_DIR$/445 Add Two Numbers II.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -22,7 +23,7 @@
     <SUITE FILE_PATH="coverage/Leetcode$206_Reverse_Linked_List.coverage" NAME="206 Reverse Linked List Coverage Results" MODIFIED="1566489756819" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Leetcode$Contest_151_1169_Invalid_Transactions.coverage" NAME="Contest_151_1169 Invalid Transactions Coverage Results" MODIFIED="1566743183733" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Leetcode$53_Maximum_Subarray.coverage" NAME="53 Maximum Subarray Coverage Results" MODIFIED="1566824917362" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Leetcode$445_Add_Two_Numbers_II.coverage" NAME="445 Add Two Numbers II Coverage Results" MODIFIED="1567025857001" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Leetcode$445_Add_Two_Numbers_II.coverage" NAME="445 Add Two Numbers II Coverage Results" MODIFIED="1567026514159" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Leetcode$189_Rotate_Array.coverage" NAME="189 Rotate Array Coverage Results" MODIFIED="1566870480891" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Leetcode$119_Pascal_s_Triangle_II.coverage" NAME="119 Pascal's Triangle II Coverage Results" MODIFIED="1566574719396" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Leetcode$Longest_Substring_Without_Repeating_Characters.coverage" NAME="Longest Substring Without Repeating Characters Coverage Results" MODIFIED="1566415805847" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -32,6 +33,7 @@
     <SUITE FILE_PATH="coverage/Leetcode$70_Climbing_Stairs.coverage" NAME="70 Climbing Stairs Coverage Results" MODIFIED="1566874551056" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Leetcode$13_Roman_to_Integer.coverage" NAME="13 Roman to Integer Coverage Results" MODIFIED="1566586884098" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Leetcode$27_Remove_Element.coverage" NAME="27 Remove Element Coverage Results" MODIFIED="1566645099483" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Leetcode$83_Remove_Duplicates_from_Sorted_List_II.coverage" NAME="83 Remove Duplicates from Sorted List II Coverage Results" MODIFIED="1567033383808" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Leetcode$169_Majority_Element.coverage" NAME="169 Majority Element Coverage Results" MODIFIED="1566828062587" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Leetcode$88_Merge_Sorted_Array.coverage" NAME="88 Merge Sorted Array Coverage Results" MODIFIED="1566686347688" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Leetcode$203_Remove_Linked_List_Elements.coverage" NAME="203 Remove Linked List Elements Coverage Results" MODIFIED="1566488731812" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -64,11 +66,29 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/445 Add Two Numbers II.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="401">
-              <caret line="51" column="18" lean-forward="true" selection-start-line="51" selection-start-column="18" selection-end-line="51" selection-end-column="18" />
+            <state relative-caret-position="994">
+              <caret line="86" selection-start-line="86" selection-end-line="93" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/82 Remove Duplicates from Sorted List II.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="402">
+              <caret line="80" column="19" lean-forward="true" selection-start-line="80" selection-start-column="19" selection-end-line="80" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/83 Remove Duplicates from Sorted List.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="9" column="19" lean-forward="true" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
             </state>
           </provider>
         </entry>
@@ -143,6 +163,8 @@
         <option value="$PROJECT_DIR$/66 Plus One.py" />
         <option value="$PROJECT_DIR$/67 Add Binary.py" />
         <option value="$PROJECT_DIR$/445 Add Two Numbers II.py" />
+        <option value="$PROJECT_DIR$/83 Remove Duplicates from Sorted List II.py" />
+        <option value="$PROJECT_DIR$/82 Remove Duplicates from Sorted List II.py" />
       </list>
     </option>
   </component>
@@ -189,29 +211,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.445 Add Two Numbers II">
-    <configuration name="189 Rotate Array" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Leetcode" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/189 Rotate Array.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.83 Remove Duplicates from Sorted List II">
     <configuration name="445 Add Two Numbers II" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Leetcode" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -300,13 +300,35 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="83 Remove Duplicates from Sorted List II" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Leetcode" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/82 Remove Duplicates from Sorted List II.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.83 Remove Duplicates from Sorted List II" />
         <item itemvalue="Python.445 Add Two Numbers II" />
         <item itemvalue="Python.67 Add Binary" />
         <item itemvalue="Python.66 Plus One" />
         <item itemvalue="Python.70 Climbing Stairs" />
-        <item itemvalue="Python.189 Rotate Array" />
       </list>
     </recent_temporary>
   </component>
@@ -323,12 +345,12 @@
       <workItem from="1566404496574" duration="11124000" />
       <workItem from="1566474229307" duration="22494000" />
       <workItem from="1566510458490" duration="18814000" />
-      <workItem from="1566634383335" duration="67731000" />
+      <workItem from="1566634383335" duration="74044000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="120163000" />
+    <option name="totallyTimeSpent" value="126476000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="7" y="23" width="748" height="876" extended-state="0" />
@@ -361,13 +383,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/83 Remove Duplicates from Sorted List.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="19" lean-forward="true" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/160 Intersection of Two Linked Lists.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="405">
@@ -602,8 +617,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/445 Add Two Numbers II.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="401">
-          <caret line="51" column="18" lean-forward="true" selection-start-line="51" selection-start-column="18" selection-end-line="51" selection-end-column="18" />
+        <state relative-caret-position="994">
+          <caret line="86" selection-start-line="86" selection-end-line="93" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/83 Remove Duplicates from Sorted List.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="19" lean-forward="true" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/82 Remove Duplicates from Sorted List II.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="402">
+          <caret line="80" column="19" lean-forward="true" selection-start-line="80" selection-start-column="19" selection-end-line="80" selection-end-column="19" />
         </state>
       </provider>
     </entry>

@@ -83,10 +83,6 @@ def addTwoNumbers(l1, l2):
     return head
 
 
-
-
-
-
 # NodeList 1
 head1 = ListNode(7)
 node2 = ListNode(2)
@@ -97,6 +93,7 @@ head1.next = node2
 node2.next = node3
 node3.next = node4
 
+# NodeList 2
 head2 = ListNode(5)
 node5 = ListNode(6)
 node6 = ListNode(4)
