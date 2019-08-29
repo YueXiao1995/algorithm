@@ -30,7 +30,6 @@ def printNodeList(node):
 
 
 def insertionSortList(head):
-    sorted_list = None
     sorted_head = None
     sorted_list_l = 0
     while head:
@@ -47,7 +46,6 @@ def insertionSortList(head):
                     new_node.next = sorted_list.next
                     sorted_list.val = head.val
                     sorted_list.next = new_node
-                    sorted_list = new_node
                     sorted_list_l += 1
                     break
                 i += 1

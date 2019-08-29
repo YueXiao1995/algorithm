@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="78a440fe-2f0d-440d-88c1-205e243682c0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/147 Insertion Sort List.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/442 Find All Duplicates in an Array.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/448 Find All Number Disappered in an Array.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/147 Insertion Sort List.py" beforeDir="false" afterPath="$PROJECT_DIR$/147 Insertion Sort List.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -22,6 +24,7 @@
     <SUITE FILE_PATH="coverage/Leetcode$14_Longest_Common_Prefix.coverage" NAME="14 Longest Common Prefix Coverage Results" MODIFIED="1566588367685" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Leetcode$206_Reverse_Linked_List.coverage" NAME="206 Reverse Linked List Coverage Results" MODIFIED="1566489756819" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Leetcode$Contest_151_1169_Invalid_Transactions.coverage" NAME="Contest_151_1169 Invalid Transactions Coverage Results" MODIFIED="1566743183733" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Leetcode$448_Find_All_Number_Disappered_in_an_Array.coverage" NAME="448 Find All Number Disappered in an Array Coverage Results" MODIFIED="1567073744026" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Leetcode$53_Maximum_Subarray.coverage" NAME="53 Maximum Subarray Coverage Results" MODIFIED="1566824917362" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Leetcode$445_Add_Two_Numbers_II.coverage" NAME="445 Add Two Numbers II Coverage Results" MODIFIED="1567026514159" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Leetcode$189_Rotate_Array.coverage" NAME="189 Rotate Array Coverage Results" MODIFIED="1566870480891" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -36,7 +39,7 @@
     <SUITE FILE_PATH="coverage/Leetcode$83_Remove_Duplicates_from_Sorted_List_II.coverage" NAME="83 Remove Duplicates from Sorted List II Coverage Results" MODIFIED="1567033383808" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Leetcode$169_Majority_Element.coverage" NAME="169 Majority Element Coverage Results" MODIFIED="1566828062587" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Leetcode$88_Merge_Sorted_Array.coverage" NAME="88 Merge Sorted Array Coverage Results" MODIFIED="1566686347688" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Leetcode$147_Insertion_Sort_List.coverage" NAME="147 Insertion Sort List Coverage Results" MODIFIED="1567043979559" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Leetcode$147_Insertion_Sort_List.coverage" NAME="147 Insertion Sort List Coverage Results" MODIFIED="1567071869533" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Leetcode$203_Remove_Linked_List_Elements.coverage" NAME="203 Remove Linked List Elements Coverage Results" MODIFIED="1566488731812" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Leetcode$122_Best_Time_to_Buy_and_Sell_Stock_II.coverage" NAME="122 Best Time to Buy and Sell Stock II Coverage Results" MODIFIED="1566781096383" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Leetcode$67_Add_Binary.coverage" NAME="67 Add Binary Coverage Results" MODIFIED="1567034257938" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -51,6 +54,7 @@
     <SUITE FILE_PATH="coverage/Leetcode$Add_Two_Numbers.coverage" NAME="Add Two Numbers Coverage Results" MODIFIED="1566410409584" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Leetcode$Two_Sum.coverage" NAME="Two Sum Coverage Results" MODIFIED="1566406444517" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Leetcode$160_Intersection_of_Two_Linked_Lists.coverage" NAME="160 Intersection of Two Linked Lists Coverage Results" MODIFIED="1566488656900" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Leetcode$442_Find_All_Duplicates_in_an_Array.coverage" NAME="442 Find All Duplicates in an Array Coverage Results" MODIFIED="1567074702904" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="DatabaseView">
     <option name="SHOW_INTERMEDIATE" value="true" />
@@ -80,17 +84,35 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/328 Odd Even Linked List.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="224">
-              <caret line="58" lean-forward="true" selection-start-line="58" selection-end-line="70" />
+            <state relative-caret-position="241">
+              <caret line="48" column="24" lean-forward="true" selection-start-line="48" selection-start-column="24" selection-end-line="48" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/147 Insertion Sort List.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="228">
+              <caret line="49" column="25" lean-forward="true" selection-start-line="49" selection-start-column="25" selection-end-line="49" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/448 Find All Number Disappered in an Array.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="88">
+              <caret line="9" column="10" lean-forward="true" selection-start-line="9" selection-start-column="10" selection-end-line="9" selection-end-column="10" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/147 Insertion Sort List.py">
+        <entry file="file://$PROJECT_DIR$/442 Find All Duplicates in an Array.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="267">
-              <caret line="61" column="22" lean-forward="true" selection-start-line="61" selection-start-column="22" selection-end-line="61" selection-end-column="22" />
+            <state relative-caret-position="240">
+              <caret line="16" selection-start-line="16" selection-end-line="25" />
             </state>
           </provider>
         </entry>
@@ -107,8 +129,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/83 Remove Duplicates from Sorted List.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="282">
-              <caret line="46" column="14" lean-forward="true" selection-start-line="46" selection-start-column="14" selection-end-line="46" selection-end-column="14" />
+            <state relative-caret-position="690">
+              <caret line="46" column="14" selection-start-line="46" selection-start-column="14" selection-end-line="46" selection-end-column="14" />
             </state>
           </provider>
         </entry>
@@ -170,6 +192,8 @@
         <option value="$PROJECT_DIR$/19 Remove Nth Node From End of List.py" />
         <option value="$PROJECT_DIR$/328 Odd Even Linked List.py" />
         <option value="$PROJECT_DIR$/147 Insertion Sort List.py" />
+        <option value="$PROJECT_DIR$/448 Find All Number Disappered in an Array.py" />
+        <option value="$PROJECT_DIR$/442 Find All Duplicates in an Array.py" />
       </list>
     </option>
   </component>
@@ -185,7 +209,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -197,6 +220,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -216,7 +240,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.147 Insertion Sort List">
+  <component name="RunManager" selected="Python.442 Find All Duplicates in an Array">
     <configuration name="147 Insertion Sort List" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Leetcode" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -283,7 +307,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="67 Add Binary" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="442 Find All Duplicates in an Array" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Leetcode" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -296,7 +320,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/67 Add Binary.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/442 Find All Duplicates in an Array.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -305,7 +329,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="83 Remove Duplicates from Sorted List II" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="448 Find All Number Disappered in an Array" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Leetcode" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -318,7 +342,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/82 Remove Duplicates from Sorted List II.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/448 Find All Number Disappered in an Array.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -329,11 +353,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.442 Find All Duplicates in an Array" />
+        <item itemvalue="Python.448 Find All Number Disappered in an Array" />
         <item itemvalue="Python.147 Insertion Sort List" />
         <item itemvalue="Python.328 Odd Even Linked List" />
         <item itemvalue="Python.19 Remove Nth Node From End of List" />
-        <item itemvalue="Python.67 Add Binary" />
-        <item itemvalue="Python.83 Remove Duplicates from Sorted List II" />
       </list>
     </recent_temporary>
   </component>
@@ -350,17 +374,19 @@
       <workItem from="1566404496574" duration="11124000" />
       <workItem from="1566474229307" duration="22494000" />
       <workItem from="1566510458490" duration="18814000" />
-      <workItem from="1566634383335" duration="84111000" />
+      <workItem from="1566634383335" duration="84556000" />
+      <workItem from="1567070187617" duration="2871000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="136543000" />
+    <option name="totallyTimeSpent" value="139859000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="7" y="23" width="748" height="876" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49772382" visible="true" weight="0.2733711" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49772382" visible="true" weight="0.28045326" />
       <window_info id="Structure" order="1" sideWeight="0.5022762" side_tool="true" weight="0.39938557" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -443,7 +469,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/136 Single Number.py" />
     <entry file="file://$PROJECT_DIR$/234 Palindrome Linked List.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
@@ -626,10 +651,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/83 Remove Duplicates from Sorted List.py">
+    <entry file="file://$PROJECT_DIR$/19 Remove Nth Node From End of List.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="282">
-          <caret line="46" column="14" lean-forward="true" selection-start-line="46" selection-start-column="14" selection-end-line="46" selection-end-column="14" />
+        <state relative-caret-position="300">
+          <caret line="20" column="15" selection-start-line="20" selection-start-column="15" selection-end-line="20" selection-end-column="15" />
         </state>
       </provider>
     </entry>
@@ -640,24 +665,38 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/19 Remove Nth Node From End of List.py">
+    <entry file="file://$PROJECT_DIR$/83 Remove Duplicates from Sorted List.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="15" selection-start-line="20" selection-start-column="15" selection-end-line="20" selection-end-column="15" />
+        <state relative-caret-position="690">
+          <caret line="46" column="14" selection-start-line="46" selection-start-column="14" selection-end-line="46" selection-end-column="14" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/328 Odd Even Linked List.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="224">
-          <caret line="58" lean-forward="true" selection-start-line="58" selection-end-line="70" />
+        <state relative-caret-position="241">
+          <caret line="48" column="24" lean-forward="true" selection-start-line="48" selection-start-column="24" selection-end-line="48" selection-end-column="24" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/147 Insertion Sort List.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="267">
-          <caret line="61" column="22" lean-forward="true" selection-start-line="61" selection-start-column="22" selection-end-line="61" selection-end-column="22" />
+        <state relative-caret-position="228">
+          <caret line="49" column="25" lean-forward="true" selection-start-line="49" selection-start-column="25" selection-end-line="49" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/448 Find All Number Disappered in an Array.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="9" column="10" lean-forward="true" selection-start-line="9" selection-start-column="10" selection-end-line="9" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/442 Find All Duplicates in an Array.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" selection-start-line="16" selection-end-line="25" />
         </state>
       </provider>
     </entry>
