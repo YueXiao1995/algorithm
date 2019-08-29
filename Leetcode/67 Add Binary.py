@@ -36,13 +36,9 @@ def addBinary(a, b):
             result.append(str(sum))
         else:
             result.append(str(sum))
-
-        print(result)
-        print(temp)
         index += 1
     if temp != 0:
         result.append(str(temp))
-
     return ('').join(reversed(result))
 
 
