@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="78a440fe-2f0d-440d-88c1-205e243682c0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/328 Odd Even Linked List.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/147 Insertion Sort List.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -36,6 +36,7 @@
     <SUITE FILE_PATH="coverage/Leetcode$83_Remove_Duplicates_from_Sorted_List_II.coverage" NAME="83 Remove Duplicates from Sorted List II Coverage Results" MODIFIED="1567033383808" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Leetcode$169_Majority_Element.coverage" NAME="169 Majority Element Coverage Results" MODIFIED="1566828062587" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Leetcode$88_Merge_Sorted_Array.coverage" NAME="88 Merge Sorted Array Coverage Results" MODIFIED="1566686347688" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Leetcode$147_Insertion_Sort_List.coverage" NAME="147 Insertion Sort List Coverage Results" MODIFIED="1567043979559" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Leetcode$203_Remove_Linked_List_Elements.coverage" NAME="203 Remove Linked List Elements Coverage Results" MODIFIED="1566488731812" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Leetcode$122_Best_Time_to_Buy_and_Sell_Stock_II.coverage" NAME="122 Best Time to Buy and Sell Stock II Coverage Results" MODIFIED="1566781096383" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Leetcode$67_Add_Binary.coverage" NAME="67 Add Binary Coverage Results" MODIFIED="1567034257938" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -76,11 +77,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/328 Odd Even Linked List.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="26" selection-start-line="26" selection-end-line="56" selection-end-column="24" />
+            <state relative-caret-position="224">
+              <caret line="58" lean-forward="true" selection-start-line="58" selection-end-line="70" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/147 Insertion Sort List.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="267">
+              <caret line="61" column="22" lean-forward="true" selection-start-line="61" selection-start-column="22" selection-end-line="61" selection-end-column="22" />
             </state>
           </provider>
         </entry>
@@ -159,6 +169,7 @@
         <option value="$PROJECT_DIR$/67 Add Binary.py" />
         <option value="$PROJECT_DIR$/19 Remove Nth Node From End of List.py" />
         <option value="$PROJECT_DIR$/328 Odd Even Linked List.py" />
+        <option value="$PROJECT_DIR$/147 Insertion Sort List.py" />
       </list>
     </option>
   </component>
@@ -205,7 +216,29 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.328 Odd Even Linked List">
+  <component name="RunManager" selected="Python.147 Insertion Sort List">
+    <configuration name="147 Insertion Sort List" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Leetcode" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/147 Insertion Sort List.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="19 Remove Nth Node From End of List" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Leetcode" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -242,28 +275,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/328 Odd Even Linked List.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="445 Add Two Numbers II" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Leetcode" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/445 Add Two Numbers II.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -318,11 +329,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.147 Insertion Sort List" />
         <item itemvalue="Python.328 Odd Even Linked List" />
         <item itemvalue="Python.19 Remove Nth Node From End of List" />
         <item itemvalue="Python.67 Add Binary" />
         <item itemvalue="Python.83 Remove Duplicates from Sorted List II" />
-        <item itemvalue="Python.445 Add Two Numbers II" />
       </list>
     </recent_temporary>
   </component>
@@ -339,16 +350,15 @@
       <workItem from="1566404496574" duration="11124000" />
       <workItem from="1566474229307" duration="22494000" />
       <workItem from="1566510458490" duration="18814000" />
-      <workItem from="1566634383335" duration="79811000" />
+      <workItem from="1566634383335" duration="84111000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="132243000" />
+    <option name="totallyTimeSpent" value="136543000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="7" y="23" width="748" height="876" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49772382" visible="true" weight="0.2733711" />
       <window_info id="Structure" order="1" sideWeight="0.5022762" side_tool="true" weight="0.39938557" />
@@ -639,8 +649,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/328 Odd Even Linked List.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="26" selection-start-line="26" selection-end-line="56" selection-end-column="24" />
+        <state relative-caret-position="224">
+          <caret line="58" lean-forward="true" selection-start-line="58" selection-end-line="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/147 Insertion Sort List.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="267">
+          <caret line="61" column="22" lean-forward="true" selection-start-line="61" selection-start-column="22" selection-end-line="61" selection-end-column="22" />
         </state>
       </provider>
     </entry>
