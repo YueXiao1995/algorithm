@@ -26,8 +26,6 @@ def moveZeroes(nums):
             temp_l += 1
     return nums
 
-
-
 input = [0,1,0,3,12]
 input2 = [0, 0, 1]
 print(moveZeroes(input2))
