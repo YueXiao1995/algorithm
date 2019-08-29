@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="78a440fe-2f0d-440d-88c1-205e243682c0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/442 Find All Duplicates in an Array.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/448 Find All Number Disappered in an Array.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/283 Move Zeroes.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/147 Insertion Sort List.py" beforeDir="false" afterPath="$PROJECT_DIR$/147 Insertion Sort List.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -16,6 +14,7 @@
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/Leetcode$19_Remove_Nth_Node_From_End_of_List.coverage" NAME="19 Remove Nth Node From End of List Coverage Results" MODIFIED="1567038949053" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Leetcode$121_Best_Time_to_Buy_and_Sell_Stock.coverage" NAME="121 Best Time to Buy and Sell Stock Coverage Results" MODIFIED="1566779150777" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Leetcode$283_Move_Zeroes.coverage" NAME="283 Move Zeroes Coverage Results" MODIFIED="1567075964975" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Leetcode$66_Plus_One.coverage" NAME="66 Plus One Coverage Results" MODIFIED="1567020138324" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Leetcode$707_Design_Linked_List.coverage" NAME="707 Design Linked List Coverage Results" MODIFIED="1566503927877" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Leetcode$237_Delete_Node_in_a_Linked_List.coverage" NAME="237 Delete Node in a Linked List Coverage Results" MODIFIED="1566494518549" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -108,11 +107,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/442 Find All Duplicates in an Array.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="16" selection-start-line="16" selection-end-line="25" />
+            <state relative-caret-position="30">
+              <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/283 Move Zeroes.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="12" selection-start-line="12" selection-end-line="27" selection-end-column="15" />
             </state>
           </provider>
         </entry>
@@ -194,6 +202,7 @@
         <option value="$PROJECT_DIR$/147 Insertion Sort List.py" />
         <option value="$PROJECT_DIR$/448 Find All Number Disappered in an Array.py" />
         <option value="$PROJECT_DIR$/442 Find All Duplicates in an Array.py" />
+        <option value="$PROJECT_DIR$/283 Move Zeroes.py" />
       </list>
     </option>
   </component>
@@ -240,7 +249,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.442 Find All Duplicates in an Array">
+  <component name="RunManager" selected="Python.283 Move Zeroes">
     <configuration name="147 Insertion Sort List" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Leetcode" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -263,7 +272,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="19 Remove Nth Node From End of List" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="283 Move Zeroes" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Leetcode" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -276,7 +285,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/19 Remove Nth Node From End of List.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/283 Move Zeroes.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -353,11 +362,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.283 Move Zeroes" />
         <item itemvalue="Python.442 Find All Duplicates in an Array" />
         <item itemvalue="Python.448 Find All Number Disappered in an Array" />
         <item itemvalue="Python.147 Insertion Sort List" />
         <item itemvalue="Python.328 Odd Even Linked List" />
-        <item itemvalue="Python.19 Remove Nth Node From End of List" />
       </list>
     </recent_temporary>
   </component>
@@ -375,12 +384,12 @@
       <workItem from="1566474229307" duration="22494000" />
       <workItem from="1566510458490" duration="18814000" />
       <workItem from="1566634383335" duration="84556000" />
-      <workItem from="1567070187617" duration="2871000" />
+      <workItem from="1567070187617" duration="3902000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="139859000" />
+    <option name="totallyTimeSpent" value="140890000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="7" y="23" width="748" height="876" extended-state="0" />
@@ -695,8 +704,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/442 Find All Duplicates in an Array.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" selection-start-line="16" selection-end-line="25" />
+        <state relative-caret-position="30">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/283 Move Zeroes.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" selection-start-line="12" selection-end-line="27" selection-end-column="15" />
         </state>
       </provider>
     </entry>
