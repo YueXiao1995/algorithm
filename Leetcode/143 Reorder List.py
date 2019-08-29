@@ -39,11 +39,9 @@ def reorderList(head):
     else:
         l = int(round(l / 2 - 0.5))
         isodd = True
-    print(l)
     head = None
     last_node = None
     for i in range(0, l):
-        print(i)
         if head != None:
             last_node.next = nodelist[i]
             nodelist[i].next = nodelist[-i-1]
@@ -67,7 +65,7 @@ node2 = ListNode(2)
 node3 = ListNode(3)
 node4 = ListNode(4)
 
-#head.next = node2
+head.next = node2
 node2.next = node3
 node3.next = node4
 
