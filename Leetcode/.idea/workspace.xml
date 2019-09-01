@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="78a440fe-2f0d-440d-88c1-205e243682c0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/999 Available Captures for Rook.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/89 Gray Code.py" beforeDir="false" afterPath="$PROJECT_DIR$/89 Gray Code.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1018 Binary Prefix Divisible By 5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/414 Third Maximum Number.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -40,6 +41,7 @@
     <SUITE FILE_PATH="coverage/Leetcode$19_Remove_Nth_Node_From_End_of_List.coverage" NAME="19 Remove Nth Node From End of List Coverage Results" MODIFIED="1567038949053" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Leetcode$121_Best_Time_to_Buy_and_Sell_Stock.coverage" NAME="121 Best Time to Buy and Sell Stock Coverage Results" MODIFIED="1566779150777" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Leetcode$989_Add_to_Array_Form_of_Integer.coverage" NAME="989 Add to Array-Form of Integer Coverage Results" MODIFIED="1567334877999" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Leetcode$414_Third_Maximum_Number.coverage" NAME="414 Third Maximum Number Coverage Results" MODIFIED="1567341319273" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Leetcode$66_Plus_One.coverage" NAME="66 Plus One Coverage Results" MODIFIED="1567020138324" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Leetcode$725_Split_Linked_List_in_Parts.coverage" NAME="725 Split Linked List in Parts Coverage Results" MODIFIED="1567175469258" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Leetcode$707_Design_Linked_List.coverage" NAME="707 Design Linked List Coverage Results" MODIFIED="1566503927877" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -60,6 +62,7 @@
     <SUITE FILE_PATH="coverage/Leetcode$88_Merge_Sorted_Array.coverage" NAME="88 Merge Sorted Array Coverage Results" MODIFIED="1566686347688" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Leetcode$147_Insertion_Sort_List.coverage" NAME="147 Insertion Sort List Coverage Results" MODIFIED="1567071869533" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Leetcode$89_Gray_Code.coverage" NAME="89 Gray Code Coverage Results" MODIFIED="1567335776815" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Leetcode$1018_Binary_Prefix_Divisible_By_5.coverage" NAME="1018 Binary Prefix Divisible By 5 Coverage Results" MODIFIED="1567339361998" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Leetcode$203_Remove_Linked_List_Elements.coverage" NAME="203 Remove Linked List Elements Coverage Results" MODIFIED="1566488731812" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Leetcode$67_Add_Binary.coverage" NAME="67 Add Binary Coverage Results" MODIFIED="1567034257938" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Leetcode$581_Shortest_Unsorted_Continuous_Subarray.coverage" NAME="581 Shortest Unsorted Continuous Subarray Coverage Results" MODIFIED="1567095986704" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -88,37 +91,19 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/674 Longest Continuous Increasing Subsequence.py">
+        <entry file="file://$PROJECT_DIR$/1018 Binary Prefix Divisible By 5.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="147">
-              <caret line="19" column="22" lean-forward="true" selection-start-line="19" selection-start-column="22" selection-end-line="19" selection-end-column="22" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/717 1-bit and 2-bit Characters.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="57">
-              <caret line="17" column="4" selection-start-line="17" selection-start-column="4" selection-end-line="17" selection-end-column="4" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/89 Gray Code.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="447">
-              <caret line="65" lean-forward="true" selection-start-line="65" selection-end-line="65" />
+            <state relative-caret-position="105">
+              <caret line="45" column="9" selection-start-line="45" selection-start-column="9" selection-end-line="45" selection-end-column="9" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/999 Available Captures for Rook.py">
+        <entry file="file://$PROJECT_DIR$/414 Third Maximum Number.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="313">
-              <caret line="25" column="36" lean-forward="true" selection-start-line="25" selection-start-column="36" selection-end-line="25" selection-end-column="36" />
+            <state relative-caret-position="317">
+              <caret line="33" column="24" lean-forward="true" selection-start-line="33" selection-start-column="24" selection-end-line="33" selection-end-column="24" />
             </state>
           </provider>
         </entry>
@@ -138,8 +123,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/160 Intersection of Two Linked Lists.py" />
-        <option value="$PROJECT_DIR$/203 Remove Linked List Elements.py" />
         <option value="$PROJECT_DIR$/206 Reverse Linked List.py" />
         <option value="$PROJECT_DIR$/234 Palindrome Linked List.py" />
         <option value="$PROJECT_DIR$/237 Delete Node in a Linked List.py" />
@@ -189,6 +172,8 @@
         <option value="$PROJECT_DIR$/989 Add to Array-Form of Integer.py" />
         <option value="$PROJECT_DIR$/89 Gray Code.py" />
         <option value="$PROJECT_DIR$/999 Available Captures for Rook.py" />
+        <option value="$PROJECT_DIR$/1018 Binary Prefix Divisible By 5.py" />
+        <option value="$PROJECT_DIR$/414 Third Maximum Number.py" />
       </list>
     </option>
   </component>
@@ -235,8 +220,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.999 Available Captures for Rook">
-    <configuration name="674 Longest Continuous Increasing Subsequence" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.414 Third Maximum Number">
+    <configuration name="1018 Binary Prefix Divisible By 5" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Leetcode" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -249,7 +234,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/674 Longest Continuous Increasing Subsequence.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1018 Binary Prefix Divisible By 5.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -258,7 +243,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="717 1-bit and 2-bit Characters" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="414 Third Maximum Number" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Leetcode" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -271,7 +256,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/717 1-bit and 2-bit Characters.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/414 Third Maximum Number.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -348,11 +333,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.414 Third Maximum Number" />
+        <item itemvalue="Python.1018 Binary Prefix Divisible By 5" />
         <item itemvalue="Python.999 Available Captures for Rook" />
         <item itemvalue="Python.89 Gray Code" />
         <item itemvalue="Python.989 Add to Array-Form of Integer" />
-        <item itemvalue="Python.717 1-bit and 2-bit Characters" />
-        <item itemvalue="Python.674 Longest Continuous Increasing Subsequence" />
       </list>
     </recent_temporary>
   </component>
@@ -370,12 +355,12 @@
       <workItem from="1566474229307" duration="22494000" />
       <workItem from="1566510458490" duration="18814000" />
       <workItem from="1566634383335" duration="84556000" />
-      <workItem from="1567070187617" duration="38294000" />
+      <workItem from="1567070187617" duration="42328000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="175282000" />
+    <option name="totallyTimeSpent" value="179316000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="20" y="23" width="748" height="876" extended-state="0" />
@@ -408,20 +393,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/141 Linked List Cycle.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="675">
-          <caret line="45" column="19" selection-start-line="45" selection-start-column="19" selection-end-line="45" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/119 Pascal's Triangle II.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="6" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/707 Design Linked List.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="266">
@@ -730,20 +701,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/717 1-bit and 2-bit Characters.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="17" column="4" selection-start-line="17" selection-start-column="4" selection-end-line="17" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/674 Longest Continuous Increasing Subsequence.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="147">
-          <caret line="19" column="22" lean-forward="true" selection-start-line="19" selection-start-column="22" selection-end-line="19" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/989 Add to Array-Form of Integer.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="162">
@@ -758,10 +715,38 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/717 1-bit and 2-bit Characters.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="30" column="24" lean-forward="true" selection-start-line="30" selection-start-column="24" selection-end-line="30" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/674 Longest Continuous Increasing Subsequence.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="19" column="22" lean-forward="true" selection-start-line="19" selection-start-column="22" selection-end-line="19" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/999 Available Captures for Rook.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="313">
-          <caret line="25" column="36" lean-forward="true" selection-start-line="25" selection-start-column="36" selection-end-line="25" selection-end-column="36" />
+        <state relative-caret-position="225">
+          <caret line="15" column="26" lean-forward="true" selection-start-line="15" selection-start-column="26" selection-end-line="15" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1018 Binary Prefix Divisible By 5.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="45" column="9" selection-start-line="45" selection-start-column="9" selection-end-line="45" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/414 Third Maximum Number.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="317">
+          <caret line="33" column="24" lean-forward="true" selection-start-line="33" selection-start-column="24" selection-end-line="33" selection-end-column="24" />
         </state>
       </provider>
     </entry>
