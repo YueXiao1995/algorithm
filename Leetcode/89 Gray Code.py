@@ -33,12 +33,9 @@ def grayCode(n):
     graycode = list()
     last_code = [0] * n
     graycode.append(last_code)
-    print("last code: " + str(last_code))
-    print(graycode)
     l = 1
     for i in range(n):
         l *= 2
-    print(l)
     for i in range(1, l):
         newcode = list(last_code)
         if i % 2 != 0:
@@ -48,7 +45,6 @@ def grayCode(n):
                 newcode[-1] = 1
         else:
             for j in reversed(range(n)):
-                print(j)
                 if newcode[j] == 1:
                     if newcode[j - 1] == 1:
                         newcode[j - 1] = 0
@@ -57,9 +53,6 @@ def grayCode(n):
                     break
         graycode.append(newcode)
         last_code = newcode
-        print(graycode)
-    print(len(graycode))
-
     result = list()
     for code in graycode:
         newcode = 0
