@@ -28,6 +28,5 @@ def reverseString(s):
 
     return s
 
-print(round(2))
 input = ["h","e","l","l","o"]
 print(reverseString(input))
