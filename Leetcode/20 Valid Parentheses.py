@@ -29,85 +29,83 @@ Example 5:
     Output: true
 """
 
-
+"""
 def isValid(s):
+    # store the string into a list
+    s = list(s)
+    # get the length of the list
     l = len(s)
-    if l == 0:
-        return True
-    if l%2 != 0:
-        return False
-    else:
-        isValid = True
-        # find all of the aixs
-        aixs = 0
-        index = 0
-        bound = 0
-        is_aixs_changed = False
-        while(index - bound < (l-bound)/2):
-            print(index)
-            if s[index] == '(':
-                if s[index+1] == ')':
-                    aixs = index
-                    is_aixs_changed = True
-                    for j in range(0, aixs-bound +1):
-                        if s[index-j] == '(':
-                            if s[index+1+j] != ')':
-                                return  False
-                        elif s[index-j] == '{':
-                            if s[index+1+j] != '}':
-                                return False
-                        elif s[index-j] == '[':
-                            if s[index+1+j] != ']':
-                                return False
-                    index = (aixs + 1) * 2
-                    bound = index
-                else:
-                    index += 1
-            elif s[index] == '[':
-                if s[index+1] == ']':
-                    aixs = index
-                    is_aixs_changed = True
-                    for j in range(0, aixs-bound +1):
-                        print(j)
-                        if s[index-j] == '(':
-                            if s[index+1+j] != ')':
-                                return  False
-                        elif s[index-j] == '{':
-                            if s[index+1+j] != '}':
-                                return False
-                        elif s[index-j] == '[':
-                            if s[index+1+j] != ']':
-                                return False
-                    index = (aixs + 1) * 2
-                    bound = index
-                else:
-                    index += 1
-            elif s[index] == '{':
-                if s[index + 1] == '}':
-                    aixs = index
-                    is_aixs_changed = True
-                    for j in range(0, aixs-bound +1):
-                        if s[index - j] == '(':
-                            if s[index + 1 + j] != ')':
-                                return False
-                        elif s[index - j] == '{':
-                            if s[index + 1 + j] != '}':
-                                return False
-                        elif s[index - j] == '[':
-                            if s[index + 1 + j] != ']':
-                                return False
-                    index = (aixs + 1) * 2
-                    bound = index
-                else:
-                    index += 1
+    # set to True to begin the loop
+    is_Valid_found = True
+    # if didn't find any valid pairs like '()' or '[]' or '{}', end the loop
+    while is_Valid_found:
+        # set to False, if do find, change it to True
+        is_Valid_found = False
+        # find the '()' or '[]' or '{}', and delete them
+        i = 0
+        while i < l - 1:
+            isValid = False
+            if (s[i] == '(' and s[i+1] == ')') or (s[i] == '{' and s[i + 1] == '}') or (s[i] == '[' and s[i + 1] == ']'):
+                isValid = True
+            if isValid:
+                is_Valid_found = True
+                # delete them from s, and decrease the l by 2, and break the loop
+                del s[i]
+                del s[i]
+                l -= 2
+                break
             else:
-                return False
-        if is_aixs_changed != False:
-            return isValid
-        else:
-            return False
+                i += 1 # increase the index by one
+
+    # check the s is empty now, the original string is valid
+    if len(s) == 0:
+        return True
+    else:
+        return False
+"""
+
+# This method is ten time faster. When finding the valid, instead of iterating from the first to the last element,
+# this method find a first valid pair and delete them, then step back 1 position to find the valid pairs
+def isValid(s):
+    # store the string into a list
+    s = list(s)
+    # get the length of the list
+    l = len(s)
+    # set to True to begin the loop
+    is_Valid_found = True
+    # if didn't find any valid pairs like '()' or '[]' or '{}', end the loop
+    while is_Valid_found:
+        # set to False, if do find, change it to True
+        is_Valid_found = False
+        # find the '()' or '[]' or '{}', and delete them
+        i = 0
+        while i < l - 1:
+            isValid = False
+            if (s[i] == '(' and s[i+1] == ')') or (s[i] == '{' and s[i + 1] == '}') or (s[i] == '[' and s[i + 1] == ']'):
+                isValid = True
+            if isValid:
+                is_Valid_found = True
+                # delete them from s, and decrease the l by 2, and break the loop
+                del s[i]
+                del s[i]
+                l -= 2
+                i -= 1
+            else:
+                i += 1 # increase the index by one
+
+    # check the s is empty now, the original string is valid
+    if len(s) == 0:
+        return True
+    else:
+        return False
 
 
-input = "()[]{}"
-print(isValid(input))
+
+input1 = "()"
+input2 = "()[]{}"
+input3 = "(]"
+input4 = "([)]"
+input5 = "{[]}"
+input6 = "{[()][][()]}"
+print(isValid(input4))
 
