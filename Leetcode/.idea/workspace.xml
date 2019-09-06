@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="78a440fe-2f0d-440d-88c1-205e243682c0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/1051 Height Checker.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1160 Find Words That Can Be Formed by Characters.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/661 Image Smoother.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/832 Flipping an Image.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/532 K-diff Pairs in an Array.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/747 Largest Number At Least Twice of Others.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -35,6 +33,7 @@
     <SUITE FILE_PATH="coverage/Leetcode$83_Remove_Duplicates_from_Sorted_List_II.coverage" NAME="83 Remove Duplicates from Sorted List II Coverage Results" MODIFIED="1567033383808" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Leetcode$1002_Find_Common_Characters.coverage" NAME="1002 Find Common Characters Coverage Results" MODIFIED="1567604902312" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Leetcode$697_Degree_of_an_Array.coverage" NAME="697 Degree of an Array Coverage Results" MODIFIED="1567421544566" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Leetcode$532_K_diff_Pairs_in_an_Array.coverage" NAME="532 K-diff Pairs in an Array Coverage Results" MODIFIED="1567772307914" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Leetcode$220_Contains_Duplicate_III.coverage" NAME="220 Contains Duplicate III Coverage Results" MODIFIED="1567515361581" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Leetcode$122_Best_Time_to_Buy_and_Sell_Stock_II.coverage" NAME="122 Best Time to Buy and Sell Stock II Coverage Results" MODIFIED="1566781096383" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Leetcode$1170_Compare_Strings_by_Frequency_of_the_Smallest_Character.coverage" NAME="1170 Compare Strings by Frequency of the Smallest Character Coverage Results" MODIFIED="1567372480953" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -72,6 +71,7 @@
     <SUITE FILE_PATH="coverage/Leetcode$70_Climbing_Stairs.coverage" NAME="70 Climbing Stairs Coverage Results" MODIFIED="1566874551056" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Leetcode$61_Rotate_List.coverage" NAME="61 Rotate List Coverage Results" MODIFIED="1567176673487" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Leetcode$724_Find_Pivot_index.coverage" NAME="724 Find Pivot index Coverage Results" MODIFIED="1567607285370" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Leetcode$747_Largest_Number_At_Least_Twice_of_Others.coverage" NAME="747 Largest Number At Least Twice of Others Coverage Results" MODIFIED="1567774466535" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Leetcode$605_Can_Place_Flowers.coverage" NAME="605 Can Place Flowers Coverage Results" MODIFIED="1567358702220" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Leetcode$169_Majority_Element.coverage" NAME="169 Majority Element Coverage Results" MODIFIED="1566828062587" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Leetcode$88_Merge_Sorted_Array.coverage" NAME="88 Merge Sorted Array Coverage Results" MODIFIED="1566686347688" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -113,30 +113,30 @@
     <favorites_list name="Leetcode" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/888 Fair Candy Swap.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="367">
+            <state relative-caret-position="1215">
               <caret line="81" column="17" selection-start-line="81" selection-start-column="17" selection-end-line="81" selection-end-column="17" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/1002 Find Common Characters.py">
+        <entry file="file://$PROJECT_DIR$/532 K-diff Pairs in an Array.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="312">
-              <caret line="31" column="5" selection-start-line="31" selection-start-column="5" selection-end-line="35" selection-end-column="29" />
+            <state relative-caret-position="390">
+              <caret line="67" column="23" selection-start-line="67" selection-start-column="23" selection-end-line="67" selection-end-column="23" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/661 Image Smoother.py">
+        <entry file="file://$PROJECT_DIR$/747 Largest Number At Least Twice of Others.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="372">
-              <caret line="54" column="33" selection-start-line="54" selection-start-column="33" selection-end-line="54" selection-end-column="33" />
+            <state relative-caret-position="148">
+              <caret line="36" column="25" lean-forward="true" selection-start-line="36" selection-start-column="25" selection-end-line="36" selection-end-column="25" />
             </state>
           </provider>
         </entry>
@@ -156,8 +156,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/70 Climbing Stairs.py" />
-        <option value="$PROJECT_DIR$/66 Plus One.py" />
         <option value="$PROJECT_DIR$/445 Add Two Numbers II.py" />
         <option value="$PROJECT_DIR$/83 Remove Duplicates from Sorted List II.py" />
         <option value="$PROJECT_DIR$/82 Remove Duplicates from Sorted List II.py" />
@@ -207,6 +205,8 @@
         <option value="$PROJECT_DIR$/832 Flipping an Image.py" />
         <option value="$PROJECT_DIR$/1051 Height Checker.py" />
         <option value="$PROJECT_DIR$/661 Image Smoother.py" />
+        <option value="$PROJECT_DIR$/532 K-diff Pairs in an Array.py" />
+        <option value="$PROJECT_DIR$/747 Largest Number At Least Twice of Others.py" />
       </list>
     </option>
   </component>
@@ -221,8 +221,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -242,7 +242,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.661 Image Smoother">
+  <component name="RunManager" selected="Python.747 Largest Number At Least Twice of Others">
     <configuration name="1051 Height Checker" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Leetcode" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -265,7 +265,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="1160 Find Words That Can Be Formed by Characters" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="532 K-diff Pairs in an Array" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Leetcode" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -278,7 +278,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1160 Find Words That Can Be Formed by Characters.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/532 K-diff Pairs in an Array.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -309,7 +309,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="724 Find Pivot index" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="747 Largest Number At Least Twice of Others" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Leetcode" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -322,7 +322,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/724 Find Pivot index.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/747 Largest Number At Least Twice of Others.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -355,11 +355,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.747 Largest Number At Least Twice of Others" />
+        <item itemvalue="Python.532 K-diff Pairs in an Array" />
         <item itemvalue="Python.661 Image Smoother" />
         <item itemvalue="Python.1051 Height Checker" />
         <item itemvalue="Python.832 Flipping an Image" />
-        <item itemvalue="Python.1160 Find Words That Can Be Formed by Characters" />
-        <item itemvalue="Python.724 Find Pivot index" />
       </list>
     </recent_temporary>
   </component>
@@ -383,18 +383,19 @@
       <workItem from="1567529646946" duration="138000" />
       <workItem from="1567530039232" duration="5478000" />
       <workItem from="1567589341819" duration="4256000" />
-      <workItem from="1567600226070" duration="14367000" />
+      <workItem from="1567600226070" duration="14626000" />
+      <workItem from="1567768372140" duration="6120000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="236352000" />
+    <option name="totallyTimeSpent" value="242731000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="748" height="876" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.8816388" visible="true" weight="0.30736545" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.8816388" visible="true" weight="0.17422096" />
       <window_info id="Structure" order="1" sideWeight="0.11836115" side_tool="true" weight="0.15580736" />
       <window_info id="Favorites" order="2" sideWeight="0.11836115" side_tool="true" weight="0.15580736" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -421,20 +422,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/83 Remove Duplicates from Sorted List.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="690">
-          <caret line="46" column="14" selection-start-line="46" selection-start-column="14" selection-end-line="46" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/328 Odd Even Linked List.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="241">
-          <caret line="48" column="24" lean-forward="true" selection-start-line="48" selection-start-column="24" selection-end-line="48" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$USER_HOME$/Library/Caches/PyCharm2018.3/python_stubs/-1647530584/builtins.py" />
     <entry file="file://$PROJECT_DIR$/581 Shortest Unsorted Continuous Subarray.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -719,24 +706,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/888 Fair Candy Swap.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="367">
-          <caret line="81" column="17" selection-start-line="81" selection-start-column="17" selection-end-line="81" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/724 Find Pivot index.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="297">
           <caret line="61" column="27" selection-start-line="61" selection-start-column="27" selection-end-line="61" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1002 Find Common Characters.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="312">
-          <caret line="31" column="5" selection-start-line="31" selection-start-column="5" selection-end-line="35" selection-end-column="29" />
         </state>
       </provider>
     </entry>
@@ -761,10 +734,38 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/888 Fair Candy Swap.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1215">
+          <caret line="81" column="17" selection-start-line="81" selection-start-column="17" selection-end-line="81" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1002 Find Common Characters.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="31" column="5" selection-start-line="31" selection-start-column="5" selection-end-line="35" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/661 Image Smoother.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="372">
-          <caret line="54" column="33" selection-start-line="54" selection-start-column="33" selection-end-line="54" selection-end-column="33" />
+        <state relative-caret-position="120">
+          <caret line="8" column="9" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/532 K-diff Pairs in an Array.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="67" column="23" selection-start-line="67" selection-start-column="23" selection-end-line="67" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/747 Largest Number At Least Twice of Others.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="148">
+          <caret line="36" column="25" lean-forward="true" selection-start-line="36" selection-start-column="25" selection-end-line="36" selection-end-column="25" />
         </state>
       </provider>
     </entry>
