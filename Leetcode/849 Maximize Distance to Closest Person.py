@@ -74,28 +74,32 @@ def maxDistToClosest(seats):
 """
 
 def maxDistToClosest(seats):
+    # variable to record the max distance
     max_distance = 0
-    occupied_seat = list()
-
+    # variable to record the position of last occupied seat
     last_occ_seat = None
+    # iterate the seats list
     for i in range(0, len(seats)):
+        # if the seat is occupied
         if seats[i] == 1:
-            occupied_seat.append(i)
+            # if it is the first occupied seat, the temporary max distance is i - 0
             if last_occ_seat == None:
                 l = i
-                print("jjj")
+            # else the temporary max distance is  floor(this seat - last occupied seat / 2)
             else:
                 l = (i - last_occ_seat)//2
+            # update the max distance
             if l > max_distance:
                 max_distance = l
+            # update the position of last occupied seat
             last_occ_seat = i
-
+        # if reached the end of seats list but the last seats is not occupied, need to calculate the
+        # distance between last occupied seat and the end of the list
         if i == len(seats) - 1:
             l = len(seats) - last_occ_seat - 1
+            # update the max distance
             if l > max_distance:
                 max_distance = l
-
-    print(occupied_seat)
     return max_distance
 input1 = [1,0,0,0,1,0,1]
 input2 = [1,0,0,0]
