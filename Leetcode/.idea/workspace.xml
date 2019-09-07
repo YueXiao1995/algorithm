@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="78a440fe-2f0d-440d-88c1-205e243682c0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/532 K-diff Pairs in an Array.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/747 Largest Number At Least Twice of Others.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/840 Magic Squares In Grid.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -33,6 +32,7 @@
     <SUITE FILE_PATH="coverage/Leetcode$83_Remove_Duplicates_from_Sorted_List_II.coverage" NAME="83 Remove Duplicates from Sorted List II Coverage Results" MODIFIED="1567033383808" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Leetcode$1002_Find_Common_Characters.coverage" NAME="1002 Find Common Characters Coverage Results" MODIFIED="1567604902312" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Leetcode$697_Degree_of_an_Array.coverage" NAME="697 Degree of an Array Coverage Results" MODIFIED="1567421544566" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Leetcode$840_Magic_Squares_In_Grid.coverage" NAME="840 Magic Squares In Grid Coverage Results" MODIFIED="1567852290785" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Leetcode$532_K_diff_Pairs_in_an_Array.coverage" NAME="532 K-diff Pairs in an Array Coverage Results" MODIFIED="1567772307914" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Leetcode$220_Contains_Duplicate_III.coverage" NAME="220 Contains Duplicate III Coverage Results" MODIFIED="1567515361581" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Leetcode$122_Best_Time_to_Buy_and_Sell_Stock_II.coverage" NAME="122 Best Time to Buy and Sell Stock II Coverage Results" MODIFIED="1566781096383" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -115,30 +115,26 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/888 Fair Candy Swap.py">
+        <entry file="file://$PROJECT_DIR$/725 Split Linked List in Parts.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1215">
-              <caret line="81" column="17" selection-start-line="81" selection-start-column="17" selection-end-line="81" selection-end-column="17" />
+            <state relative-caret-position="1170">
+              <caret line="78" column="6" selection-start-line="78" selection-start-column="6" selection-end-line="78" selection-end-column="6" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/532 K-diff Pairs in an Array.py">
+        <entry file="file://$PROJECT_DIR$/840 Magic Squares In Grid.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="390">
-              <caret line="67" column="23" selection-start-line="67" selection-start-column="23" selection-end-line="67" selection-end-column="23" />
+            <state relative-caret-position="300">
+              <caret line="88" column="24" selection-start-line="88" selection-start-column="24" selection-end-line="88" selection-end-column="24" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/747 Largest Number At Least Twice of Others.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="148">
-              <caret line="36" column="25" lean-forward="true" selection-start-line="36" selection-start-column="25" selection-end-line="36" selection-end-column="25" />
-            </state>
-          </provider>
+        <entry file="file://$PROJECT_DIR$/849 Maximize Distance to Closest Person.py">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -156,8 +152,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/445 Add Two Numbers II.py" />
-        <option value="$PROJECT_DIR$/83 Remove Duplicates from Sorted List II.py" />
         <option value="$PROJECT_DIR$/82 Remove Duplicates from Sorted List II.py" />
         <option value="$PROJECT_DIR$/67 Add Binary.py" />
         <option value="$PROJECT_DIR$/19 Remove Nth Node From End of List.py" />
@@ -207,6 +201,8 @@
         <option value="$PROJECT_DIR$/661 Image Smoother.py" />
         <option value="$PROJECT_DIR$/532 K-diff Pairs in an Array.py" />
         <option value="$PROJECT_DIR$/747 Largest Number At Least Twice of Others.py" />
+        <option value="$PROJECT_DIR$/840 Magic Squares In Grid.py" />
+        <option value="$PROJECT_DIR$/849 Maximize Distance to Closest Person.py" />
       </list>
     </option>
   </component>
@@ -221,8 +217,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane" />
       <pane id="Scope" />
+      <pane id="ProjectPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -242,7 +238,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.747 Largest Number At Least Twice of Others">
+  <component name="RunManager" selected="Python.840 Magic Squares In Grid">
     <configuration name="1051 Height Checker" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Leetcode" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -331,20 +327,20 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="832 Flipping an Image" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="840 Magic Squares In Grid" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Leetcode" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="$USER_HOME$/anaconda3/bin/python" />
+      <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="false" />
+      <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/832 Flipping an Image.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/840 Magic Squares In Grid.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -355,11 +351,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.840 Magic Squares In Grid" />
         <item itemvalue="Python.747 Largest Number At Least Twice of Others" />
         <item itemvalue="Python.532 K-diff Pairs in an Array" />
         <item itemvalue="Python.661 Image Smoother" />
         <item itemvalue="Python.1051 Height Checker" />
-        <item itemvalue="Python.832 Flipping an Image" />
       </list>
     </recent_temporary>
   </component>
@@ -384,18 +380,18 @@
       <workItem from="1567530039232" duration="5478000" />
       <workItem from="1567589341819" duration="4256000" />
       <workItem from="1567600226070" duration="14626000" />
-      <workItem from="1567768372140" duration="6120000" />
+      <workItem from="1567768372140" duration="6438000" />
+      <workItem from="1567848677053" duration="3729000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="242731000" />
+    <option name="totallyTimeSpent" value="246778000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="748" height="876" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.8816388" visible="true" weight="0.17422096" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.8816388" visible="true" weight="0.17847025" />
       <window_info id="Structure" order="1" sideWeight="0.11836115" side_tool="true" weight="0.15580736" />
       <window_info id="Favorites" order="2" sideWeight="0.11836115" side_tool="true" weight="0.15580736" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -422,14 +418,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$USER_HOME$/Library/Caches/PyCharm2018.3/python_stubs/-1647530584/builtins.py" />
-    <entry file="file://$PROJECT_DIR$/581 Shortest Unsorted Continuous Subarray.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="3" lean-forward="true" selection-start-line="13" selection-start-column="3" selection-end-line="13" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/67 Add Binary.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
@@ -476,13 +464,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="375">
           <caret line="27" column="12" lean-forward="true" selection-start-line="27" selection-start-column="12" selection-end-line="27" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/725 Split Linked List in Parts.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="293">
-          <caret line="85" lean-forward="true" selection-start-line="85" selection-end-line="97" />
         </state>
       </provider>
     </entry>
@@ -734,13 +715,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/888 Fair Candy Swap.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1215">
-          <caret line="81" column="17" selection-start-line="81" selection-start-column="17" selection-end-line="81" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/1002 Find Common Characters.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="465">
@@ -764,10 +738,34 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/747 Largest Number At Least Twice of Others.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="148">
-          <caret line="36" column="25" lean-forward="true" selection-start-line="36" selection-start-column="25" selection-end-line="36" selection-end-column="25" />
+        <state relative-caret-position="328">
+          <caret line="48" column="21" lean-forward="true" selection-start-line="48" selection-start-column="21" selection-end-line="48" selection-end-column="21" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/888 Fair Candy Swap.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="367">
+          <caret line="81" column="17" selection-start-line="81" selection-start-column="17" selection-end-line="81" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/725 Split Linked List in Parts.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1170">
+          <caret line="78" column="6" selection-start-line="78" selection-start-column="6" selection-end-line="78" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/840 Magic Squares In Grid.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="88" column="24" selection-start-line="88" selection-start-column="24" selection-end-line="88" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/849 Maximize Distance to Closest Person.py">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
 </project>
