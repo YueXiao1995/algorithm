@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="78a440fe-2f0d-440d-88c1-205e243682c0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/766 Toeplitz Matrix.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/830 Positions of Large Groups.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -24,13 +23,14 @@
     <SUITE FILE_PATH="coverage/Leetcode$206_Reverse_Linked_List.coverage" NAME="206 Reverse Linked List Coverage Results" MODIFIED="1566489756819" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Leetcode$1051_Height_Checker.coverage" NAME="1051 Height Checker Coverage Results" MODIFIED="1567688369834" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Leetcode$674_Longest_Continuous_Increasing_Subsequence.coverage" NAME="674 Longest Continuous Increasing Subsequence Coverage Results" MODIFIED="1567300566760" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Leetcode$766_Toeplitz_Matrix.coverage" NAME="766 Toeplitz Matrix Coverage Results" MODIFIED="1568224511596" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Leetcode$766_Toeplitz_Matrix.coverage" NAME="766 Toeplitz Matrix Coverage Results" MODIFIED="1568225096865" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Leetcode$118_Pascal_s_Tringle.coverage" NAME="118 Pascal's Tringle Coverage Results" MODIFIED="1566574581832" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Leetcode$26_Remove_Duplicates_from_Sorted_Array.coverage" NAME="26 Remove Duplicates from Sorted Array Coverage Results" MODIFIED="1566644151631" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Leetcode$746_Min_Cost_Climbing_Stairs.coverage" NAME="746 Min Cost Climbing Stairs Coverage Results" MODIFIED="1568154905045" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Leetcode$832_Flipping_an_Image.coverage" NAME="832 Flipping an Image Coverage Results" MODIFIED="1567687958385" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Leetcode$13_Roman_to_Integer.coverage" NAME="13 Roman to Integer Coverage Results" MODIFIED="1566586884098" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Leetcode$27_Remove_Element.coverage" NAME="27 Remove Element Coverage Results" MODIFIED="1566645099483" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Leetcode$830_Positions_of_Large_Groups.coverage" NAME="830 Positions of Large Groups Coverage Results" MODIFIED="1568226094780" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Leetcode$83_Remove_Duplicates_from_Sorted_List_II.coverage" NAME="83 Remove Duplicates from Sorted List II Coverage Results" MODIFIED="1567033383808" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Leetcode$1002_Find_Common_Characters.coverage" NAME="1002 Find Common Characters Coverage Results" MODIFIED="1567604902312" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Leetcode$697_Degree_of_an_Array.coverage" NAME="697 Degree of an Array Coverage Results" MODIFIED="1567421544566" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -126,11 +126,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/766 Toeplitz Matrix.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret line="23" selection-start-line="23" selection-end-line="23" />
+            <state relative-caret-position="195">
+              <caret line="36" column="23" selection-start-line="36" selection-start-column="23" selection-end-line="36" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/830 Positions of Large Groups.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="296">
+              <caret line="51" column="4" lean-forward="true" selection-start-line="51" selection-start-column="4" selection-end-line="51" selection-end-column="22" />
             </state>
           </provider>
         </entry>
@@ -150,7 +159,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/92 Reverse Linked List II.py" />
         <option value="$PROJECT_DIR$/561 Array Partition I.py" />
         <option value="$PROJECT_DIR$/867 Transpose Matrix.py" />
         <option value="$PROJECT_DIR$/674 Longest Continuous Increasing Subsequence.py" />
@@ -201,6 +209,7 @@
         <option value="$PROJECT_DIR$/1010 Pairs of Songs With Total Durations Divisible by 60.py" />
         <option value="$PROJECT_DIR$/665 Non-decreasing Array.py" />
         <option value="$PROJECT_DIR$/766 Toeplitz Matrix.py" />
+        <option value="$PROJECT_DIR$/830 Positions of Large Groups.py" />
       </list>
     </option>
   </component>
@@ -247,29 +256,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.766 Toeplitz Matrix">
-    <configuration name="566 Reshape the Matrix" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Leetcode" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/566 Reshape the Matrix.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.830 Positions of Large Groups">
     <configuration name="665 Non-decreasing Array" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Leetcode" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -336,6 +323,28 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="830 Positions of Large Groups" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Leetcode" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/830 Positions of Large Groups.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="896 Monotonic Array" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Leetcode" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -360,11 +369,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.830 Positions of Large Groups" />
         <item itemvalue="Python.766 Toeplitz Matrix" />
         <item itemvalue="Python.665 Non-decreasing Array" />
         <item itemvalue="Python.746 Min Cost Climbing Stairs" />
         <item itemvalue="Python.896 Monotonic Array" />
-        <item itemvalue="Python.566 Reshape the Matrix" />
       </list>
     </recent_temporary>
   </component>
@@ -393,12 +402,12 @@
       <workItem from="1567848677053" duration="13030000" />
       <workItem from="1567909671751" duration="6986000" />
       <workItem from="1567943136987" duration="1544000" />
-      <workItem from="1568025948172" duration="23193000" />
+      <workItem from="1568025948172" duration="24590000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="287802000" />
+    <option name="totallyTimeSpent" value="289199000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="721" y="23" width="719" height="876" extended-state="0" />
@@ -431,13 +440,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/143 Reorder List.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="460">
-          <caret line="43" column="25" selection-start-line="43" selection-start-column="25" selection-end-line="43" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/147 Insertion Sort List.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-3">
@@ -779,8 +781,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/766 Toeplitz Matrix.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="23" selection-start-line="23" selection-end-line="23" />
+        <state relative-caret-position="195">
+          <caret line="36" column="23" selection-start-line="36" selection-start-column="23" selection-end-line="36" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/830 Positions of Large Groups.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="296">
+          <caret line="51" column="4" lean-forward="true" selection-start-line="51" selection-start-column="4" selection-end-line="51" selection-end-column="22" />
         </state>
       </provider>
     </entry>
