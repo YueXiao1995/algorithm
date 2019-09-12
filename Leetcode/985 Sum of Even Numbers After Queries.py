@@ -36,15 +36,20 @@ def sumEvenAfterQueries(A, queries):
             sum += num
     # create a list to store the answers
     answers = list()
-    # iterate the queries
+    # iterate the queries list
     for quire in queries:
+        # get the val and index
         val = quire[0]
         index = quire[1]
+        # if the original num in position index in list A is even, minus it from sum
         if A[index] % 2 == 0:
             sum -= A[index]
+        # add the val to the num in position index in list A
         A[index] += val
+        # if the result is even, add it to the sum
         if A[index] % 2 == 0:
             sum += A[index]
+        # append the result to the answers list
         answers.append(sum)
     return answers
 
