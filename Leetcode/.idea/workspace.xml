@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="78a440fe-2f0d-440d-88c1-205e243682c0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/1013 Partition Array Into Three Parts With Equal Sum.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/914 X of a Kind in a Deck of Cards.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -39,6 +39,7 @@
     <SUITE FILE_PATH="coverage/Leetcode$66_Plus_One.coverage" NAME="66 Plus One Coverage Results" MODIFIED="1567020138324" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Leetcode$725_Split_Linked_List_in_Parts.coverage" NAME="725 Split Linked List in Parts Coverage Results" MODIFIED="1567175469258" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Leetcode$707_Design_Linked_List.coverage" NAME="707 Design Linked List Coverage Results" MODIFIED="1566503927877" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Leetcode$914_X_of_a_Kind_in_a_Deck_of_Cards.coverage" NAME="914 X of a Kind in a Deck of Cards Coverage Results" MODIFIED="1568380634041" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Leetcode$14_Longest_Common_Prefix.coverage" NAME="14 Longest Common Prefix Coverage Results" MODIFIED="1566588367685" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Leetcode$Contest_151_1169_Invalid_Transactions.coverage" NAME="Contest_151_1169 Invalid Transactions Coverage Results" MODIFIED="1566743183733" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Leetcode$5183_Day_of_the_Week.coverage" NAME="5183 Day of the Week Coverage Results" MODIFIED="1567943199686" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -134,28 +135,19 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/977 Squares of a Sorted Array.py">
+        <entry file="file://$PROJECT_DIR$/1013 Partition Array Into Three Parts With Equal Sum.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/985 Sum of Even Numbers After Queries.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="70">
-              <caret line="28" column="3" lean-forward="true" selection-start-line="28" selection-start-column="3" selection-end-line="28" selection-end-column="3" />
+            <state relative-caret-position="158">
+              <caret line="31" column="16" lean-forward="true" selection-start-line="31" selection-start-column="16" selection-end-line="31" selection-end-column="16" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/1013 Partition Array Into Three Parts With Equal Sum.py">
+        <entry file="file://$PROJECT_DIR$/914 X of a Kind in a Deck of Cards.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="94">
-              <caret line="25" selection-start-line="25" selection-end-line="48" selection-end-column="19" />
+            <state relative-caret-position="466">
+              <caret line="82" column="20" lean-forward="true" selection-start-line="82" selection-start-column="20" selection-end-line="82" selection-end-column="20" />
             </state>
           </provider>
         </entry>
@@ -175,7 +167,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/999 Available Captures for Rook.py" />
         <option value="$PROJECT_DIR$/1018 Binary Prefix Divisible By 5.py" />
         <option value="$PROJECT_DIR$/414 Third Maximum Number.py" />
         <option value="$PROJECT_DIR$/605 Can Place Flowers.py" />
@@ -226,6 +217,7 @@
         <option value="$PROJECT_DIR$/977 Squares of a Sorted Array.py" />
         <option value="$PROJECT_DIR$/985 Sum of Even Numbers After Queries.py" />
         <option value="$PROJECT_DIR$/1013 Partition Array Into Three Parts With Equal Sum.py" />
+        <option value="$PROJECT_DIR$/914 X of a Kind in a Deck of Cards.py" />
       </list>
     </option>
   </component>
@@ -272,7 +264,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.1013 Partition Array Into Three Parts With Equal Sum">
+  <component name="RunManager" selected="Python.914 X of a Kind in a Deck of Cards">
     <configuration name="1013 Partition Array Into Three Parts With Equal Sum" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Leetcode" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -317,7 +309,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="922 Sort Array By Parity II" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="914 X of a Kind in a Deck of Cards" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Leetcode" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -330,7 +322,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/922 Sort Array By Parity II.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/914 X of a Kind in a Deck of Cards.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -385,11 +377,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.914 X of a Kind in a Deck of Cards" />
         <item itemvalue="Python.1013 Partition Array Into Three Parts With Equal Sum" />
         <item itemvalue="Python.985 Sum of Even Numbers After Queries" />
         <item itemvalue="Python.977 Squares of a Sorted Array" />
         <item itemvalue="Python.1122 Relative Sort Array" />
-        <item itemvalue="Python.922 Sort Array By Parity II" />
       </list>
     </recent_temporary>
   </component>
@@ -419,12 +411,12 @@
       <workItem from="1567909671751" duration="6986000" />
       <workItem from="1567943136987" duration="1544000" />
       <workItem from="1568025948172" duration="24797000" />
-      <workItem from="1568322938955" duration="5221000" />
+      <workItem from="1568322938955" duration="14518000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="294627000" />
+    <option name="totallyTimeSpent" value="303924000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="721" y="23" width="719" height="876" extended-state="0" />
@@ -457,13 +449,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/605 Can Place Flowers.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="31" column="25" lean-forward="true" selection-start-line="31" selection-start-column="25" selection-end-line="31" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/414 Third Maximum Number.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="402">
@@ -789,13 +774,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/977 Squares of a Sorted Array.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/985 Sum of Even Numbers After Queries.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="70">
@@ -803,10 +781,24 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/977 Squares of a Sorted Array.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/1013 Partition Array Into Three Parts With Equal Sum.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="94">
-          <caret line="25" selection-start-line="25" selection-end-line="48" selection-end-column="19" />
+        <state relative-caret-position="158">
+          <caret line="31" column="16" lean-forward="true" selection-start-line="31" selection-start-column="16" selection-end-line="31" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/914 X of a Kind in a Deck of Cards.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="466">
+          <caret line="82" column="20" lean-forward="true" selection-start-line="82" selection-start-column="20" selection-end-line="82" selection-end-column="20" />
         </state>
       </provider>
     </entry>
