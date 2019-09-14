@@ -27,24 +27,22 @@ input1 = 10
 """
 
 def countPrimes(n):
-    # if n smaller than 2, return false
     # generate a list which contains the numbers from 2 to n
     n_list = list(range(n))
-    # iterate the list n to find and record the prime nums
+
     num_of_prime = 0
-
-    for i in range(0, n):
+    # iterate the list n to find and record the prime nums
+    for i in range(2, n):
+        # if the num is -1, skip it
         if n_list[i] != -1:
-            if i > 1:
-                # if the num is a prime, find the nums smaller then n[i] and
-
+                # the number of primes plus one
                 num_of_prime += 1
+                # set the value of the position whose index is i's multiple times to -1
                 index = i + i
                 while index < n:
                     n_list[index] = -1
                     index += i
-
     return num_of_prime
-input1 = 10
 
+input1 = 10
 print(countPrimes(100))
