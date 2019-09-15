@@ -15,23 +15,27 @@ def numberOfBoomerangs(points):
     for i in range(0, l):
         distances_freq = dict()
         distances_list = list()
-
+        # iterate the list to calculate the distance between this point and other points in this list
         for j in range(i, l):
+            # calculate the distance, if bigger than 0, add it to the distances freq dict
             distence = pow(points[j][0]-points[i][0], 2) + pow(points[j][1]-points[i][1], 2)
             if distence != 0:
                 if distence in distances_freq:
                     distances_freq[distence] += 1
                 else:
                     distances_freq[distence] = 1
+            # append this distance into a distance list
             distances_list.append(distence)
+        # append the distance list ot distance metrix
         distances_matrix.append(distances_list)
 
+        # iterate the distances metrix, add the distance between previous points and this point into the distances_freq dict
         for j in range(0, i):
             if distances_matrix[j][i-j] in distances_freq:
                 distances_freq[distances_matrix[j][i-j]] += 1
             else:
                 distances_freq[distances_matrix[j][i - j]] = 1
-
+        # base on the freq of each distance, calculate the number of pairs can form a boomerange, multiply 2 and add it to the total number of boomerangs
         for d in distances_freq:
             num_of_boomerangs += 2 * sum(range(distances_freq[d]))
     return num_of_boomerangs
