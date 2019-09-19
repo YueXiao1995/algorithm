@@ -26,17 +26,17 @@ Example 3:
 
 def titleToNumber(s):
     alphabet = "ABCDEFGHIJKLMNOPQRSTUVWXYZ"
+    # store the index of each char into a dict
     char_index = dict()
     for i in range(26):
         if alphabet[i] not in char_index:
             char_index[alphabet[i]] = i + 1
-    print(char_index)
+    # calculate the num
     num = 0
     time = 1
     for i in reversed(range(len(s))):
         num += char_index[s[i]] * time
         time *= 26
-
     return num
 
 

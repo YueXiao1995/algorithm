@@ -2,14 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="78a440fe-2f0d-440d-88c1-205e243682c0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/1078 Occurrences After Bigram.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/168 Excel Sheet Column Title.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/171 Excel Sheet Column Number.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/69 Sqrt(x).py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/961 N-Repeated Element in Size 2N Array.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/970 Powerful Integers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/172 Factorial Trailing Zeroes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/231 Power of Two.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/258 Add Digits.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/263 Ugly Number.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/326 Power of Three.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/705 Design HashSet.py" beforeDir="false" afterPath="$PROJECT_DIR$/705 Design HashSet.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/171 Excel Sheet Column Number.py" beforeDir="false" afterPath="$PROJECT_DIR$/171 Excel Sheet Column Number.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -22,10 +21,11 @@
     <SUITE FILE_PATH="coverage/Leetcode$485_Max_Consecutive_Ones.coverage" NAME="485 Max Consecutive Ones Coverage Results" MODIFIED="1567522462055" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Leetcode$92_Reverse_Linked_List_II.coverage" NAME="92 Reverse Linked List II Coverage Results" MODIFIED="1567203043584" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Leetcode$206_Reverse_Linked_List.coverage" NAME="206 Reverse Linked List Coverage Results" MODIFIED="1566489756819" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Leetcode$171_Excel_Sheet_Column_Number.coverage" NAME="171 Excel Sheet Column Number Coverage Results" MODIFIED="1568918295696" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Leetcode$171_Excel_Sheet_Column_Number.coverage" NAME="171 Excel Sheet Column Number Coverage Results" MODIFIED="1568918771504" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Leetcode$674_Longest_Continuous_Increasing_Subsequence.coverage" NAME="674 Longest Continuous Increasing Subsequence Coverage Results" MODIFIED="1567300566760" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Leetcode$766_Toeplitz_Matrix.coverage" NAME="766 Toeplitz Matrix Coverage Results" MODIFIED="1568225096865" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Leetcode$884_Uncommon_Words_from_Two_Sentences.coverage" NAME="884 Uncommon Words from Two Sentences Coverage Results" MODIFIED="1568827217692" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Leetcode$231_Power_of_Two.coverage" NAME="231 Power of Two Coverage Results" MODIFIED="1568925015680" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Leetcode$118_Pascal_s_Tringle.coverage" NAME="118 Pascal's Tringle Coverage Results" MODIFIED="1566574581832" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Leetcode$832_Flipping_an_Image.coverage" NAME="832 Flipping an Image Coverage Results" MODIFIED="1567687958385" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Leetcode$27_Remove_Element.coverage" NAME="27 Remove Element Coverage Results" MODIFIED="1566645099483" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -36,6 +36,7 @@
     <SUITE FILE_PATH="coverage/Leetcode$628_Maximum_Product_of_Three.coverage" NAME="628 Maximum Product of Three Coverage Results" MODIFIED="1568034402768" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Leetcode$561_Array_Partition_I.coverage" NAME="561 Array Partition I Coverage Results" MODIFIED="1567203242600" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Leetcode$645_Set_Mismatch.coverage" NAME="645 Set Mismatch Coverage Results" MODIFIED="1568657897701" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Leetcode$326_Power_of_Three.coverage" NAME="326 Power of Three Coverage Results" MODIFIED="1568926292309" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Leetcode$566_Reshape_the_Matrix.coverage" NAME="566 Reshape the Matrix Coverage Results" MODIFIED="1568050746330" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Leetcode$409_Longest_Palindrome.coverage" NAME="409 Longest Palindrome Coverage Results" MODIFIED="1568550577532" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Leetcode$594_Longest_Harmonious_Subsequence.coverage" NAME="594 Longest Harmonious Subsequence Coverage Results" MODIFIED="1568654955229" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -44,6 +45,7 @@
     <SUITE FILE_PATH="coverage/Leetcode$20_Valid_Parentheses.coverage" NAME="20 Valid Parentheses Coverage Results" MODIFIED="1567525918062" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Leetcode$1122_Relative_Sort_Array.coverage" NAME="1122 Relative Sort Array Coverage Results" MODIFIED="1568325198487" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Leetcode$1078_Occurrences_After_Bigram.coverage" NAME="1078 Occurrences After Bigram Coverage Results" MODIFIED="1568852769559" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Leetcode$258_Add_Digits.coverage" NAME="258 Add Digits Coverage Results" MODIFIED="1568925339600" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Leetcode$1160_Find_Words_That_Can_Be_Formed_by_Characters.coverage" NAME="1160 Find Words That Can Be Formed by Characters Coverage Results" MODIFIED="1567685966740" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Leetcode$160_Intersection_of_Two_Linked_Lists.coverage" NAME="160 Intersection of Two Linked Lists Coverage Results" MODIFIED="1566488656900" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Leetcode$143_Reorder_List.coverage" NAME="143 Reorder List Coverage Results" MODIFIED="1567099393976" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -86,6 +88,7 @@
     <SUITE FILE_PATH="coverage/Leetcode$1089_Duplicate_Zeros.coverage" NAME="1089 Duplicate Zeros Coverage Results" MODIFIED="1567537403553" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Leetcode$557_Reverse_Words_in_a_String_III.coverage" NAME="557 Reverse Words in a String III Coverage Results" MODIFIED="1567384376162" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Leetcode$Add_Two_Numbers.coverage" NAME="Add Two Numbers Coverage Results" MODIFIED="1566410409584" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Leetcode$263_Ugly_Number.coverage" NAME="263 Ugly Number Coverage Results" MODIFIED="1568926617096" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Leetcode$299_Bulls_and_Cows.coverage" NAME="299 Bulls and Cows Coverage Results" MODIFIED="1568546333712" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Leetcode$283_Move_Zeroes.coverage" NAME="283 Move Zeroes Coverage Results" MODIFIED="1567075964975" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Leetcode$344_Reverse_String.coverage" NAME="344 Reverse String Coverage Results" MODIFIED="1567375643055" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -101,6 +104,7 @@
     <SUITE FILE_PATH="coverage/Leetcode$746_Min_Cost_Climbing_Stairs.coverage" NAME="746 Min Cost Climbing Stairs Coverage Results" MODIFIED="1568154905045" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Leetcode$242_Valid_Anagram.coverage" NAME="242 Valid Anagram Coverage Results" MODIFIED="1568497789562" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Leetcode$13_Roman_to_Integer.coverage" NAME="13 Roman to Integer Coverage Results" MODIFIED="1566586884098" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Leetcode$172_Factorial_Trailing_Zeroes.coverage" NAME="172 Factorial Trailing Zeroes Coverage Results" MODIFIED="1568922569541" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Leetcode$830_Positions_of_Large_Groups.coverage" NAME="830 Positions of Large Groups Coverage Results" MODIFIED="1568226094780" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Leetcode$1002_Find_Common_Characters.coverage" NAME="1002 Find Common Characters Coverage Results" MODIFIED="1567604902312" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Leetcode$202_Happy_Number.coverage" NAME="202 Happy Number Coverage Results" MODIFIED="1568413983362" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -176,44 +180,7 @@
     <favorites_list name="Leetcode" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/705 Design HashSet.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/168 Excel Sheet Column Title.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="37">
-              <caret line="25" column="4" lean-forward="true" selection-start-line="25" selection-start-column="4" selection-end-line="25" selection-end-column="43" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/171 Excel Sheet Column Number.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="27" selection-start-line="27" selection-end-line="39" selection-end-column="14" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/970 Powerful Integers.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="158">
-              <caret line="46" column="33" lean-forward="true" selection-start-line="46" selection-start-column="33" selection-end-line="46" selection-end-column="33" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -229,11 +196,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/896 Monotonic Array.py" />
-        <option value="$PROJECT_DIR$/746 Min Cost Climbing Stairs.py" />
-        <option value="$PROJECT_DIR$/665 Non-decreasing Array.py" />
-        <option value="$PROJECT_DIR$/766 Toeplitz Matrix.py" />
-        <option value="$PROJECT_DIR$/830 Positions of Large Groups.py" />
         <option value="$PROJECT_DIR$/905 Sort Array By Parity.py" />
         <option value="$PROJECT_DIR$/922 Sort Array By Parity II.py" />
         <option value="$PROJECT_DIR$/1122 Relative Sort Array.py" />
@@ -280,6 +242,11 @@
         <option value="$PROJECT_DIR$/69 Sqrt(x).py" />
         <option value="$PROJECT_DIR$/168 Excel Sheet Column Title.py" />
         <option value="$PROJECT_DIR$/171 Excel Sheet Column Number.py" />
+        <option value="$PROJECT_DIR$/172 Factorial Trailing Zeroes.py" />
+        <option value="$PROJECT_DIR$/231 Power of Two.py" />
+        <option value="$PROJECT_DIR$/258 Add Digits.py" />
+        <option value="$PROJECT_DIR$/326 Power of Three.py" />
+        <option value="$PROJECT_DIR$/263 Ugly Number.py" />
       </list>
     </option>
   </component>
@@ -327,8 +294,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.171 Excel Sheet Column Number">
-    <configuration name="168 Excel Sheet Column Title" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.263 Ugly Number">
+    <configuration name="172 Factorial Trailing Zeroes" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Leetcode" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -341,7 +308,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/168 Excel Sheet Column Title.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/172 Factorial Trailing Zeroes.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -350,7 +317,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="171 Excel Sheet Column Number" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="231 Power of Two" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Leetcode" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -363,7 +330,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/171 Excel Sheet Column Number.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/231 Power of Two.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -372,7 +339,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="69 Sqrt(x)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="258 Add Digits" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Leetcode" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -385,7 +352,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/69 Sqrt(x).py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/258 Add Digits.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -394,7 +361,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="705 Design HashSet" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="263 Ugly Number" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Leetcode" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -407,7 +374,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/705 Design HashSet.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/263 Ugly Number.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -416,7 +383,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="970 Powerful Integers" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="326 Power of Three" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Leetcode" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -429,7 +396,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/970 Powerful Integers.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/326 Power of Three.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -440,11 +407,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.171 Excel Sheet Column Number" />
-        <item itemvalue="Python.168 Excel Sheet Column Title" />
-        <item itemvalue="Python.69 Sqrt(x)" />
-        <item itemvalue="Python.705 Design HashSet" />
-        <item itemvalue="Python.970 Powerful Integers" />
+        <item itemvalue="Python.263 Ugly Number" />
+        <item itemvalue="Python.326 Power of Three" />
+        <item itemvalue="Python.258 Add Digits" />
+        <item itemvalue="Python.231 Power of Two" />
+        <item itemvalue="Python.172 Factorial Trailing Zeroes" />
       </list>
     </recent_temporary>
   </component>
@@ -479,23 +446,22 @@
       <workItem from="1568636530725" duration="11813000" />
       <workItem from="1568664125198" duration="415000" />
       <workItem from="1568745493802" duration="7538000" />
-      <workItem from="1568799906142" duration="33504000" />
+      <workItem from="1568799906142" duration="40851000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="399695000" />
+    <option name="totallyTimeSpent" value="407042000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="721" y="23" width="719" height="877" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.88054186" weight="0.079763666" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.88054186" visible="true" weight="0.088626295" />
       <window_info id="Structure" order="1" sideWeight="0.11836115" side_tool="true" weight="0.15580736" />
       <window_info id="Favorites" order="2" sideWeight="0.11945813" side_tool="true" weight="0.17422096" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.4083641" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.4083641" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39901477" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -540,41 +506,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/717 1-bit and 2-bit Characters.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="20" column="24" selection-start-line="20" selection-start-column="24" selection-end-line="20" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/830 Positions of Large Groups.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="35" column="21" lean-forward="true" selection-start-line="35" selection-start-column="21" selection-end-line="35" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/766 Toeplitz Matrix.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="36" column="23" selection-start-line="36" selection-start-column="23" selection-end-line="36" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1122 Relative Sort Array.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="130">
-          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/905 Sort Array By Parity.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" selection-start-line="17" selection-end-line="26" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/922 Sort Array By Parity II.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="131">
@@ -864,10 +795,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/705 Design HashSet.py">
+    <entry file="file://$PROJECT_DIR$/171 Excel Sheet Column Number.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
+        <state relative-caret-position="179">
+          <caret line="31" column="29" selection-start-line="31" selection-start-column="29" selection-end-line="31" selection-end-column="29" />
         </state>
       </provider>
     </entry>
@@ -878,10 +809,45 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/171 Excel Sheet Column Number.py">
+    <entry file="file://$PROJECT_DIR$/231 Power of Two.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="27" selection-start-line="27" selection-end-line="39" selection-end-column="14" />
+        <state relative-caret-position="240">
+          <caret line="16" column="3" lean-forward="true" selection-start-line="16" selection-start-column="3" selection-end-line="16" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/326 Power of Three.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="194">
+          <caret line="28" column="14" selection-start-line="23" selection-end-line="31" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/263 Ugly Number.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="28" column="22" selection-start-line="28" selection-start-column="22" selection-end-line="28" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/258 Add Digits.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="29" selection-start-line="17" selection-start-column="29" selection-end-line="17" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/172 Factorial Trailing Zeroes.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="53">
+          <caret line="29" column="17" lean-forward="true" selection-start-line="29" selection-start-column="17" selection-end-line="29" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/705 Design HashSet.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
         </state>
       </provider>
     </entry>
