@@ -25,14 +25,24 @@ Note:
 
 
 def isUgly(num):
-    factors = list()
-    for i in range(1, num):
-        if num % i == 0:
-            factors.append(i)
-    print(factors)
-    return 0
+    # check if the num is a positive number
+    if num <= 0:
+        return False
+    # check if the can be divided exactly by 2, 3, or 5
+    while num % 2 == 0 or num % 3 == 0 or num % 5 == 0:
+        if num % 2 == 0:
+            num //= 2
+        elif num % 3 == 0:
+            num //= 3
+        else:
+            num //= 5
+    # finally, if the num equal to 1, return True
+    if num == 1:
+        return True
+    else:
+        return False
 
 input1 = 6
 input2 = 8
 input3 = 14
-print(isUgly(input1))
+print(isUgly(input3))
