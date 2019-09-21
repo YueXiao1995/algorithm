@@ -26,9 +26,12 @@ Note:
     0 <= K <= 10000
 """
 def smallestRangeI(A, K):
-    
-    return 0
-
+    A = sorted(A)
+    # compare min + K with max - K
+    if A[0] + K >= A[-1] - K:
+        return 0
+    else:
+        return A[-1] - A[0] - 2 * K
 
 A1 = [1]
 K1 = 0
@@ -39,4 +42,4 @@ K2 = 2
 A3 = [1,3,6]
 K3 = 3
 
-print(smallestRangeI(A1, K1))
+print(smallestRangeI(A3, K3))
