@@ -39,9 +39,29 @@ Note:
 """
 
 def binaryGap(N):
-    return 0
+    binary_N = ""
+
+    while N != 1:
+        binary_N = str(N % 2) + binary_N
+        N -= N % 2
+        N //= 2
+    binary_N = str(N) + binary_N
+
+    index1 = None
+    index2 = None
+    max_distance = 0
+    for i in range(len(binary_N)):
+        if binary_N[i] == '1':
+            index2 = index1
+            index1 = i
+            if index2 != None:
+                if i - index2 > max_distance:
+                    max_distance = i - index2
+    return max_distance
 
 input1 = 22
 input2 = 5
 input3 = 6
 input4 = 8
+
+print(binaryGap(input4))
