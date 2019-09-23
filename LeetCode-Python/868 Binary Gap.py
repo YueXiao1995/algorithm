@@ -39,14 +39,15 @@ Note:
 """
 
 def binaryGap(N):
+    # convert the N to binary form
     binary_N = ""
-
     while N != 1:
         binary_N = str(N % 2) + binary_N
         N -= N % 2
         N //= 2
     binary_N = str(N) + binary_N
 
+    # find the maximum distance between two consecutive pairs of 1's
     index1 = None
     index2 = None
     max_distance = 0

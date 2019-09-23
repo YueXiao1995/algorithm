@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="78a440fe-2f0d-440d-88c1-205e243682c0" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/1 Two Sum.py" beforeDir="false" afterPath="$PROJECT_DIR$/1 Two Sum.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/868 Binary Gap.py" beforeDir="false" afterPath="$PROJECT_DIR$/868 Binary Gap.py" afterDir="false" />
-    </list>
+    <list default="true" id="78a440fe-2f0d-440d-88c1-205e243682c0" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -207,8 +204,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/868 Binary Gap.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="41" column="4" selection-start-line="41" selection-start-column="4" selection-end-line="61" selection-end-column="23" />
+            <state relative-caret-position="289">
+              <caret line="63" column="10" lean-forward="true" selection-start-line="63" selection-start-column="10" selection-end-line="63" selection-end-column="10" />
             </state>
           </provider>
         </entry>
@@ -504,12 +501,12 @@
       <workItem from="1569065807331" duration="14556000" />
       <workItem from="1569150299175" duration="2383000" />
       <workItem from="1569237711412" duration="5107000" />
-      <workItem from="1569254640472" duration="4709000" />
+      <workItem from="1569254640472" duration="4911000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="454961000" />
+    <option name="totallyTimeSpent" value="455163000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="711" y="23" width="729" height="877" extended-state="0" />
@@ -913,8 +910,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/868 Binary Gap.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="41" column="4" selection-start-line="41" selection-start-column="4" selection-end-line="61" selection-end-column="23" />
+        <state relative-caret-position="289">
+          <caret line="63" column="10" lean-forward="true" selection-start-line="63" selection-start-column="10" selection-end-line="63" selection-end-column="10" />
         </state>
       </provider>
     </entry>
