@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="78a440fe-2f0d-440d-88c1-205e243682c0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/892 Surface Area of 3D Shapes.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3 Longest Substring Without Repeating Characters.py" beforeDir="false" afterPath="$PROJECT_DIR$/3 Longest Substring Without Repeating Characters.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/883 Projection Area of 3D Shapes.py" beforeDir="false" afterPath="$PROJECT_DIR$/883 Projection Area of 3D Shapes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/942 DI String Match.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -49,6 +46,7 @@
     <SUITE FILE_PATH="coverage/Leetcode$160_Intersection_of_Two_Linked_Lists.coverage" NAME="160 Intersection of Two Linked Lists Coverage Results" MODIFIED="1566488656900" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Leetcode$143_Reorder_List.coverage" NAME="143 Reorder List Coverage Results" MODIFIED="1567099393976" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Leetcode$1013_Partition_Array_Into_Three_Parts_With_Equal_Sum.coverage" NAME="1013 Partition Array Into Three Parts With Equal Sum Coverage Results" MODIFIED="1568329334281" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/LeetCode_Python$942_DI_String_Match.coverage" NAME="942 DI String Match Coverage Results" MODIFIED="1569339477621" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Leetcode$989_Add_to_Array_Form_of_Integer.coverage" NAME="989 Add to Array-Form of Integer Coverage Results" MODIFIED="1567334877999" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Leetcode$414_Third_Maximum_Number.coverage" NAME="414 Third Maximum Number Coverage Results" MODIFIED="1567341319273" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCode_Python$1_Two_Sum.coverage" NAME="1 Two Sum Coverage Results" MODIFIED="1569330550798" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -227,11 +225,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/892 Surface Area of 3D Shapes.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="350">
-              <caret line="58" column="30" selection-start-line="58" selection-start-column="30" selection-end-line="58" selection-end-column="30" />
+            <state relative-caret-position="215">
+              <caret line="49" column="33" selection-start-line="49" selection-start-column="33" selection-end-line="49" selection-end-column="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/942 DI String Match.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="25" selection-start-line="25" selection-end-line="37" selection-end-column="26" />
             </state>
           </provider>
         </entry>
@@ -288,7 +295,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/389 Find the Difference.py" />
         <option value="$PROJECT_DIR$/409 Longest Palindrome.py" />
         <option value="$PROJECT_DIR$/447 Number of Boomerangs.py" />
         <option value="$PROJECT_DIR$/463 Island Perimeter.py" />
@@ -339,6 +345,7 @@
         <option value="$PROJECT_DIR$/883 Projection Area of 3D Shapes.py" />
         <option value="$PROJECT_DIR$/3 Longest Substring Without Repeating Characters.py" />
         <option value="$PROJECT_DIR$/892 Surface Area of 3D Shapes.py" />
+        <option value="$PROJECT_DIR$/942 DI String Match.py" />
       </list>
     </option>
   </component>
@@ -387,7 +394,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.892 Surface Area of 3D Shapes">
+  <component name="RunManager" selected="Python.942 DI String Match">
     <configuration name="1 Two Sum" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Leetcode" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -424,28 +431,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/3 Longest Substring Without Repeating Characters.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="868 Binary Gap" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Leetcode" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/868 Binary Gap.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -498,13 +483,35 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="942 DI String Match" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Leetcode" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/942 DI String Match.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.942 DI String Match" />
         <item itemvalue="Python.892 Surface Area of 3D Shapes" />
         <item itemvalue="Python.3 Longest Substring Without Repeating Characters" />
         <item itemvalue="Python.883 Projection Area of 3D Shapes" />
         <item itemvalue="Python.1 Two Sum" />
-        <item itemvalue="Python.868 Binary Gap" />
       </list>
     </recent_temporary>
   </component>
@@ -547,12 +554,12 @@
       <workItem from="1569237711412" duration="5107000" />
       <workItem from="1569254640472" duration="4935000" />
       <workItem from="1569262255508" duration="608000" />
-      <workItem from="1569313715466" duration="6347000" />
+      <workItem from="1569313715466" duration="7091000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="462142000" />
+    <option name="totallyTimeSpent" value="462886000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="711" y="23" width="729" height="877" extended-state="0" />
@@ -608,13 +615,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/447 Number of Boomerangs.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="23" selection-start-line="11" selection-start-column="23" selection-end-line="11" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/409 Longest Palindrome.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="176">
@@ -956,8 +956,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/892 Surface Area of 3D Shapes.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="350">
-          <caret line="58" column="30" selection-start-line="58" selection-start-column="30" selection-end-line="58" selection-end-column="30" />
+        <state relative-caret-position="215">
+          <caret line="49" column="33" selection-start-line="49" selection-start-column="33" selection-end-line="49" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/942 DI String Match.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="25" selection-start-line="25" selection-end-line="37" selection-end-column="26" />
         </state>
       </provider>
     </entry>
