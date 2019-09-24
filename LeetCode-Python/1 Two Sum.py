@@ -23,8 +23,24 @@ def twoSum2(nums, target):
         diff[target - nums[i]] = i
     return result
 
+#  faster than 99.7%
+def twoSum3(nums, target):
+    diff = set()
+    pair = None
+    for num in nums:
+        if num in diff:
+            pair = {num, target - num}
+            break
+        diff.add((target - num))
+
+    result = list()
+    for i in range(len(nums)):
+        if nums[i] in pair:
+            result.append(i)
+    return result
+
 nums1 = [1, 2, 3]
 target1 = 5
 nums2 = [2, 7, 11, 15]
 target2 = 9
-print(twoSum2(nums2, 9))
+print(twoSum3(nums2, 9))

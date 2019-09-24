@@ -19,17 +19,17 @@ Example 3:
 """
 
 def lengthOfLongestSubstring(s):
-    l = len(s)               # length of the input string
-    max_l = 0                # record the maximum length of substring without repeating characters
-    start_index = 0          # the start point of substring
-    chars_index = dict()     # record the index of the char in substring
+    l = len(s)  # length of the input string
+    max_l = 0  # record the maximum length of substring without repeating characters
+    start_index = 0  # the start point of substring
+    chars_index = dict()  # record the index of the chars in substring
 
     # iterate over the input string
     for i in range(l):
         # check if the char already in the substring
         if s[i] not in chars_index:
-            chars_index[s[i]] = i               # store its index into dict
-            if i - start_index + 1 > max_l:     # update the maximum length
+            chars_index[s[i]] = i  # store its index into dict
+            if i - start_index + 1 > max_l:  # update the maximum length
                 max_l = i - start_index + 1
         else:
             # if this char already in chars_index dict, find its last index in string s
@@ -53,4 +53,5 @@ string4 = "tmmzuxt"
 string5 = "bbtablud"
 string6 = "abcabcbb"
 string7 = "aabaab!bb"
-print(lengthOfLongestSubstring(string4))
+string8 = "wwekw"
+print(lengthOfLongestSubstring(string8))
