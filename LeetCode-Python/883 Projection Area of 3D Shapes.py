@@ -45,34 +45,36 @@ def projectionArea(grid):
     front_view_s = 0
     side_view_s = 0
 
+    # use two dicts to store the biggest height in each row and column
     front_height_dict = dict()
     side_height_dict = dict()
 
+    # iterate the grid
     for i in range(len(grid)):
+        # iterate the row
         for j in range(len(grid[i])):
-
+            # top view s plus one if the height of tower bigger than 0
             if grid[i][j] > 0:
                 top_view_s += 1
-
+            # update the biggest height in each column
             if j not in front_height_dict:
                 front_height_dict[j] = grid[i][j]
             else:
                 if grid[i][j] > front_height_dict[j]:
                     front_height_dict[j] = grid[i][j]
-
+            # update the biggest height in each row
             if i not in side_height_dict:
                 side_height_dict[i] = grid[i][j]
             else:
                 if grid[i][j] > side_height_dict[i]:
                     side_height_dict[i] = grid[i][j]
-
+    # iterate over the dicts to calculate the area of the front view and the side view
     for h in front_height_dict.values():
         front_view_s += h
     for h in side_height_dict.values():
         side_view_s += h
-
+    # calculate the total view
     total_s = top_view_s + front_view_s + side_view_s
-
     return total_s
 
 input1 = [[2]]
