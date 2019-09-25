@@ -6,7 +6,7 @@ public class No_1_Two_Sum {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		Solution s = new Solution();
+		Solution1 s = new Solution1();
 		int[] nums = {2, 7, 11, 15};
 		int target = 9;
 		int[] result = s.twoSum(nums, target);
@@ -15,7 +15,7 @@ public class No_1_Two_Sum {
 
 }
 
-class Solution {
+class Solution1 {
 	public int[] twoSum(int[] nums, int target) {
 		int[] result = null;
 		for (int i = 0; i < nums.length; i++) {
