@@ -25,4 +25,23 @@ Note:
 """
 
 def largestPerimeter(A):
-    return 0
+    # sort the lengths list A
+    A = sorted(A)
+    longest_perimeter = 0
+    # reversely iterate over the lengths list A
+    for i in reversed(range(2, len(A))):
+        # calculate the sum of the previous two nums
+        sum = A[i - 2] + A[i - 1]
+        # it the sum is bigger than this one, the triangle is valid
+        if sum > A[i]:
+            sum += A[i]
+            # update the longest perimeter
+            if sum > longest_perimeter:
+                longest_perimeter = sum
+    return longest_perimeter
+
+input1 = [2,1,2]
+input2 = [1,2,1]
+input3 = [3,2,3,4]
+input4 = [3,6,2,3]
+print(largestPerimeter(input4))
