@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="78a440fe-2f0d-440d-88c1-205e243682c0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/1154 Day of the Year.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1175 Prime Arrangements.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -71,6 +71,7 @@
     <SUITE FILE_PATH="coverage/Leetcode$119_Pascal_s_Triangle_II.coverage" NAME="119 Pascal's Triangle II Coverage Results" MODIFIED="1566574719396" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Leetcode$Longest_Substring_Without_Repeating_Characters.coverage" NAME="Longest Substring Without Repeating Characters Coverage Results" MODIFIED="1566415805847" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Leetcode$136_Single_Number.coverage" NAME="136 Single Number Coverage Results" MODIFIED="1566638986021" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/LeetCode_Python$1175_Prime_Arrangements.coverage" NAME="1175 Prime Arrangements Coverage Results" MODIFIED="1569507841656" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Leetcode$747_Largest_Number_At_Least_Twice_of_Others.coverage" NAME="747 Largest Number At Least Twice of Others Coverage Results" MODIFIED="1567774466535" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Leetcode$896_Monotonic_Array.coverage" NAME="896 Monotonic Array Coverage Results" MODIFIED="1568151891812" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Leetcode$1128_Number_of_Equivalent_Domino_Pairs.coverage" NAME="1128 Number of Equivalent Domino Pairs Coverage Results" MODIFIED="1568041171032" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -213,11 +214,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/1154 Day of the Year.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="385">
-              <caret line="46" column="26" selection-start-line="46" selection-start-column="25" selection-end-line="46" selection-end-column="26" />
+            <state relative-caret-position="265">
+              <caret line="38" column="33" lean-forward="true" selection-start-line="38" selection-start-column="33" selection-end-line="38" selection-end-column="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/1175 Prime Arrangements.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="360">
+              <caret line="28" column="71" selection-start-line="28" selection-start-column="71" selection-end-line="28" selection-end-column="71" />
             </state>
           </provider>
         </entry>
@@ -247,7 +257,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/599 Minimum Index Sum of Two Lists.py" />
         <option value="$PROJECT_DIR$/645 Set Mismatch.py" />
         <option value="$PROJECT_DIR$/690 Employee Importance.py" />
         <option value="$PROJECT_DIR$/720 Longest Word in Dictionary.py" />
@@ -298,6 +307,7 @@
         <option value="$PROJECT_DIR$/1025 Divisor Game.py" />
         <option value="$PROJECT_DIR$/1103 Distribute Candies to People.py" />
         <option value="$PROJECT_DIR$/1154 Day of the Year.py" />
+        <option value="$PROJECT_DIR$/1175 Prime Arrangements.py" />
       </list>
     </option>
   </component>
@@ -346,7 +356,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.1154 Day of the Year">
+  <component name="RunManager" selected="Python.1175 Prime Arrangements">
     <configuration name="1009 Complement of Base 10 Integer" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Leetcode" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -435,7 +445,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="976 Largest Perimeter Triangle" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="1175 Prime Arrangements" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Leetcode" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -448,7 +458,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/976 Largest Perimeter Triangle.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1175 Prime Arrangements.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -459,11 +469,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.1175 Prime Arrangements" />
         <item itemvalue="Python.1154 Day of the Year" />
         <item itemvalue="Python.1103 Distribute Candies to People" />
         <item itemvalue="Python.1025 Divisor Game" />
         <item itemvalue="Python.1009 Complement of Base 10 Integer" />
-        <item itemvalue="Python.976 Largest Perimeter Triangle" />
       </list>
     </recent_temporary>
   </component>
@@ -508,20 +518,20 @@
       <workItem from="1569262255508" duration="608000" />
       <workItem from="1569313715466" duration="8427000" />
       <workItem from="1569406247501" duration="10714000" />
-      <workItem from="1569491749996" duration="9906000" />
+      <workItem from="1569491749996" duration="12505000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="484842000" />
+    <option name="totallyTimeSpent" value="487441000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="711" y="23" width="729" height="877" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.88054186" visible="true" weight="0.17321688" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.87918484" visible="true" weight="0.17176127" />
       <window_info id="Structure" order="1" sideWeight="0.11836115" side_tool="true" weight="0.15580736" />
-      <window_info id="Favorites" order="2" sideWeight="0.11945813" side_tool="true" weight="0.17422096" />
+      <window_info id="Favorites" order="2" sideWeight="0.120815136" side_tool="true" visible="true" weight="0.17176127" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.15498155" />
@@ -569,13 +579,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/748 Shortest Completing Word.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="675">
-          <caret line="84" column="17" lean-forward="true" selection-start-line="84" selection-start-column="17" selection-end-line="84" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/771 Jewels and Stones.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
@@ -917,8 +920,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/1154 Day of the Year.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="385">
-          <caret line="46" column="26" selection-start-line="46" selection-start-column="25" selection-end-line="46" selection-end-column="26" />
+        <state relative-caret-position="265">
+          <caret line="38" column="33" lean-forward="true" selection-start-line="38" selection-start-column="33" selection-end-line="38" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1175 Prime Arrangements.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="28" column="71" selection-start-line="28" selection-start-column="71" selection-end-line="28" selection-end-column="71" />
         </state>
       </provider>
     </entry>
