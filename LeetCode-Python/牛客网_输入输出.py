@@ -43,13 +43,39 @@ def convert(s):
     print(s)
 
     return 0
-"""
+
 input_value = list()
 for line in sys.stdin:
-    input_value = line
-    break
+    print(line)
+    if line == "":
+        break
+    else:
+        input_value.append(line)
+
 print(input_value)
-"""
+
 input1 = "[[5, 2, 5], [6, 5, 6, [4, 1, 4], [2, 4, 2], [1, 0, 1]]"
 
-print(convert(input1))
+#print(convert(input1))
+
+for i in range(10):
+    print(i, end='')
+#输入
+import sys
+try:
+    while True:
+        line = sys.stdin.readline().strip()
+        if line == '':
+            break
+        lines = line.split()
+        print(int(lines[0]) + int(lines[1])）
+except:
+    pass
+
+s=input()
+
+import sys
+s = sys.stdin.readline()
+
+import sys
+data = sys.stdin.readlines()
