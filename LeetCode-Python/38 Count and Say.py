@@ -25,12 +25,19 @@ Example 2:
 """
 
 def countAndSay(n: int) -> str:
+    # init the sequence
     sequence = "1"
+    # iterate n-1 times
     while n - 1 > 0:
+        # use a string to record the new sequence
         new_sequence = ""
+        # record the last num
         last_num = None
+        # the length of consecutive sequence of the same num
         num_of_same = 0
+        # iterate over the sequence string
         for i in range(len(sequence)):
+            # in first iterate, init the last num
             if last_num == None:
                 last_num = sequence[i]
                 num_of_same += 1
@@ -38,15 +45,16 @@ def countAndSay(n: int) -> str:
                 if last_num == sequence[i]:
                     num_of_same += 1
                 else:
+                    # expend the new sequence
                     new_sequence += str(num_of_same) + last_num
+                    # update the last num and init the length of same num string
                     num_of_same = 1
                     last_num = sequence[i]
-
+        # append the length and num of the last sub sequence to the new sequence
         new_sequence += str(num_of_same) + last_num
+        # update the sequence
         sequence = new_sequence
-        print(n)
         n -= 1
-
     return sequence
 
 input1 = 1
