@@ -11,5 +11,35 @@ Note:
     canConstruct("aa", "aab") -> true
 """
 def canConstruct(ransomNote: str, magazine: str) -> bool:
-    return False
+    # count the freq of the chars in magazine
+    freq = dict()
+    for char in magazine:
+        if char not in freq:
+            freq[char] = 1
+        else:
+            freq[char] += 1
 
+    # iterate over the ransomNote string to check if it can be constructed by the char in freq dist
+    for char in ransomNote:
+        # check if the char is contained by the magazine string
+        if char not in freq:
+            return False
+        else:
+            # check if there still some char remain in dict
+            if freq[char] == 0:
+                return False
+            else:
+                # reduce the amount of the char in dict
+                freq[char] -= 1
+    return True
+
+ransomNote1 = "a"
+magazine1 = "b"
+
+ransomNote2 = "aa"
+magazine2 = "ab"
+
+ransomNote3 = "aa"
+magazine3 = "aab"
+
+print(canConstruct(ransomNote3, magazine3))
