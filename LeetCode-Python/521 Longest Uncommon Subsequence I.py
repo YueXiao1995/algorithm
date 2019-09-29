@@ -17,6 +17,8 @@ Note:
     Only letters from a ~ z will appear in input strings.
 """
 
+# stupid question!!!!
+
 def findLUSlength(a: str, b: str) -> int:
     if len(a) >= len(b):
         long_string = a
@@ -27,33 +29,64 @@ def findLUSlength(a: str, b: str) -> int:
     print(long_string)
     print(short_string)
 
-    max_length = 0
-    for i in range(len(short_string)):
-        while True:
+
+    max_length = 1
+    i = 0
+
+    isFindAnyMatch = False
+    while i + max_length < len(short_string):
+        print("short index: " + str(i))
+        is_increased = False
+        is_last_match = False
+        while i + max_length <= len(short_string):
             isFound = False
             sub_short_string = short_string[i:i + max_length]
             print([sub_short_string])
             match_index = 0
-            for j in range(i, len(long_string)):
+            for j in range(len(long_string)):
+                print(match_index)
                 if long_string[j] == sub_short_string[match_index]:
                     match_index += 1
-                    if match_index == max_length:
+                    if match_index == len(sub_short_string):
+                        isFound = True
+                        isFindAnyMatch = True
                         break
-
-
-            print(max_length)
+            print(isFound)
             if isFound:
+                if i + max_length == len(short_string):
+                    is_last_match = True
                 max_length += 1
+                is_increased = True
             else:
-                max_length -= 1
+                if is_increased:
+                    max_length -= 1
                 break
+        if is_last_match:
+            max_length -= 1
 
-    return 0
+        print("max length: " + str(max_length))
+        i += 1
+    if not isFindAnyMatch:
+        max_length -= 1
+    length = len(long_string) - max_length
+    if length != 0:
+        return length
+    else:
+        return -1
 
+
+def findLUSlength2(a: str, b: str) -> int:
+    if a == b:
+        return -1
+    else:
+        return max(len(a), len(b))
 a1 = "aba"
 b1 = "cdc"
 
 a2 = "aaaaaasdf"
 b2 = "absfcaaa"
 
-print(findLUSlength(a2, b2))
+a3 = "aefawfawfawfaw"
+b3 = "aefawfeawfwafwaef"
+
+print(findLUSlength2(a3, b3))
