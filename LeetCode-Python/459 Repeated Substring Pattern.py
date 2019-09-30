@@ -17,26 +17,27 @@ Example 3:
 """
 
 def repeatedSubstringPattern(s: str) -> bool:
-    can_be_construced = False
     l_s = len(s)
+    # iterate over all of the substring with length smaller than or equal to half of the original string s
     for i in range(0, l_s // 2 + 1):
-
+        # check if the length of substring is a factor of the length of s
         if l_s % (i + 1) == 0:
-
+            # get the target substring
             substring = s[:i + 1]
-            l_sub_s = len(substring)
+            l_sub_s = i + 1
             index = l_sub_s
-
+            # iterate over the substrings in s with length equal to the target substring
             while index <= l_s - l_sub_s:
+                # check if the substring equal to the target substring
                 if s[index:index + l_sub_s] != substring:
                     break
-
+                # check if is the last substring of s have been passed
                 if index == l_s - l_sub_s:
-                    can_be_construced = True
-                    break
+                    return True
                 else:
+                    # move the index froward in s
                     index += l_sub_s
-    return can_be_construced
+    return False
 
 input1 = "abab"
 input2 = "aba"
