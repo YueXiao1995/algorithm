@@ -24,21 +24,28 @@ def countBinarySubstrings(s: str) -> int:
     num_of_valid_substring = 0
     l_s = len(s)
     i = 0
+    # iterate over the string, find all of the boundary of the 0 and 1
     while i < l_s - 1:
+        # if equal, move forward
         if s[i] == s[i + 1]:
             i += 1
+        # else, means this is a boundary, use this digit as the center to form a substring
+        # expand the substring on both side
         else:
             left = s[i]
             right = s[i + 1]
             left_index = i
             right_index = i + 1
+            # check if the index is out of range
             while left_index >= 0 and right_index < l_s:
+                # check if the substring is valid
                 if s[left_index] == left and s[right_index] == right:
                     num_of_valid_substring += 1
                     left_index -= 1
                     right_index += 1
                 else:
                     break
+            # move forward
             i = right_index-1
     return num_of_valid_substring
 
