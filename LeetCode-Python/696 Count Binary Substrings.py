@@ -49,8 +49,30 @@ def countBinarySubstrings(s: str) -> int:
             i = right_index-1
     return num_of_valid_substring
 
+# little bit faster
+def countBinarySubstrings2(s: str) -> int:
+    # find and record the position of the boundary between 0 and 1
+    boundary_list = list()
+    # add the start point
+    boundary_list.append(-1)
+    l_s = len(s)
+    for i in range(l_s - 1):
+        if s[i] != s[i+1]:
+            boundary_list.append(i)
+    # add the end point
+    boundary_list.append(l_s -1)
+
+    # iterate over the boundary list, to count the number of valid string
+    num_of_valid_string = 0
+    for i in range(1, len(boundary_list) - 1):
+        num_of_valid_string += min((boundary_list[i] - boundary_list[i - 1]),(boundary_list[i + 1] - boundary_list[i]))
+
+    return num_of_valid_string
+
+
+
 input1 = "00110011"
 input2 = "10101"
 input3 = "00110"
 
-print(countBinarySubstrings(input3))
+print(countBinarySubstrings2(input1))
