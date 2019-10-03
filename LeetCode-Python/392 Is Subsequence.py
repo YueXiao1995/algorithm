@@ -21,19 +21,18 @@ Credits:
 """
 
 def isSubsequence(s: str, t: str) -> bool:
+    # if s is "", it is the subsequence of every stings
     if len(s) == 0:
         return True
-    char_set = set(s)
-    common_char_list = list()
-    for char in t:
-        if char in char_set:
-            common_char_list.append(char)
-    print(common_char_list)
-
+    # the next position to check in s
     index = 0
-    for char in common_char_list:
+    # iterate over the t
+    for char in t:
+        # check if this char can be used to form the subsequence s
         if char == s[index]:
+            # move the index forward
             index += 1
+            # if index reach the end of s, return True
             if index == len(s):
                 return True
     return False
@@ -46,4 +45,4 @@ t2 = "ahbgdc"
 
 s3 = ""
 t3 = "ahbgdc"
-print(isSubsequence(s3, t3))
+print(isSubsequence(s2, t2))
