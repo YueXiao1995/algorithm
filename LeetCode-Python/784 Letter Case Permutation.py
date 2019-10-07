@@ -16,20 +16,27 @@ Note:
 """
 
 def letterCasePermutation(S):
+    # use a list store the possible strings
     possible_strings = [S]
+    # iterate over the string
     for i in range(len(S)):
-        new_strings = list()
+        # check if the char is a letter
         if S[i].isalpha():
+            # store the new generated strings into a list
+            new_strings = list()
+            # convert the lowercase to uppercase, the uppercase to lowercase
             if S[i].islower():
                 new_char = S[i].upper()
             else:
                 new_char = S[i].lower()
+            # generate new strings
             for string in possible_strings:
                 copy = list(string)
                 copy[i] = new_char
                 new_strings.append(("").join(copy))
-        possible_strings.extend(new_strings)
-
+            # add the new generated strings to the list
+            possible_strings.extend(new_strings)
+    # return the result
     return possible_strings
 
 S1 = "a1b2"

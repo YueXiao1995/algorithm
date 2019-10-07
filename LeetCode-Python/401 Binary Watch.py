@@ -17,10 +17,12 @@ Note:
     The minute must be consist of two digits and may contain a leading zero, for example "10:2" is not valid, it should be "10:02".
 """
 def readBinaryWatch(num):
+    # the number of each LED
     first_row = [8, 4, 2, 1]
     second_row = [32, 16, 8, 4, 2, 1]
-
+    # generate all of the possible sequence of hour
     possible_hours = [[[0, 0, 0, 0]]]
+    # the maximum number of LEDs that are currently on in hour row is 3
     for i in range(3):
         new_possible_hours = list()
         for hours in possible_hours[i]:
@@ -30,7 +32,7 @@ def readBinaryWatch(num):
                     copy[k] = first_row[k]
                     new_possible_hours.append(copy)
         possible_hours.append(new_possible_hours)
-
+    # convert the binary number to int, omit the number bigger than 11
     valid_hours = list()
     for hours_list in possible_hours:
         hours_set = set()
@@ -38,8 +40,8 @@ def readBinaryWatch(num):
             if sum(hours) < 12:
                 hours_set.add(sum(hours))
         valid_hours.append(list(hours_set))
-    print(valid_hours)
 
+    # generate all of the possible sequence of minute
     possible_minute = [[[0, 0, 0, 0, 0, 0]]]
     for i in range(5):
         new_possible_minute = list()
@@ -58,7 +60,6 @@ def readBinaryWatch(num):
             if sum(minute) < 60:
                 minute_set.add(sum(minute))
         valid_minute.append(list(minute_set))
-    print(valid_minute)
 
     result = list()
     # the num of LEDs that are currently on in the first row
