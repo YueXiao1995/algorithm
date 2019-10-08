@@ -99,7 +99,21 @@ def isValid(s):
     else:
         return False
 
-
+# use the stack data structure
+def isValid2(s):
+    stack = list()
+    for char in s:
+        if len(stack) > 0:
+            if (char == ')' and stack[-1] == '(') or (char == '}' and stack[-1] == '{') or (char == ']' and stack[-1] == '['):
+                del stack[-1]
+            else:
+                stack += [char]
+        else:
+            stack += [char]
+    if len(stack) == 0:
+        return True
+    else:
+        return False
 
 input1 = "()"
 input2 = "()[]{}"
@@ -107,5 +121,5 @@ input3 = "(]"
 input4 = "([)]"
 input5 = "{[]}"
 input6 = "{[()][][()]}"
-print(isValid(input4))
+print(isValid2(input6))
 
