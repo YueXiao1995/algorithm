@@ -38,7 +38,5 @@ def twoCitySchedCost2(costs):
     return d_A + d_B
 
 input1 = [[10,20],[30,200],[400,50],[30,20]]
-sum_cols = [sum(x) for x in zip(*input1)][0]
-print(sum_cols)
 print(twoCitySchedCost2(input1))
 

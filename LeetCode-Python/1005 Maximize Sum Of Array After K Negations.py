@@ -25,7 +25,10 @@ Note:
 """
 
 def largestSumAfterKNegations(A, K):
-    return 0
+    for i in range(K):
+        A = sorted(A)
+        A[0] = -A[0]
+    return sum(A)
 
 A1 = [4,2,3]
 K1 = 1
@@ -36,4 +39,4 @@ K2 = 3
 A3 = [2,-3,-1,5,-4]
 K3 = 2
 
-print(largestSumAfterKNegations(A1, K1))
+print(largestSumAfterKNegations(A3, K3))
