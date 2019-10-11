@@ -5,10 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="78a440fe-2f0d-440d-88c1-205e243682c0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/944 Delete Columns to Make Sorted.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1005 Maximize Sum Of Array After K Negations.py" beforeDir="false" afterPath="$PROJECT_DIR$/1005 Maximize Sum Of Array After K Negations.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1029 Two City Scheduling.py" beforeDir="false" afterPath="$PROJECT_DIR$/1029 Two City Scheduling.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/874 Walking Robot Simulation.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -54,7 +51,7 @@
     <SUITE FILE_PATH="coverage/LeetCode_Python$1103_Distribute_Candies_to_People.coverage" NAME="1103 Distribute Candies to People Coverage Results" MODIFIED="1569501314821" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCode_Python$1_Two_Sum.coverage" NAME="1 Two Sum Coverage Results" MODIFIED="1569330550798" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCode_Python$860_Lemonade_Change.coverage" NAME="860 Lemonade Change Coverage Results" MODIFIED="1570652149155" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/LeetCode_Python$944_Delete_Columns_to_Make_Sorted.coverage" NAME="944 Delete Columns to Make Sorted Coverage Results" MODIFIED="1570746644699" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/LeetCode_Python$944_Delete_Columns_to_Make_Sorted.coverage" NAME="944 Delete Columns to Make Sorted Coverage Results" MODIFIED="1570749559319" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Leetcode$14_Longest_Common_Prefix.coverage" NAME="14 Longest Common Prefix Coverage Results" MODIFIED="1566588367685" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Leetcode$204_Count_Primes.coverage" NAME="204 Count Primes Coverage Results" MODIFIED="1568502467320" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Leetcode$961_N_Repeated_Element_in_Size_2N_Array.coverage" NAME="961 N-Repeated Element in Size 2N Array Coverage Results" MODIFIED="1568852281340" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -222,6 +219,7 @@
     <SUITE FILE_PATH="coverage/LeetCode_Python$893_Groups_of_Special_Equivalent_Strings.coverage" NAME="893 Groups of Special-Equivalent Strings Coverage Results" MODIFIED="1570044214758" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Leetcode$387_First_Unique_Character_in_a_String.coverage" NAME="387 First Unique Character in a String Coverage Results" MODIFIED="1568549184854" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCode_Python$3_Longest_Substring_Without_Repeating_Characters.coverage" NAME="3 Longest Substring Without Repeating Characters Coverage Results" MODIFIED="1569335477434" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/LeetCode_Python$874_Walking_Robot_Simulation.coverage" NAME="874 Walking Robot Simulation Coverage Results" MODIFIED="1570757767371" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Leetcode$507_Perfect_Number.coverage" NAME="507 Perfect Number Coverage Results" MODIFIED="1568998087296" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Leetcode$Two_Sum.coverage" NAME="Two Sum Coverage Results" MODIFIED="1566406444517" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Leetcode$442_Find_All_Duplicates_in_an_Array.coverage" NAME="442 Find All Duplicates in an Array Coverage Results" MODIFIED="1567074702904" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -280,15 +278,6 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/703 Kth Largest Element in a Stream.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="14" selection-start-line="14" selection-end-line="14" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/933 Number of Recent Calls.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="360">
@@ -342,11 +331,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/944 Delete Columns to Make Sorted.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="486">
-              <caret line="56" lean-forward="true" selection-start-line="56" selection-end-line="56" />
+            <state relative-caret-position="156">
+              <caret line="34" column="22" lean-forward="true" selection-start-line="34" selection-start-column="22" selection-end-line="34" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/874 Walking Robot Simulation.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="312">
+              <caret line="71" column="50" lean-forward="true" selection-start-line="71" selection-start-column="50" selection-end-line="71" selection-end-column="50" />
             </state>
           </provider>
         </entry>
@@ -385,7 +383,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/551 Student Attendance Record I.py" />
         <option value="$PROJECT_DIR$/521 Longest Uncommon Subsequence I.py" />
         <option value="$PROJECT_DIR$/459 Repeated Substring Pattern.py" />
         <option value="$PROJECT_DIR$/709 To Lower Case.py" />
@@ -436,6 +433,7 @@
         <option value="$PROJECT_DIR$/1029 Two City Scheduling.py" />
         <option value="$PROJECT_DIR$/1005 Maximize Sum Of Array After K Negations.py" />
         <option value="$PROJECT_DIR$/944 Delete Columns to Make Sorted.py" />
+        <option value="$PROJECT_DIR$/874 Walking Robot Simulation.py" />
       </list>
     </option>
   </component>
@@ -485,7 +483,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.944 Delete Columns to Make Sorted">
+  <component name="RunManager" selected="Python.874 Walking Robot Simulation">
     <configuration name="1005 Maximize Sum Of Array After K Negations" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Leetcode" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -552,7 +550,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="860 Lemonade Change" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="874 Walking Robot Simulation" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Leetcode" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -565,7 +563,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/860 Lemonade Change.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/874 Walking Robot Simulation.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -598,11 +596,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.874 Walking Robot Simulation" />
         <item itemvalue="Python.944 Delete Columns to Make Sorted" />
         <item itemvalue="Python.1005 Maximize Sum Of Array After K Negations" />
         <item itemvalue="Python.1029 Two City Scheduling" />
         <item itemvalue="Python.1046 Last Stone Weight" />
-        <item itemvalue="Python.860 Lemonade Change" />
       </list>
     </recent_temporary>
   </component>
@@ -665,12 +663,12 @@
       <workItem from="1570516124926" duration="12424000" />
       <workItem from="1570584066217" duration="2829000" />
       <workItem from="1570648127797" duration="9289000" />
-      <workItem from="1570727071122" duration="2023000" />
+      <workItem from="1570727071122" duration="10318000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="630210000" />
+    <option name="totallyTimeSpent" value="638505000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="711" y="23" width="729" height="877" extended-state="0" />
@@ -726,13 +724,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/1108 Defanging an IP Address.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="10" selection-start-line="9" selection-start-column="10" selection-end-line="9" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/1078 Occurrences After Bigram.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -1074,8 +1065,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/944 Delete Columns to Make Sorted.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="486">
-          <caret line="56" lean-forward="true" selection-start-line="56" selection-end-line="56" />
+        <state relative-caret-position="156">
+          <caret line="34" column="22" lean-forward="true" selection-start-line="34" selection-start-column="22" selection-end-line="34" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/874 Walking Robot Simulation.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="71" column="50" lean-forward="true" selection-start-line="71" selection-start-column="50" selection-end-line="71" selection-end-column="50" />
         </state>
       </provider>
     </entry>
