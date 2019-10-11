@@ -31,7 +31,9 @@ Note:
 """
 
 def robotSim(commands, obstacles):
-    # store the obstacles in two dict
+    # store the obstacles into two dicts,
+    # one is using x (obstacle[0]) as the key,
+    # the other is using y(obstacle[1]) ase the key
     obstacles_x = dict()
     obstacles_y = dict()
     for obstacle in obstacles:
@@ -51,15 +53,19 @@ def robotSim(commands, obstacles):
     position = [0, 0]
     maximum_distance = 0
     for command in commands:
+        # the direction after turn right 90 degrees
         if command == -1:
             direction = (direction + 1) % 4
+        # the direction after turn left 90 degrees
         elif command == -2:
             direction = (4 + direction - 1) % 4
+        # move forward
         else:
             index = move_directions[direction][0]
             d = move_directions[direction][1]
-
+            # check if the robot is going to move vertically
             if index == 1:
+                # check if there is any obstacle in this column
                 if position[0] not in obstacles_x:
                     position[index] += d * command
                 else:
@@ -68,16 +74,21 @@ def robotSim(commands, obstacles):
                             position[index] += d
                         else:
                             break
+            # else the robot is going to move horizontally
             else:
+                # check if there is any obstacle in this row
                 if position[1] not in obstacles_y:
                     position[index] += d * command
+                # else, move until meet the obstacle
                 else:
                     for i in range(command):
                         if position[index] + d not in obstacles_y[position[1]]:
                             position[index] += d
                         else:
                             break
+        # calculate the square of the Euclidean distance
         distance = position[0] ** 2 + position[1] ** 2
+        # update the square of the max Euclidean distance
         if distance > maximum_distance:
             maximum_distance = distance
     return maximum_distance
