@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="78a440fe-2f0d-440d-88c1-205e243682c0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/762 Prime Number of Set Bits in Binary Representation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/693 Binary Number with Alternating Bits.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -106,6 +107,7 @@
     <SUITE FILE_PATH="coverage/Leetcode$220_Contains_Duplicate_III.coverage" NAME="220 Contains Duplicate III Coverage Results" MODIFIED="1567515361581" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Leetcode$122_Best_Time_to_Buy_and_Sell_Stock_II.coverage" NAME="122 Best Time to Buy and Sell Stock II Coverage Results" MODIFIED="1566781096383" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Leetcode$509_Fibonacci_Number.coverage" NAME="509 Fibonacci Number Coverage Results" MODIFIED="1567523815499" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/LeetCode_Python$693_Binary_Number_with_Alternating_Bits.coverage" NAME="693 Binary Number with Alternating Bits Coverage Results" MODIFIED="1570920914998" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Leetcode$849_Maximize_Distance_to_Closest_Person.coverage" NAME="849 Maximize Distance to Closest Person Coverage Results" MODIFIED="1567884401475" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCode_Python$836_Rectangle_Overlap.coverage" NAME="836 Rectangle Overlap Coverage Results" MODIFIED="1569258438125" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Leetcode$9_Palindrome_Number.coverage" NAME="9 Palindrome Number Coverage Results" MODIFIED="1566577287202" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -186,7 +188,7 @@
     <SUITE FILE_PATH="coverage/LeetCode_Python$1175_Prime_Arrangements.coverage" NAME="1175 Prime Arrangements Coverage Results" MODIFIED="1569507841656" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Leetcode$747_Largest_Number_At_Least_Twice_of_Others.coverage" NAME="747 Largest Number At Least Twice of Others Coverage Results" MODIFIED="1567774466535" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCode_Python$844_Backspace_String_Compare.coverage" NAME="844 Backspace String Compare Coverage Results" MODIFIED="1569599120170" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/LeetCode_Python$762_Prime_Number_of_Set_Bits_in_Binary_Representation.coverage" NAME="762 Prime Number of Set Bits in Binary Representation Coverage Results" MODIFIED="1570919586704" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/LeetCode_Python$762_Prime_Number_of_Set_Bits_in_Binary_Representation.coverage" NAME="762 Prime Number of Set Bits in Binary Representation Coverage Results" MODIFIED="1570920897577" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Leetcode$720_Longest_Word_in_Dictionary.coverage" NAME="720 Longest Word in Dictionary Coverage Results" MODIFIED="1568758080398" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Leetcode$1176_Diet_Plan_Performance.coverage" NAME="1176 Diet Plan Performance Coverage Results" MODIFIED="1567535154235" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCode_Python$496_Next_Greater_Element_I.coverage" NAME="496 Next Greater Element I Coverage Results" MODIFIED="1570528631084" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -283,11 +285,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/762 Prime Number of Set Bits in Binary Representation.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="395">
-              <caret line="45" column="17" lean-forward="true" selection-start-line="45" selection-start-column="17" selection-end-line="45" selection-end-column="17" />
+            <state relative-caret-position="65">
+              <caret line="23" column="43" lean-forward="true" selection-start-line="23" selection-start-column="43" selection-end-line="23" selection-end-column="43" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/693 Binary Number with Alternating Bits.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="261">
+              <caret line="29" selection-start-line="29" selection-end-line="41" selection-end-column="30" />
             </state>
           </provider>
         </entry>
@@ -326,7 +337,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/696 Count Binary Substrings.py" />
         <option value="$PROJECT_DIR$/788 Rotated Digits.py" />
         <option value="$PROJECT_DIR$/819 Most Common Word.py" />
         <option value="$PROJECT_DIR$/824 Goat Latin.py" />
@@ -377,6 +387,7 @@
         <option value="$PROJECT_DIR$/461 Hamming Distance.py" />
         <option value="$PROJECT_DIR$/476 Number Complement.py" />
         <option value="$PROJECT_DIR$/762 Prime Number of Set Bits in Binary Representation.py" />
+        <option value="$PROJECT_DIR$/693 Binary Number with Alternating Bits.py" />
       </list>
     </option>
   </component>
@@ -426,29 +437,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.762 Prime Number of Set Bits in Binary Representation">
-    <configuration name="191 Number of 1 Bits" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Leetcode" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/191 Number of 1 Bits.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.693 Binary Number with Alternating Bits">
     <configuration name="342 Power of Four" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Leetcode" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -515,6 +504,28 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="693 Binary Number with Alternating Bits" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Leetcode" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/693 Binary Number with Alternating Bits.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="762 Prime Number of Set Bits in Binary Representation" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Leetcode" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -539,11 +550,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.693 Binary Number with Alternating Bits" />
         <item itemvalue="Python.762 Prime Number of Set Bits in Binary Representation" />
         <item itemvalue="Python.476 Number Complement" />
         <item itemvalue="Python.461 Hamming Distance" />
         <item itemvalue="Python.342 Power of Four" />
-        <item itemvalue="Python.191 Number of 1 Bits" />
       </list>
     </recent_temporary>
   </component>
@@ -607,12 +618,12 @@
       <workItem from="1570584066217" duration="2829000" />
       <workItem from="1570648127797" duration="9289000" />
       <workItem from="1570727071122" duration="15666000" />
-      <workItem from="1570905838837" duration="3213000" />
+      <workItem from="1570905838837" duration="3899000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="647066000" />
+    <option name="totallyTimeSpent" value="647752000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="711" y="23" width="729" height="877" extended-state="0" />
@@ -668,13 +679,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/819 Most Common Word.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="555">
-          <caret line="37" column="26" selection-start-line="37" selection-start-column="26" selection-end-line="37" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/824 Goat Latin.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
@@ -1020,8 +1024,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/762 Prime Number of Set Bits in Binary Representation.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="395">
-          <caret line="45" column="17" lean-forward="true" selection-start-line="45" selection-start-column="17" selection-end-line="45" selection-end-column="17" />
+        <state relative-caret-position="65">
+          <caret line="23" column="43" lean-forward="true" selection-start-line="23" selection-start-column="43" selection-end-line="23" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/693 Binary Number with Alternating Bits.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="261">
+          <caret line="29" selection-start-line="29" selection-end-line="41" selection-end-column="30" />
         </state>
       </provider>
     </entry>
