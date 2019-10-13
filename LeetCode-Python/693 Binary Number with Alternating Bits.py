@@ -27,9 +27,11 @@ Example 4:
 """
 
 def hasAlternatingBits(n):
+    # convert the n to binary string
     binary_string = str(bin(n))[2:]
     last_digit = None
     is_alternating_bits = True
+    # iterate over the binary string
     for i in range(len(binary_string)):
         if last_digit == None:
             last_digit = binary_string[i]

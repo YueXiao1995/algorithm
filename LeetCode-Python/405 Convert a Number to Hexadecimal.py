@@ -8,19 +8,17 @@ Note:
     You must not use any method provided by the library which converts/formats the number to hex directly.
 
 Example 1:
-    Input:
-    26
-
-    Output:
-    "1a"
+    Input: 26
+    Output: "1a"
 
 Example 2:
-    Input:
-    -1
-
-    Output:
-    "ffffffff"
+    Input: -1
+    Output: "ffffffff"
 """
 def toHex(num):
     return ""
-print()
+
+input1 = 26
+input2 = -1
+print(toHex())
+
