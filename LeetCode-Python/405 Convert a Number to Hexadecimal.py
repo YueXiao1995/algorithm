@@ -17,19 +17,30 @@ Example 2:
 """
 import string
 def toHex(num):
+    # the chars that can be used to form a hexadecimal
     digits = list(range(10)) + list(string.ascii_lowercase)
+    # if the num is 0, return 0
     if num == 0:
         return "0"
+    # if num is negative, we need to change it
     elif num < 0:
+        # first get the binary string of its abs value
         binary_string = str(bin(num))[3:]
+        # make it a 32 bit string
         binary_string = "0" * (32 - len(binary_string)) + binary_string
+        # flip every bit
         filpped_binary_string = ""
         for digit in binary_string:
             if digit == "0":
                 filpped_binary_string += "1"
             else:
                 filpped_binary_string += "0"
+        # convert the binary string to a int and plus 1
         num = int(filpped_binary_string, 2) + 1
+    else:
+        # if num is positive, dont do anything
+        pass
+    # convert the decimal int to a hexadecimal string
     base = 16
     hexadeciaml = ""
     while num > 0:
