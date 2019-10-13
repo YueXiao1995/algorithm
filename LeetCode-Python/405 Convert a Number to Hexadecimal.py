@@ -15,10 +15,31 @@ Example 2:
     Input: -1
     Output: "ffffffff"
 """
+import string
 def toHex(num):
-    return ""
+    digits = list(range(10)) + list(string.ascii_lowercase)
+    if num == 0:
+        return "0"
+    elif num < 0:
+        binary_string = str(bin(num))[3:]
+        binary_string = "0" * (32 - len(binary_string)) + binary_string
+        filpped_binary_string = ""
+        for digit in binary_string:
+            if digit == "0":
+                filpped_binary_string += "1"
+            else:
+                filpped_binary_string += "0"
+        num = int(filpped_binary_string, 2) + 1
+    base = 16
+    hexadeciaml = ""
+    while num > 0:
+        remain = num % base
+        x = remain // (base // 16)
+        hexadeciaml = str(digits[x]) + hexadeciaml
+        num -= remain
+        base *= 16
+    return hexadeciaml
 
 input1 = 26
 input2 = -1
-print(toHex())
-
+print(toHex(input2))
