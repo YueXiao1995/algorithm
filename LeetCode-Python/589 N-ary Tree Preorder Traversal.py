@@ -1,21 +1,18 @@
 """
-Given an n-ary tree, return the postorder traversal of its nodes' values.
+Given an n-ary tree, return the preorder traversal of its nodes' values.
 
 For example, given a 3-ary tree:
 
-Return its postorder traversal as: [5,6,3,2,4,1].
-
+Return its preorder traversal as: [1,3,5,6,2,4].
 
 Note:
     Recursive solution is trivial, could you do it iteratively?
 """
-
-def postorder(root):
+def preorder(root):
     if not root:
         return []
-    val_list = list()
+    val_list = [root.val]
     if len(root.children) != 0:
         for child in root.children:
-            val_list += postorder(child)
-    val_list += [root.val]
+            val_list += preorder(child)
     return val_list
