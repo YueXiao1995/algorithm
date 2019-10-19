@@ -108,6 +108,7 @@
     <SUITE FILE_PATH="coverage/Leetcode$69_Sqrt_x_.coverage" NAME="69 Sqrt(x) Coverage Results" MODIFIED="1568997441365" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Leetcode$26_Remove_Duplicates_from_Sorted_Array.coverage" NAME="26 Remove Duplicates from Sorted Array Coverage Results" MODIFIED="1566644151631" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCode_Python$784_Letter_Case_Permutation.coverage" NAME="784 Letter Case Permutation Coverage Results" MODIFIED="1570463306365" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/LeetCode_Python$669_Trim_a_Binary_Search_Tree.coverage" NAME="669 Trim a Binary Search Tree Coverage Results" MODIFIED="1571502576173" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Leetcode$1002_Find_Common_Characters.coverage" NAME="1002 Find Common Characters Coverage Results" MODIFIED="1567604902312" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCode_Python$278_First_Bad_Version.coverage" NAME="278 First Bad Version Coverage Results" MODIFIED="1570209073393" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Leetcode$532_K_diff_Pairs_in_an_Array.coverage" NAME="532 K-diff Pairs in an Array Coverage Results" MODIFIED="1567772307914" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -304,26 +305,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/897 Increasing Order Search Tree.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="311">
-              <caret line="58" column="33" lean-forward="true" selection-start-line="58" selection-start-column="33" selection-end-line="58" selection-end-column="33" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/872 Leaf-Similar Trees.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="125">
-              <caret line="13" column="3" lean-forward="true" selection-start-line="13" selection-start-column="3" selection-end-line="13" selection-end-column="3" />
+            <state relative-caret-position="511">
+              <caret line="58" column="33" selection-start-line="58" selection-start-column="33" selection-end-line="58" selection-end-column="33" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/1022 Sum of Root To Leaf Binary Numbers.py">
+        <entry file="file://$PROJECT_DIR$/669 Trim a Binary Search Tree.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="392">
-              <caret line="36" column="55" lean-forward="true" selection-start-line="36" selection-start-column="55" selection-end-line="36" selection-end-column="56" />
+            <state relative-caret-position="326">
+              <caret line="67" column="6" lean-forward="true" selection-start-line="67" selection-start-column="6" selection-end-line="67" selection-end-column="6" />
             </state>
           </provider>
         </entry>
@@ -344,7 +336,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/1215 Stepping Numbers.py" />
         <option value="$PROJECT_DIR$/1213 Intersection of Three Sorted Arrays.py" />
         <option value="$PROJECT_DIR$/1217 Play with Chips.py" />
         <option value="$PROJECT_DIR$/303 Range Sum Query - Immutable.py" />
@@ -395,6 +386,7 @@
         <option value="$PROJECT_DIR$/897 Increasing Order Search Tree.py" />
         <option value="$PROJECT_DIR$/872 Leaf-Similar Trees.py" />
         <option value="$PROJECT_DIR$/1022 Sum of Root To Leaf Binary Numbers.py" />
+        <option value="$PROJECT_DIR$/669 Trim a Binary Search Tree.py" />
       </list>
     </option>
   </component>
@@ -409,20 +401,7 @@
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
-    <panes>
-      <pane id="Scope" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="LeetCode-Python" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LeetCode-Python" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-    </panes>
+    <panes />
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
@@ -444,7 +423,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.1022 Sum of Root To Leaf Binary Numbers">
+  <component name="RunManager" selected="Python.669 Trim a Binary Search Tree">
     <configuration name="1022 Sum of Root To Leaf Binary Numbers" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Leetcode" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -467,7 +446,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="700 Search in a Binary Search Tree" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="669 Trim a Binary Search Tree" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Leetcode" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -480,7 +459,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/700 Search in a Binary Search Tree.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/669 Trim a Binary Search Tree.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -557,11 +536,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.669 Trim a Binary Search Tree" />
         <item itemvalue="Python.1022 Sum of Root To Leaf Binary Numbers" />
         <item itemvalue="Python.872 Leaf-Similar Trees" />
         <item itemvalue="Python.897 Increasing Order Search Tree" />
         <item itemvalue="Python.965 Univalued Binary Tree" />
-        <item itemvalue="Python.700 Search in a Binary Search Tree" />
       </list>
     </recent_temporary>
   </component>
@@ -635,12 +614,13 @@
       <workItem from="1571245820149" duration="1988000" />
       <workItem from="1571328367842" duration="1409000" />
       <workItem from="1571348268420" duration="2095000" />
-      <workItem from="1571392764153" duration="6307000" />
+      <workItem from="1571392764153" duration="6367000" />
+      <workItem from="1571496271496" duration="6085000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="682168000" />
+    <option name="totallyTimeSpent" value="688313000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="711" y="23" width="729" height="877" extended-state="0" />
@@ -696,13 +676,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/1213 Intersection of Three Sorted Arrays.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" column="18" selection-start-line="22" selection-start-column="18" selection-end-line="22" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/1214 Two Sum BSTs.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
@@ -1032,24 +1005,31 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/897 Increasing Order Search Tree.py">
+    <entry file="file://$PROJECT_DIR$/1022 Sum of Root To Leaf Binary Numbers.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="311">
-          <caret line="58" column="33" lean-forward="true" selection-start-line="58" selection-start-column="33" selection-end-line="58" selection-end-column="33" />
+        <state relative-caret-position="166">
+          <caret line="13" column="43" selection-start-line="13" selection-start-column="43" selection-end-line="13" selection-end-column="43" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/872 Leaf-Similar Trees.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="125">
-          <caret line="13" column="3" lean-forward="true" selection-start-line="13" selection-start-column="3" selection-end-line="13" selection-end-column="3" />
+        <state relative-caret-position="195">
+          <caret line="13" column="3" selection-start-line="13" selection-start-column="3" selection-end-line="13" selection-end-column="3" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/1022 Sum of Root To Leaf Binary Numbers.py">
+    <entry file="file://$PROJECT_DIR$/897 Increasing Order Search Tree.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="392">
-          <caret line="36" column="55" lean-forward="true" selection-start-line="36" selection-start-column="55" selection-end-line="36" selection-end-column="56" />
+        <state relative-caret-position="511">
+          <caret line="58" column="33" selection-start-line="58" selection-start-column="33" selection-end-line="58" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/669 Trim a Binary Search Tree.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="326">
+          <caret line="67" column="6" lean-forward="true" selection-start-line="67" selection-start-column="6" selection-end-line="67" selection-end-column="6" />
         </state>
       </provider>
     </entry>
