@@ -311,11 +311,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/669 Trim a Binary Search Tree.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="326">
-              <caret line="67" column="6" lean-forward="true" selection-start-line="67" selection-start-column="6" selection-end-line="67" selection-end-column="6" />
+            <state relative-caret-position="176">
+              <caret line="57" column="38" lean-forward="true" selection-start-line="57" selection-start-column="38" selection-end-line="57" selection-end-column="38" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/429 N-ary Tree Level Order Traversal.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="191">
+              <caret line="19" column="21" lean-forward="true" selection-start-line="19" selection-start-column="21" selection-end-line="19" selection-end-column="21" />
             </state>
           </provider>
         </entry>
@@ -336,7 +345,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/1213 Intersection of Three Sorted Arrays.py" />
         <option value="$PROJECT_DIR$/1217 Play with Chips.py" />
         <option value="$PROJECT_DIR$/303 Range Sum Query - Immutable.py" />
         <option value="$PROJECT_DIR$/198 House Robber.py" />
@@ -387,6 +395,7 @@
         <option value="$PROJECT_DIR$/872 Leaf-Similar Trees.py" />
         <option value="$PROJECT_DIR$/1022 Sum of Root To Leaf Binary Numbers.py" />
         <option value="$PROJECT_DIR$/669 Trim a Binary Search Tree.py" />
+        <option value="$PROJECT_DIR$/429 N-ary Tree Level Order Traversal.py" />
       </list>
     </option>
   </component>
@@ -615,12 +624,12 @@
       <workItem from="1571328367842" duration="1409000" />
       <workItem from="1571348268420" duration="2095000" />
       <workItem from="1571392764153" duration="6367000" />
-      <workItem from="1571496271496" duration="6085000" />
+      <workItem from="1571496271496" duration="7702000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="688313000" />
+    <option name="totallyTimeSpent" value="689930000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="711" y="23" width="729" height="877" extended-state="0" />
@@ -676,13 +685,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/1214 Two Sum BSTs.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="24" column="37" selection-start-line="24" selection-start-column="37" selection-end-line="24" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/1209 Remove All Adjacent Duplicates in String II.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
@@ -1028,8 +1030,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/669 Trim a Binary Search Tree.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="326">
-          <caret line="67" column="6" lean-forward="true" selection-start-line="67" selection-start-column="6" selection-end-line="67" selection-end-column="6" />
+        <state relative-caret-position="176">
+          <caret line="57" column="38" lean-forward="true" selection-start-line="57" selection-start-column="38" selection-end-line="57" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/429 N-ary Tree Level Order Traversal.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="191">
+          <caret line="19" column="21" lean-forward="true" selection-start-line="19" selection-start-column="21" selection-end-line="19" selection-end-column="21" />
         </state>
       </provider>
     </entry>
