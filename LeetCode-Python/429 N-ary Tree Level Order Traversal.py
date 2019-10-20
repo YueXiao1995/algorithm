@@ -18,23 +18,25 @@ Note:
 """
 
 def levelOrder(root):
+    # define a function which can merge two 2-D list
+    def merge2DLists(list1,list2):
+        l = len(list1)
+        for i in range(len(list2)):
+            if i < l:
+                list1[i] += list2[i]
+            else:
+                list1.append(list2[i])
+        return list1
+
+    # if root is None, return None
     if root == None:
         return None
-    def merge2DLists(list1,list2):
-        new_list = list()
-        for i in range(max(len(list1), len(list2))):
-            sublist = list()
-            if i < len(list1):
-                sublist += list1[i]
-            if i < len(list2):
-                sublist += list2[i]
-            new_list.append(sublist)
-        return new_list
 
-    if len(root.children) == 0:
-        return [[root.val]]
-    else:
-        two_d_list = list()
+    # merge its children
+    two_d_list = list()
+    if len(root.children) != 0:
         for child in root.children:
-            two_d_list = merge2DLists(two_d_list, self.levelOrder(child))
-        return [[root.val]] + two_d_list
+            two_d_list = merge2DLists(two_d_list, levelOrder(child))
+
+    # return the root and its merged children list
+    return [[root.val]] + two_d_list
