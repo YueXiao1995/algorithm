@@ -37,6 +37,5 @@ def levelOrder(root):
     if len(root.children) != 0:
         for child in root.children:
             two_d_list = merge2DLists(two_d_list, levelOrder(child))
-
     # return the root and its merged children list
     return [[root.val]] + two_d_list
