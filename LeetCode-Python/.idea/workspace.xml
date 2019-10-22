@@ -282,7 +282,7 @@
     <SUITE FILE_PATH="coverage/Leetcode$953_Verifying_an_Alien_Dictionary.coverage" NAME="953 Verifying an Alien Dictionary Coverage Results" MODIFIED="1568842602776" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Leetcode$67_Add_Binary.coverage" NAME="67 Add Binary Coverage Results" MODIFIED="1567034257938" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Leetcode$268_Missing_Number.coverage" NAME="268 Missing Number Coverage Results" MODIFIED="1567520946621" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/LeetCode_Python$993_Cousins_in_Binary_Tree.coverage" NAME="993 Cousins in Binary Tree Coverage Results" MODIFIED="1571760323327" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/LeetCode_Python$993_Cousins_in_Binary_Tree.coverage" NAME="993 Cousins in Binary Tree Coverage Results" MODIFIED="1571765708414" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCode_Python$819_Most_Common_Word.coverage" NAME="819 Most Common Word Coverage Results" MODIFIED="1569961746221" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Leetcode$447_Number_of_Boomerangs.coverage" NAME="447 Number of Boomerangs Coverage Results" MODIFIED="1568562632911" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Leetcode$219_Contains_Duplicate_II.coverage" NAME="219 Contains Duplicate II Coverage Results" MODIFIED="1567417822196" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -340,8 +340,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/993 Cousins in Binary Tree.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="401">
-              <caret line="95" column="6" lean-forward="true" selection-start-line="95" selection-start-column="6" selection-end-line="95" selection-end-column="6" />
+            <state relative-caret-position="434">
+              <caret line="58" lean-forward="true" selection-start-line="58" selection-end-line="58" />
             </state>
           </provider>
         </entry>
@@ -657,18 +657,18 @@
       <workItem from="1571496271496" duration="7814000" />
       <workItem from="1571581795917" duration="9607000" />
       <workItem from="1571690743358" duration="9091000" />
-      <workItem from="1571759770349" duration="538000" />
+      <workItem from="1571759770349" duration="3170000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="709278000" />
+    <option name="totallyTimeSpent" value="711910000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="728" y="23" width="712" height="877" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.86786294" visible="true" weight="0.19701493" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.86786294" visible="true" weight="0.09701493" />
       <window_info id="Structure" order="1" sideWeight="0.13213703" side_tool="true" weight="0.20232897" />
       <window_info id="Favorites" order="2" sideWeight="0.12054121" side_tool="true" weight="0.32896653" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -1070,8 +1070,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/993 Cousins in Binary Tree.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="401">
-          <caret line="95" column="6" lean-forward="true" selection-start-line="95" selection-start-column="6" selection-end-line="95" selection-end-column="6" />
+        <state relative-caret-position="434">
+          <caret line="58" lean-forward="true" selection-start-line="58" selection-end-line="58" />
         </state>
       </provider>
     </entry>

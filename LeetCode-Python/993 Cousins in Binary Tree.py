@@ -27,47 +27,37 @@ Note:
 from binarytree import build
 
 def isCousins(root, x, y):
-    def dfs(root, x, y, d, d_list):
-        temp_d_list = [None, None]
+    def dfs(root, x, y, d):
+        if root == None:
+            return None
         if root.value == x:
-            temp_d_list[0] = d
-            return temp_d_list
+            return [d, None]
         if root.value == y:
-            temp_d_list[1] = d
-            return temp_d_list
-        if root.left:
-            return_left_d_list = dfs(root.left, x, y, d + 1, d_list)
-            if return_left_d_list == True:
-                return True
-            elif return_left_d_list == False:
-                return False
-            else:
-                temp_d_list = return_left_d_list
+            return [None, d]
 
-        if root.right:
-            return_right_d_list = dfs(root.right, x, y, d + 1, d_list)
-            if return_right_d_list == True:
-                return True
-            elif return_right_d_list == False:
-                return False
-            else:
-                for i in range(2):
-                    if return_right_d_list[i] != None:
-                        temp_d_list[i] = return_right_d_list[i]
+        temp_d_list = [None, None]
+        children = [root.left, root.right]
+        for child in children:
+            if child:
+                d_list = dfs(child, x, y, d + 1)
+                if d_list == True:
+                    return True
+                elif d_list == False:
+                    return False
+                elif d_list != [None, None]:
+                    for i in range(2):
+                        if d_list[i] != None:
+                            temp_d_list[i] = d_list[i]
 
         if temp_d_list[0] != None and temp_d_list[1] != None:
-            if temp_d_list[0] == temp_d_list[1]:
-                if temp_d_list[0] == d + 1:
-                    return False
-                else:
-                    return True
+            if temp_d_list[0] == temp_d_list[1] and temp_d_list[0] != d + 1:
+                return True
             else:
                 return False
         else:
             return temp_d_list
 
-    result = dfs(root, x, y, 0, [None, None])
-    if result == True:
+    if dfs(root, x, y, 0) == True:
         return True
     else:
         return False
