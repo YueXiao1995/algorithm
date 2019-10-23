@@ -21,6 +21,7 @@ Note: There are at least two nodes in this BST.
 
 from binarytree import build
 def getMinimumDifference(root):
+    # store all of the values in a list
     def dfs(root):
         elements = list()
         if root.left:
