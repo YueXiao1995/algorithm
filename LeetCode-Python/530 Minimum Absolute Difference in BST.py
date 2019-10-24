@@ -44,5 +44,4 @@ def getMinimumDifference(root):
 
 root1 = build([1, None, 3, None, None, 2])
 print(root1)
-
 print(getMinimumDifference(root1))
