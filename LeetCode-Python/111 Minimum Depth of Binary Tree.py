@@ -20,7 +20,6 @@ from binarytree import build
 def minDepth(root):
     if root == None:
         return 0
-
     depth = 0
     if root.left:
         depth = minDepth(root.left)
