@@ -23,10 +23,41 @@ Note:
 """
 
 def longestWord(words):
-    return 0
+    class treeNode(object):
+        def __init__(self, x):
+            self.str = x
+            self.children = []
+
+    # generate a words tree, return the longest word
+    def generateTree(root, words):
+        longest_words = [root.str]
+        i = 0
+        # find all of the children
+        while i < len(words):
+            if len(words[i]) == len(root.str) + 1 and words[i][:len(root.str)] == root.str:
+                root.children.append(treeNode(words[i]))
+                del words[i]
+            else:
+                i += 1
+        # generate the subtree from the children
+        for child in root.children:
+            return_word = generateTree(child, words)
+            # compare the longest words returned from children, if longer than the first word in longest_words list, replace it with a new list
+            if len(return_word) > len(longest_words[0]):
+                longest_words = [return_word]
+            # if equal long, add it into the list
+            elif len(return_word) == len(longest_words[0]):
+                longest_words.append(return_word)
+        # sort the longest words list
+        longest_words = sorted(longest_words)
+        # return the first one
+        return longest_words[0]
+
+    return generateTree(treeNode(""), words)
+
 
 words1 = ["w","wo","wor","worl", "world"]
 words2 = ["a", "banana", "app", "appl", "ap", "apply", "apple"]
 
 print(longestWord(words1))
-print(sorted(words2))
+print(longestWord(words2))
