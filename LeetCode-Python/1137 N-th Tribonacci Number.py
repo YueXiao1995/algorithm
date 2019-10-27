@@ -22,6 +22,22 @@ Constraints:
 """
 
 def tribonacci(n):
-    
-    return 0
+    def merge(d1, d2, d3):
+        new_d = dict()
+        for num in d1:
+            new_d[num] = d1[num] + d2[num] + d3[num]
+        return new_d
+    t = {0:{0:1, 1:0, 2:0}, 1:{0:0, 1:1, 2:0}, 2:{0:0, 1:0, 2:1}}
 
+    if n < 3:
+        if n == 0:
+            return 0
+        else:
+            return 1
+
+    for n in range(3, n + 1):
+        t[n] = merge(t[n-3], t[n-2] , t[n-1])
+        del t[n - 3]
+
+    return t[n][1] + t[n][2]
+print(tribonacci(25))

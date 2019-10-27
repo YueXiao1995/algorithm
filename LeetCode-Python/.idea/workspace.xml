@@ -235,6 +235,7 @@
     <SUITE FILE_PATH="coverage/LeetCode_Python$994_Rotting_Oranges.coverage" NAME="994 Rotting Oranges Coverage Results" MODIFIED="1572152929732" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCode_Python$Stepping_Numbers.coverage" NAME="Stepping Numbers Coverage Results" MODIFIED="1570363273747" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Leetcode$Minimum_Knight_Moves.coverage" NAME="Minimum Knight Moves Coverage Results" MODIFIED="1569081766428" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/LeetCode_Python$1137_N_th_Tribonacci_Number.coverage" NAME="1137 N-th Tribonacci Number Coverage Results" MODIFIED="1572159838331" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCode_Python$671_Second_Minimum_Node_In_a_Binary_Tree.coverage" NAME="671 Second Minimum Node In a Binary Tree Coverage Results" MODIFIED="1572140582077" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCode_Python$110_Balanced_Binary_Tree.coverage" NAME="110 Balanced Binary Tree Coverage Results" MODIFIED="1571949132411" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Leetcode$344_Reverse_String.coverage" NAME="344 Reverse String Coverage Results" MODIFIED="1567375643055" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -359,8 +360,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/1137 N-th Tribonacci Number.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="24" column="4" selection-start-line="24" selection-start-column="4" selection-end-line="24" selection-end-column="4" />
+            <state relative-caret-position="85">
+              <caret line="11" column="22" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
             </state>
           </provider>
         </entry>
@@ -527,8 +528,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.994 Rotting Oranges">
-    <configuration name="572 Subtree of Another Tree" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.1137 N-th Tribonacci Number">
+    <configuration name="1137 N-th Tribonacci Number" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Leetcode" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -541,7 +542,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/572 Subtree of Another Tree.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1137 N-th Tribonacci Number.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -640,11 +641,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.1137 N-th Tribonacci Number" />
         <item itemvalue="Python.994 Rotting Oranges" />
         <item itemvalue="Python.Find Positive Integer Solution for a Given Equation" />
         <item itemvalue="Python.733 Flood Fill" />
         <item itemvalue="Python.671 Second Minimum Node In a Binary Tree" />
-        <item itemvalue="Python.572 Subtree of Another Tree" />
       </list>
     </recent_temporary>
   </component>
@@ -725,23 +726,23 @@
       <workItem from="1571759770349" duration="7285000" />
       <workItem from="1571835244315" duration="25294000" />
       <workItem from="1572011235553" duration="20071000" />
-      <workItem from="1572127768936" duration="16120000" />
+      <workItem from="1572127768936" duration="17548000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="777510000" />
+    <option name="totallyTimeSpent" value="778938000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="711" y="23" width="729" height="877" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.86133766" visible="true" weight="0.38719067" />
-      <window_info id="Structure" order="1" sideWeight="0.13866232" side_tool="true" visible="true" weight="0.38719067" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.86133766" visible="true" weight="0.14847161" />
+      <window_info id="Structure" order="1" sideWeight="0.13866232" side_tool="true" visible="true" weight="0.14847161" />
       <window_info id="Favorites" order="2" sideWeight="0.12054121" side_tool="true" weight="0.32896653" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.24600247" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.24600247" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.398524" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -1138,8 +1139,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/1137 N-th Tribonacci Number.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="24" column="4" selection-start-line="24" selection-start-column="4" selection-end-line="24" selection-end-column="4" />
+        <state relative-caret-position="85">
+          <caret line="11" column="22" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
         </state>
       </provider>
     </entry>
