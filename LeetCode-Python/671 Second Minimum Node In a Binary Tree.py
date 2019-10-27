@@ -29,42 +29,35 @@ Example 2:
     Explanation: The smallest value is 2, but there isn't any second smallest value.
 """
 from binarytree import build
-def findSecondMinimumValue(root):
-    def inorderTraversal(root):
-        return_list = list()
-        if root.left:
-            left_return = inorderTraversal(root.left)
-            if len(left_return) == 2:
-                return left_return
-            else:
-                return_list.extend(left_return)
 
-        if len(return_list) == 0:
-            return_list.append(root.value)
-        elif len(return_list) == 1 and root.value != return_list[0]:
-            return_list.append(root.value)
-            return sorted(return_list)
+def findSecondMinimumValue(root):
+
+    def preorderTraversal(root, nums):
+        if len(nums) == 2:
+            if root.value > nums[1]:
+                return nums
+            elif root.value < nums[1] and root.value > nums[0]:
+                nums[1] = root.value
+        elif len(nums) == 1:
+            if root.value != nums[0]:
+                nums.append(root.value)
+        elif len(nums) == 0:
+            nums.append(root.value)
+
+        if root.left:
+            nums = preorderTraversal(root.left, nums)
 
         if root.right:
-            right_return = inorderTraversal(root.right)
-            for value in right_return:
-                if value > root.value:
-                    return_list.append(value)
-                    return return_list
-        return return_list
-    if root == None:
-        return None
-    else:
-        result = inorderTraversal(root)
-        print(result)
-        if len(result) == 1:
-            return -1
-        else:
-            return result[-1]
+            nums = preorderTraversal(root.right, nums)
 
-def findSecondMinimumValue2(root):
-    def preorderTraversal(root):
-        if left_return ==
+        return nums
+
+    result = preorderTraversal(root, [])
+    if len(result) == 1:
+        return -1
+    else:
+        return result[1]
+
 
 
 root1 = build([2, 2, 5, None, None, 5, 7])
