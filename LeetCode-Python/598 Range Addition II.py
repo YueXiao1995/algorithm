@@ -62,8 +62,37 @@ def maxCount(m, n, ops):
     max = sorted(num_freq.keys())[-1]
     return num_freq[max]
 """
+# Memory Limit Exceeded
+"""
 def maxCount(m, n, ops):
-    return 0
+    matrix = []
+    for i in range(m):
+        matrix.append([0] * n)
+    for op in ops:
+        for i in range(op[0]):
+            for j in range(op[1]):
+                matrix[i][j] += 1
+    max_value = 0
+    for row in matrix:
+        row_max = max(row)
+        if row_max > max_value:
+            max_value = row_max
+    num_of_max_value = 0
+    for row in matrix:
+        num_of_max_value += row.count(max_value)
+    return num_of_max_value
+"""
+
+def maxCount(m, n, ops):
+    min_x = m
+    min_y = n
+    for op in ops:
+        if op[0] < min_x:
+            min_x = op[0]
+        if op[1] < min_y:
+            min_y = op[1]
+    return min_y * min_x
+
 m1 = 3
 n1 = 3
 operations1 = [[2,2],[3,3]]

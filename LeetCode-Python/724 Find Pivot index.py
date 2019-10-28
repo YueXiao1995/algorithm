@@ -24,48 +24,19 @@ Note:
     The length of nums will be in the range [0, 10000].
     Each element nums[i] will be an integer in the range [-1000, 1000].
 """
-def pivotIndex(nums):
-    left_sum = 0
-    right_sum = 0
-    left_index = 0
-    right_index = 1
-    if len(nums) == 0:
-        return -1
-    sum = 0
-    for num in nums:
-        sum += num
-    if sum >= 0:
-        while (left_index + right_index <= len(nums) - 1):
-            if left_sum > right_sum:
-                right_sum += nums[-right_index]
-                right_index += 1
-            else:
-                left_sum += nums[left_index]
-                left_index += 1
-            print(left_sum)
-            print(right_sum)
-    else:
-        while (left_index + right_index <= len(nums) - 1):
-            if left_sum < right_sum:
-                right_sum += nums[-right_index]
-                right_index += 1
-            elif left_sum == right_sum:
-                if nums[-right_index] == 0:
-                    right_sum += nums[-right_index]
-                    right_index += 1
-                else:
-                    left_sum += nums[left_index]
-                    left_index += 1
-            else:
-                left_sum += nums[left_index]
-                left_index += 1
-            print(left_sum)
-            print(right_sum)
 
-    if left_sum == right_sum:
-        return left_index
-    else:
-        return -1
+def pivotIndex2(nums):
+    # calculate the sum of the nums list
+    sum_value = sum(nums)
+    # iterate the nums, and grow a temp sum value step by step
+    temp_sum = 0
+    for i in range(len(nums)):
+        # it the temp sum equal to half of the (sum - num), return the index i
+        if temp_sum == (sum_value - nums[i]) / 2.0:
+            return i
+        temp_sum += nums[i]
+    return -1
+
 
 input1 = [1, 7, 3, 6, 5, 6]
 input2 = [1, 2, 3]
@@ -73,4 +44,5 @@ input3 = [-1,-1,-1,-1,-1,0]
 input4 = [-1,-1,-1,0,-1,-1]
 input5 = [-1,-1,0,-1,-1,-1]
 input6 = [-1,-1,-1,0,1,-1]
-print(pivotIndex(input6))
+input7 = [-1,-1,-1,-1,-1,-1]
+print(pivotIndex2(input7))

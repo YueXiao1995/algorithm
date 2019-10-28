@@ -29,9 +29,20 @@ def judgeSquareSum(c):
                 return True
     return False
 """
+import math
 def judgeSquareSum(c):
-    return 0
+    # get the biggest possible value of a and b
+    limit = int(math.floor(c ** 0.5))
+    # use a set to store the diff between c and num^2
+    diff = set()
+    for i in range(limit + 1):
+        num = i ** 2
+        diff.add(c - num)
+        if num in diff:
+            return True
+    return False
 input1 = 5
 input2 = 3
 input3 = 4
-print(judgeSquareSum(2))
+input4 = 2
+print(judgeSquareSum(input4))

@@ -23,6 +23,7 @@ Example 2:
 Note:
     target will be a non-zero integer in the range [-10^9, 10^9].
 """
+"""
 def reachNumber(target):
     target = abs(target)
     if target >= 0:
@@ -53,10 +54,36 @@ def reachNumber(target):
             step_size -= 1
             step_size += (position - target) * 2
             return step_size
+"""
+def reachNumber(target):
+    target = abs(target)
+    if target == 0:
+        return 0
+    step = 0
+    step_size = 1
+    position = 0
+    while position < target:
+        position += step_size
+        step_size += 1
+        step += 1
+        if position == target:
+            return step
+    step -= 1
+    step_size -= 1
+    position -= step_size
+    diff = target - position
+    return step + diff * 2
+
+
 target1 = 3
 target2 = 2
 target3 = 4
 target4 = -2
 target5 = 0
 
+print(reachNumber(target1))
+print(reachNumber(target2))
+print(reachNumber(target3))
 print(reachNumber(target4))
+print(reachNumber(target5))
+
