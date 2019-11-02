@@ -95,26 +95,20 @@ class Leaderboard(object):
         :rtype: None
         """
 
-leaderboard = Leaderboard()
-leaderboard.addScore(1,73)
-leaderboard.addScore(2,56)
-leaderboard.addScore(3,39)
-leaderboard.addScore(4,51)
-leaderboard.addScore(5,4)
-leaderboard.top(1)
-leaderboard.reset(1)
-leaderboard.reset(2)
-leaderboard.addScore(2,51)
-leaderboard.top(3)
+def experiment(operations, parameters):
+    leaderboard = Leaderboard()
+    for i in range(1, len(operations)):
+        if operations[i] == "addScore":
+            leaderboard.addScore(parameters[i][0], parameters[i][1])
+        elif operations[i] == "top":
+            leaderboard.top(parameters[i][0])
+        elif operations[i] == "reset":
+            leaderboard.reset(parameters[i][0])
 
+operations1 = ["Leaderboard","addScore","addScore","addScore","addScore","addScore","top","reset","reset","addScore","top"]
+parameters1 = [[],[1,73],[2,56],[3,39],[4,51],[5,4],[1],[1],[2],[2,51],[3]]
+operations2 = ["Leaderboard","addScore","addScore","addScore","addScore","addScore","addScore","addScore","addScore","addScore","addScore","top","reset","reset","addScore","addScore","top","reset","reset","addScore","reset"]
+parameters2 = [[],[1,13],[2,93],[3,84],[4,6],[5,89],[6,31],[7,7],[8,1],[9,98],[10,42],[5],[1],[2],[3,76],[4,68],[1],[3],[4],[2,70],[2]]
 
-operations = ["Leaderboard","addScore","addScore","addScore","addScore","addScore","addScore","addScore","addScore","addScore","addScore","top","reset","reset","addScore","addScore","top","reset","reset","addScore","reset"]
-parameters = [[],[1,13],[2,93],[3,84],[4,6],[5,89],[6,31],[7,7],[8,1],[9,98],[10,42],[5],[1],[2],[3,76],[4,68],[1],[3],[4],[2,70],[2]]
-leaderboard2 = Leaderboard()
-for i in range(1, len(operations)):
-    if operations[i] == "addScore":
-        leaderboard2.addScore(parameters[i][0], parameters[i][1])
-    elif operations[i] == "top":
-        leaderboard2.top(parameters[i][0])
-    elif operations[i] == "reset":
-        leaderboard2.reset(parameters[i][0])
+experiment(operations1, parameters1)
+experiment(operations2, parameters2)
