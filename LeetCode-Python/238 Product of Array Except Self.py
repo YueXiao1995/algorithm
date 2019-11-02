@@ -10,6 +10,7 @@ Follow up:
     Could you solve it with constant space complexity? (The output array does not count as extra space for the purpose of space complexity analysis.)
 """
 # Time Limit Exceeded
+"""
 def productExceptSelf(nums):
     def product(nums):
         p = None
@@ -28,8 +29,8 @@ def productExceptSelf(nums):
         result.append(product(new_nums))
 
     return result
-
-def productExceptSelf2(nums):
+"""
+def productExceptSelf(nums):
     p1_list = list()
     p1 = 1
     for num in nums:
@@ -55,7 +56,7 @@ def productExceptSelf2(nums):
     return result
 
 input1 = [1,2,3,4]
-print(productExceptSelf2(input1))
+print(productExceptSelf(input1))
 
 input2 = [0, 0]
-print(productExceptSelf2(input2))
+print(productExceptSelf(input2))
