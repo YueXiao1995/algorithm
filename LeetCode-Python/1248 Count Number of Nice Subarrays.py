@@ -42,7 +42,6 @@ def numberOfSubarrays(nums, k):
     if len(odd_index) < k:
         return 0
 
-
     print(new_nums)
 
 
