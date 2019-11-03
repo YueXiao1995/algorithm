@@ -84,7 +84,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.重建二叉树">
+  <component name="RunManager">
     <configuration name="二维数组中的查找" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="剑指Offer-Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -153,8 +153,6 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.重建二叉树" />
-        <item itemvalue="Python.替换空格" />
         <item itemvalue="Python.二维数组中的查找" />
       </list>
     </recent_temporary>
