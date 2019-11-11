@@ -42,7 +42,6 @@ def findPairs(nums, k):
     return num_of_pairs
 """
 # Time Limit Exceeded
-"""
 def findPairs(nums, k):
     # sort the nums
     nums = sorted(nums)
@@ -66,18 +65,68 @@ def findPairs(nums, k):
         del nums[index]
         l -= 1
     return num_of_pairs
-"""
+
+def findPairs2(nums, k):
+    nums = sorted(nums)
+    pairs = set()
+    start_index = 0
+    index = 1
+    while index < len(nums):
+        last = nums[start_index]
+        if nums[index] <= last + k:
+            if nums[index] == last:
+                start_index += 1
+
+            if nums[index] == last + k:
+                pair = (last, last + k)
+                pairs.add(pair)
+        else:
+            while nums[index] >= nums[start_index] + k and start_index < index:
+                start_index += 1
+                if start_index != index:
+                    last = nums[start_index]
+                    if nums[index] == last + k:
+                        pair = (last, last + k)
+                        pairs.add(pair)
+        index += 1
+    return len(pairs)
+
 input1 = [3, 1, 4, 1, 5]
 k1 = 2
+print(findPairs2(input1, k1))
+
 input2 = [1, 2, 3, 4, 5]
 k2 = 1
+print(findPairs2(input2, k2))
+
 input3 = [1, 3, 1, 5, 4]
 k3 = 0
+print(findPairs2(input3, k3))
+
 input4 = [1, 3, 1, 5, 4]
 k4 = 0
+print(findPairs2(input4, k4))
+
 input5 = [1, 1, 1, 1, 1]
 k5 = 0
+print(findPairs2(input5, k5))
 
 input6 = reversed([0,1,2,3,4,5,6,7,8])
 k6 = 1
-print(findPairs(input3, k3))
+print(findPairs2(input6, k6))
+
+input7 = [1, 2, 3, 4, 5]
+k7 = 0
+print(findPairs2(input7, k7))
+
+input8 = [1,1,1,2,2]
+k8 = 0
+print(findPairs2(input8, k8))
+
+input9 = [6,7,3,6,4,6,3,5,6,9]
+k9 = 4
+print(findPairs2(input9, k9))
+
+input10 = [1,3,1,5,4]
+k10 = 0
+print(findPairs2(input10, k10))
