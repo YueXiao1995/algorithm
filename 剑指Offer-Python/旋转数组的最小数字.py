@@ -7,4 +7,4 @@ NOTE：给出的所有元素都大于0，若数组大小为0，请返回0。
 """
 
 
-def minNumberInRotateArray(self, rotateArray):
+def minNumberInRotateArray(rotateArray):
