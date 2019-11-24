@@ -5,11 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="78a440fe-2f0d-440d-88c1-205e243682c0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/739 Daily Temperatures.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Count Servers that Communicate.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Minimum Time Visiting All Points.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Search Suggestions System.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1260 Shift 2D Grid.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1261 Find Elements in a Contaminated Binary Tree.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Count Servers that Communicate.py" beforeDir="false" afterPath="$PROJECT_DIR$/1267 Count Servers that Communicate.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Minimum Time Visiting All Points.py" beforeDir="false" afterPath="$PROJECT_DIR$/1266 Minimum Time Visiting All Points.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Number of Ways to Stay in the Same Place After Some Steps.py" beforeDir="false" afterPath="$PROJECT_DIR$/1269 Number of Ways to Stay in the Same Place After Some Steps.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Search Suggestions System.py" beforeDir="false" afterPath="$PROJECT_DIR$/1268 Search Suggestions System.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -222,6 +224,7 @@
     <SUITE FILE_PATH="coverage/Leetcode$414_Third_Maximum_Number.coverage" NAME="414 Third Maximum Number Coverage Results" MODIFIED="1567341319273" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Leetcode$66_Plus_One.coverage" NAME="66 Plus One Coverage Results" MODIFIED="1567020138324" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Leetcode$725_Split_Linked_List_in_Parts.coverage" NAME="725 Split Linked List in Parts Coverage Results" MODIFIED="1567175469258" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/LeetCode_Python$1260_Shift_2D_Grid.coverage" NAME="1260 Shift 2D Grid Coverage Results" MODIFIED="1574610216574" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCode_Python$Design_A_Leaderboard.coverage" NAME="Design A Leaderboard Coverage Results" MODIFIED="1572711155413" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Leetcode$707_Design_Linked_List.coverage" NAME="707 Design Linked List Coverage Results" MODIFIED="1566503927877" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Leetcode$914_X_of_a_Kind_in_a_Deck_of_Cards.coverage" NAME="914 X of a Kind in a Deck of Cards Coverage Results" MODIFIED="1568382544555" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -357,55 +360,55 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/1031 Maximum Sum of Two Non-Overlapping Subarrays.py">
+        <entry file="file://$PROJECT_DIR$/1266 Minimum Time Visiting All Points.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="17" column="16" selection-start-line="17" selection-start-column="16" selection-end-line="17" selection-end-column="16" />
+            <state relative-caret-position="240">
+              <caret line="16" selection-start-line="16" selection-end-line="16" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/739 Daily Temperatures.py">
+        <entry file="file://$PROJECT_DIR$/1260 Shift 2D Grid.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="15" selection-start-line="15" selection-end-line="15" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Minimum Time Visiting All Points.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
-              <caret line="23" column="17" selection-start-line="23" selection-start-column="17" selection-end-line="23" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Count Servers that Communicate.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="222">
-              <caret line="32" column="25" lean-forward="true" selection-start-line="32" selection-start-column="25" selection-end-line="32" selection-end-column="25" />
+            <state relative-caret-position="555">
+              <caret line="37" column="41" selection-start-line="37" selection-start-column="41" selection-end-line="37" selection-end-column="41" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Search Suggestions System.py">
+        <entry file="file://$PROJECT_DIR$/1261 Find Elements in a Contaminated Binary Tree.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="397">
-              <caret line="48" column="64" selection-start-line="47" selection-start-column="16" selection-end-line="48" selection-end-column="64" />
+            <state relative-caret-position="271">
+              <caret line="56" column="27" lean-forward="true" selection-start-line="56" selection-start-column="27" selection-end-line="56" selection-end-column="27" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/1232 Check If It Is a Straight Line.py">
+        <entry file="file://$PROJECT_DIR$/1267 Count Servers that Communicate.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="13" column="28" selection-start-line="13" selection-start-column="28" selection-end-line="13" selection-end-column="28" />
+            <state relative-caret-position="480">
+              <caret line="32" column="25" selection-start-line="32" selection-start-column="25" selection-end-line="32" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/1268 Search Suggestions System.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="840">
+              <caret line="56" column="28" selection-start-line="56" selection-start-column="28" selection-end-line="56" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/1269 Number of Ways to Stay in the Same Place After Some Steps.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="480">
+              <caret line="32" column="27" selection-start-line="32" selection-start-column="27" selection-end-line="32" selection-end-column="27" />
             </state>
           </provider>
         </entry>
@@ -459,10 +462,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/543 Diameter of Binary Tree.py" />
-        <option value="$PROJECT_DIR$/563 Binary Tree Tilt.py" />
-        <option value="$PROJECT_DIR$/257 Binary Tree Paths.py" />
-        <option value="$PROJECT_DIR$/107 Binary Tree Level Order Traversal II.py" />
         <option value="$PROJECT_DIR$/530 Minimum Absolute Difference in BST.py" />
         <option value="$PROJECT_DIR$/235 Lowest Common Ancestor of a Binary Search Tree.py" />
         <option value="$PROJECT_DIR$/437 Path Sum III.py" />
@@ -510,6 +509,10 @@
         <option value="$PROJECT_DIR$/Minimum Time Visiting All Points.py" />
         <option value="$PROJECT_DIR$/Count Servers that Communicate.py" />
         <option value="$PROJECT_DIR$/Search Suggestions System.py" />
+        <option value="$PROJECT_DIR$/Number of Ways to Stay in the Same Place After Some Steps.py" />
+        <option value="$PROJECT_DIR$/1260 Shift 2D Grid.py" />
+        <option value="$PROJECT_DIR$/1261. Find Elements in a Contaminated Binary Tree.py" />
+        <option value="$PROJECT_DIR$/1261 Find Elements in a Contaminated Binary Tree.py" />
       </list>
     </option>
   </component>
@@ -525,7 +528,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -541,6 +543,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -563,8 +566,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Search Suggestions System">
-    <configuration name="532 K-diff Pairs in an Array" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.1260 Shift 2D Grid">
+    <configuration name="1260 Shift 2D Grid" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Leetcode" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -577,7 +580,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/532 K-diff Pairs in an Array.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1260 Shift 2D Grid.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -621,7 +624,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Count Servers that Communicate.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1267 Count Servers that Communicate.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -643,7 +646,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Minimum Time Visiting All Points.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1266 Minimum Time Visiting All Points.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -665,7 +668,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Search Suggestions System.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1268 Search Suggestions System.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -676,11 +679,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.1260 Shift 2D Grid" />
         <item itemvalue="Python.Search Suggestions System" />
         <item itemvalue="Python.Count Servers that Communicate" />
         <item itemvalue="Python.Minimum Time Visiting All Points" />
         <item itemvalue="Python.739 Daily Temperatures" />
-        <item itemvalue="Python.532 K-diff Pairs in an Array" />
       </list>
     </recent_temporary>
   </component>
@@ -779,23 +782,25 @@
       <workItem from="1573472862752" duration="8524000" />
       <workItem from="1573496325365" duration="2008000" />
       <workItem from="1574562661226" duration="2035000" />
-      <workItem from="1574564975495" duration="2078000" />
+      <workItem from="1574564975495" duration="2748000" />
+      <workItem from="1574608937481" duration="1963000" />
+      <workItem from="1574611328643" duration="2882000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="849013000" />
+    <option name="totallyTimeSpent" value="854528000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="742" y="23" width="698" height="877" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.8527005" visible="true" weight="0.16158536" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.8527005" visible="true" weight="0.17073171" />
       <window_info id="Structure" order="1" sideWeight="0.14729951" side_tool="true" weight="0.16448326" />
       <window_info id="Favorites" order="2" sideWeight="0.12054121" side_tool="true" weight="0.32896653" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.24846248" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.24846248" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.398524" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -817,27 +822,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/733 Flood Fill.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="33" column="29" lean-forward="true" selection-start-line="33" selection-start-column="29" selection-end-line="33" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/720 Longest Word in Dictionary.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="373">
-          <caret line="30" column="52" selection-start-line="30" selection-start-column="52" selection-end-line="30" selection-end-column="52" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1137 N-th Tribonacci Number.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="446">
-          <caret line="36" lean-forward="true" selection-start-line="36" selection-end-line="36" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/997 Find the Town Judge.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="765">
@@ -1090,17 +1074,45 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Minimum Time Visiting All Points.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="23" column="17" selection-start-line="23" selection-start-column="17" selection-end-line="23" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/1232 Check If It Is a Straight Line.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
           <caret line="13" column="28" selection-start-line="13" selection-start-column="28" selection-end-line="13" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1266 Minimum Time Visiting All Points.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1260 Shift 2D Grid.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="555">
+          <caret line="37" column="41" selection-start-line="37" selection-start-column="41" selection-end-line="37" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1267 Count Servers that Communicate.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="32" column="25" selection-start-line="32" selection-start-column="25" selection-end-line="32" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1268 Search Suggestions System.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="840">
+          <caret line="56" column="28" selection-start-line="56" selection-start-column="28" selection-end-line="56" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1269 Number of Ways to Stay in the Same Place After Some Steps.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="32" column="27" selection-start-line="32" selection-start-column="27" selection-end-line="32" selection-end-column="27" />
         </state>
       </provider>
     </entry>
@@ -1128,17 +1140,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Count Servers that Communicate.py">
+    <entry file="file://$PROJECT_DIR$/1261 Find Elements in a Contaminated Binary Tree.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="222">
-          <caret line="32" column="25" lean-forward="true" selection-start-line="32" selection-start-column="25" selection-end-line="32" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Search Suggestions System.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="397">
-          <caret line="48" column="64" selection-start-line="47" selection-start-column="16" selection-end-line="48" selection-end-column="64" />
+        <state relative-caret-position="271">
+          <caret line="56" column="27" lean-forward="true" selection-start-line="56" selection-start-column="27" selection-end-line="56" selection-end-column="27" />
         </state>
       </provider>
     </entry>
