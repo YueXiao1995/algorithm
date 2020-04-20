@@ -51,3 +51,5 @@ root1 = build([4, 2, 7, 1, 3])
 print(root1)
 print(insertIntoBST(root1, 5))
 
+a = (1/2) ** 16
+print(a)
