@@ -57,11 +57,72 @@ Constraints:
 """
 
 def tictactoe(moves):
-    return ""
+    # number of moves
+    num = len(moves)
+    # seperate the moves of player A and B
+    moves_A = list()
+    moves_B = list()
+    for i in range(num):
+        if i % 2 == 0:
+            moves_A.append(moves[i])
+        else:
+            moves_B.append(moves[i])
+    print(moves_A)
+    print(moves_B)
+
+    # check if the player wins the game
+    def isWin(moves):
+        is_win = False
+        # check vertical lines
+        for i in range(3):
+            for j in range(3):
+                if [i, j] not in moves:
+                    break
+                else:
+                    if j == 2:
+                        is_win = True
+        # check horizontal lines
+        for i in range(3):
+            for j in range(3):
+                if [j, i] not in moves:
+                    break
+                else:
+                    if j == 2:
+                        is_win = True
+        # check diagonal lines
+        digonal1 = [[0, 0], [1, 1], [2, 2]]
+        for i in range(3):
+            if digonal1[i] not in moves:
+                break
+            else:
+                if i == 2:
+                    is_win = True
+        digonal2 = [[2, 0], [1, 1], [0, 2]]
+        for i in range(3):
+            if digonal2[i] not in moves:
+                break
+            else:
+                if i == 2:
+                    is_win = True
+        return is_win
+
+    # check if A wins
+    moves_A = tuple(moves_A)
+    if isWin(moves_A):
+        return "A"
+    # check if B wins
+    moves_B = tuple(moves_B)
+    if isWin(moves_B):
+        return "B"
+    # check if the game draw
+    if num == 9:
+        return "Draw"
+    else:
+        return "Pending"
 
 moves1 = [[0,0],[2,0],[1,1],[2,1],[2,2]]
 moves2 = [[0,0],[1,1],[0,1],[0,2],[1,0],[2,0]]
 moves3 = [[0,0],[1,1],[2,0],[1,0],[1,2],[2,1],[0,1],[0,2],[2,2]]
 moves4 = [[0,0],[1,1]]
 
-print(tictactoe(moves1))
+print(tictactoe(moves4))
