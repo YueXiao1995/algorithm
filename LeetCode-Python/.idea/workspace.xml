@@ -5,11 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="78a440fe-2f0d-440d-88c1-205e243682c0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/1403 Minimum Subsequence in Non-Increasing Order.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1408 String Matching in an Array.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1422 Maximum Score After Splitting a String.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1332 Remove Palindromic Subsequences.py" beforeDir="false" afterPath="$PROJECT_DIR$/1332 Remove Palindromic Subsequences.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1356 Sort Integers by The Number of 1 Bits.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -303,6 +299,7 @@
     <SUITE FILE_PATH="coverage/Leetcode$_.coverage" NAME="牛客网_输入输出 Coverage Results" MODIFIED="1569242712526" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCode_Python$700_Search_in_a_Binary_Search_Tree.coverage" NAME="700 Search in a Binary Search Tree Coverage Results" MODIFIED="1571328373629" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCode_Python$949_Largest_Time_for_Given_Digits.coverage" NAME="949 Largest Time for Given Digits Coverage Results" MODIFIED="1569414551263" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/LeetCode_Python$1356_Sort_Integers_by_The_Number_of_1_Bits.coverage" NAME="1356 Sort Integers by The Number of 1 Bits Coverage Results" MODIFIED="1588136932149" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCode_Python$1313_Decompress_Run_Length_Encoded_List.coverage" NAME="1313 Decompress Run-Length Encoded List Coverage Results" MODIFIED="1587677423682" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Leetcode$905_Sort_Array_By_Parity.coverage" NAME="905 Sort Array By Parity Coverage Results" MODIFIED="1568323488107" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCode_Python$459_Repeated_Substring_Pattern.coverage" NAME="459 Repeated Substring Pattern Coverage Results" MODIFIED="1569857946252" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -401,15 +398,6 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/1394 Find Lucky Integer in an Array.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="780">
-              <caret line="52" column="31" selection-start-line="52" selection-start-column="31" selection-end-line="52" selection-end-column="31" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/1290 Convert Binary Number in a Linked List to Integer.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="810">
@@ -463,11 +451,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/1403 Minimum Subsequence in Non-Increasing Order.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="454">
-              <caret line="34" column="8" selection-start-line="34" selection-start-column="8" selection-end-line="34" selection-end-column="8" />
+            <state relative-caret-position="365">
+              <caret line="37" column="22" lean-forward="true" selection-start-line="37" selection-start-column="22" selection-end-line="37" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/1356 Sort Integers by The Number of 1 Bits.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="200">
+              <caret line="38" selection-start-line="38" selection-end-line="51" selection-end-column="23" />
             </state>
           </provider>
         </entry>
@@ -507,7 +504,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/1261 Find Elements in a Contaminated Binary Tree.py" />
         <option value="$PROJECT_DIR$/1255 Maximum Score Words Formed by Letters.py" />
         <option value="$PROJECT_DIR$/807 Max Increase to Keep City Skyline.py" />
         <option value="$PROJECT_DIR$/1038 Binary Search Tree to Greater Sum Tree.py" />
@@ -558,6 +554,7 @@
         <option value="$PROJECT_DIR$/1408 String Matching in an Array.py" />
         <option value="$PROJECT_DIR$/1422 Maximum Score After Splitting a String.py" />
         <option value="$PROJECT_DIR$/1403 Minimum Subsequence in Non-Increasing Order.py" />
+        <option value="$PROJECT_DIR$/1356 Sort Integers by The Number of 1 Bits.py" />
       </list>
     </option>
   </component>
@@ -607,29 +604,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.1403 Minimum Subsequence in Non-Increasing Order">
-    <configuration name="1317 Convert Integer to the Sum of Two No-Zero Integers" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Leetcode" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1317 Convert Integer to the Sum of Two No-Zero Integers.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.1356 Sort Integers by The Number of 1 Bits">
     <configuration name="1332 Remove Palindromic Subsequences" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Leetcode" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -644,6 +619,28 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1332 Remove Palindromic Subsequences.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="1356 Sort Integers by The Number of 1 Bits" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Leetcode" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1356 Sort Integers by The Number of 1 Bits.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -720,11 +717,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.1356 Sort Integers by The Number of 1 Bits" />
         <item itemvalue="Python.1403 Minimum Subsequence in Non-Increasing Order" />
         <item itemvalue="Python.1422 Maximum Score After Splitting a String" />
         <item itemvalue="Python.1408 String Matching in an Array" />
         <item itemvalue="Python.1332 Remove Palindromic Subsequences" />
-        <item itemvalue="Python.1317 Convert Integer to the Sum of Two No-Zero Integers" />
       </list>
     </recent_temporary>
   </component>
@@ -840,19 +837,19 @@
       <workItem from="1587567288649" duration="18311000" />
       <workItem from="1587876926390" duration="183000" />
       <workItem from="1587958237070" duration="10971000" />
-      <workItem from="1588125818312" duration="7027000" />
+      <workItem from="1588125818312" duration="8657000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="934849000" />
+    <option name="totallyTimeSpent" value="936479000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="680" y="23" width="760" height="825" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.8500824" visible="true" weight="0.17827298" />
-      <window_info id="Structure" order="1" sideWeight="0.14991763" side_tool="true" weight="0.1281337" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.8484349" visible="true" weight="0.17827298" />
+      <window_info id="Structure" order="1" sideWeight="0.15156507" side_tool="true" visible="true" weight="0.17827298" />
       <window_info id="Favorites" order="2" sideWeight="0.12054121" side_tool="true" weight="0.32896653" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
@@ -901,13 +898,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Find the Longest Substring Containing Vowels in Even Counts.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="10" selection-start-line="14" selection-start-column="10" selection-end-line="14" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Longest ZigZag Path in a Binary Tree.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="315">
@@ -1237,8 +1227,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/1403 Minimum Subsequence in Non-Increasing Order.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="454">
-          <caret line="34" column="8" selection-start-line="34" selection-start-column="8" selection-end-line="34" selection-end-column="8" />
+        <state relative-caret-position="365">
+          <caret line="37" column="22" lean-forward="true" selection-start-line="37" selection-start-column="22" selection-end-line="37" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1356 Sort Integers by The Number of 1 Bits.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="38" selection-start-line="38" selection-end-line="51" selection-end-column="23" />
         </state>
       </provider>
     </entry>
