@@ -20,8 +20,20 @@ Follow up:
 """
 
 def reverseBits(n):
-    return 0
+    n = bin(n)[2:]
+    n = ("").join(["0"] * (32 - len(n))) + n
+    n = n[::-1]
+    base = 1
+    num = 0
+    for i in range(len(n)):
+        if n[-i - 1] == "1":
+            num += base
+        base *= 2
+    return num
 
-input1 = "00000010100101000001111010011100"
-input2 = "11111111111111111111111111111101"
-print(ord(input1))
+input1 = 43261596
+input2 = 4294967293
+print(reverseBits(input2))
+
+
+

@@ -39,12 +39,10 @@ def sortByBits(arr):
     freq_dict = dict()
     for num in arr:
         freq = bin(num)[2:].count("1")
-        print(freq)
         if freq not in freq_dict:
             freq_dict[freq] = [num]
         else:
             freq_dict[freq].append(num)
-    print(freq_dict)
 
     sorted_array = list()
     for freq in freq_dict.keys():
