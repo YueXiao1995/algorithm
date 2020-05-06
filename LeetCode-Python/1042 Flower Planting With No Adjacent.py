@@ -28,10 +28,37 @@ Note:
     It is guaranteed an answer exists.
 """
 
-
 def gardenNoAdj(N, paths):
+    paths_from_each_garden = dict()
+    for path in paths:
+        if str(path[0]) not in paths_from_each_garden:
+            paths_from_each_garden[str(path[0])] = [path[1]]
+        else:
+            paths_from_each_garden[str(path[0])].append(path[1])
 
-    return 0
+        if str(path[1]) not in paths_from_each_garden:
+            paths_from_each_garden[str(path[1])] = [path[0]]
+        else:
+            paths_from_each_garden[str(path[1])].append(path[0])
+
+    valid_types = [[1,2,3,4] for i in range(N)]
+    valid_types[0] = [1]
+
+    for i in range(N):
+        connected_gardens = []
+        if str(i+1) in paths_from_each_garden:
+            connected_gardens = paths_from_each_garden[str(i + 1)]
+
+        for garden in connected_gardens:
+            if len(valid_types[garden - 1]) == 1:
+                if valid_types[garden - 1][0] in valid_types[i]:
+                    valid_types[i].remove(valid_types[garden - 1][0])
+        valid_types[i] = [valid_types[i][0]]
+
+    for i in range(N):
+        valid_types[i] = valid_types[i][0]
+
+    return valid_types
 
 
 N1 = 3
@@ -46,5 +73,15 @@ N3 = 4
 paths3 = [[1,2],[2,3],[3,4],[4,1],[1,3],[2,4]]
 print(gardenNoAdj(N3, paths3))
 
+N4 = 1
+paths4 = []
+print(gardenNoAdj(N4, paths4))
+
+N5 = 2
+paths5 = [[1,2]]
+print(gardenNoAdj(N5, paths5))
 
 
+N6 = 8
+paths6 =[[7,4],[3,7],[1,5],[5,4],[7,1],[3,1],[4,3],[6,5]]
+print(gardenNoAdj(N6, paths6))

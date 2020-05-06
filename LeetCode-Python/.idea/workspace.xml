@@ -5,20 +5,24 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="78a440fe-2f0d-440d-88c1-205e243682c0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/1436 Destination City.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1437 Check If All 1's Are at Least Length K Places Away.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1438 Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1439 Find the Kth Smallest Sum of a Matrix With Sorted Rows.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1033 Moving Stones Until Consecutive.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1342 Number of Steps to Reduce a Number to Zero.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1360 Number of Days Between Two Dates.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1431 Kids With the Greatest Number of Candies.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/292 Nim Game.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/412 Fizz Buzz.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/482 License Key Formatting.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/492 Construct the Rectangle.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/504 Base 7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/506 Relative Ranks.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/796 Rotate String.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/806 Number of Lines To Write String.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/821 Shortest Distance to a Character.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/算法与编程.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1356 Sort Integers by The Number of 1 Bits.py" beforeDir="false" afterPath="$PROJECT_DIR$/1356 Sort Integers by The Number of 1 Bits.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/190 Reverse Bits.py" beforeDir="false" afterPath="$PROJECT_DIR$/190 Reverse Bits.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/705 Design HashSet.py" beforeDir="false" afterPath="$PROJECT_DIR$/705 Design HashSet.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bulb Switcher III.py" beforeDir="false" afterPath="$PROJECT_DIR$/1375 Bulb Switcher III.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Count Largest Group.py" beforeDir="false" afterPath="$PROJECT_DIR$/1399 Count Largest Group.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Display Table of Food Orders in a Restaurant.py" beforeDir="false" afterPath="$PROJECT_DIR$/1418 Display Table of Food Orders in a Restaurant.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Find the Longest Substring Containing Vowels in Even Counts.py" beforeDir="false" afterPath="$PROJECT_DIR$/1371 Find the Longest Substring Containing Vowels in Even Counts.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Find the Minimum Number of Fibonacci Numbers Whose Sum Is K.py" beforeDir="false" afterPath="$PROJECT_DIR$/1414 Find the Minimum Number of Fibonacci Numbers Whose Sum Is K.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Generate a String With Characters That Have Odd Counts.py" beforeDir="false" afterPath="$PROJECT_DIR$/1374 Generate a String With Characters That Have Odd Counts.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1025 Divisor Game.py" beforeDir="false" afterPath="$PROJECT_DIR$/1025 Divisor Game.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1042 Flower Planting With No Adjacent.py" beforeDir="false" afterPath="$PROJECT_DIR$/1042 Flower Planting With No Adjacent.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/581 Shortest Unsorted Continuous Subarray.py" beforeDir="false" afterPath="$PROJECT_DIR$/581 Shortest Unsorted Continuous Subarray.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -77,6 +81,7 @@
     <SUITE FILE_PATH="coverage/Leetcode$258_Add_Digits.coverage" NAME="258 Add Digits Coverage Results" MODIFIED="1568925339600" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Leetcode$1160_Find_Words_That_Can_Be_Formed_by_Characters.coverage" NAME="1160 Find Words That Can Be Formed by Characters Coverage Results" MODIFIED="1567685966740" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCode_Python$443_String_Compression.coverage" NAME="443 String Compression Coverage Results" MODIFIED="1569722060979" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/LeetCode_Python$1431_Kids_With_the_Greatest_Number_of_Candies.coverage" NAME="1431 Kids With the Greatest Number of Candies Coverage Results" MODIFIED="1588607465002" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Leetcode$160_Intersection_of_Two_Linked_Lists.coverage" NAME="160 Intersection of Two Linked Lists Coverage Results" MODIFIED="1566488656900" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Leetcode$143_Reorder_List.coverage" NAME="143 Reorder List Coverage Results" MODIFIED="1567099393976" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCode_Python$942_DI_String_Match.coverage" NAME="942 DI String Match Coverage Results" MODIFIED="1569339477621" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -97,6 +102,7 @@
     <SUITE FILE_PATH="coverage/Leetcode$448_Find_All_Number_Disappered_in_an_Array.coverage" NAME="448 Find All Number Disappered in an Array Coverage Results" MODIFIED="1567073744026" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Leetcode$445_Add_Two_Numbers_II.coverage" NAME="445 Add Two Numbers II Coverage Results" MODIFIED="1567026514159" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Leetcode$754_Reach_a_Number.coverage" NAME="754 Reach a Number Coverage Results" MODIFIED="1569040207746" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/LeetCode_Python$581_Shortest_Unsorted_Continuous_Subarray.coverage" NAME="581 Shortest Unsorted Continuous Subarray Coverage Results" MODIFIED="1588630053947" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Leetcode$728_Self_Dividing_Numbers.coverage" NAME="728 Self Dividing Numbers Coverage Results" MODIFIED="1569037393277" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Leetcode$189_Rotate_Array.coverage" NAME="189 Rotate Array Coverage Results" MODIFIED="1567176183643" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Leetcode$977_Squares_of_a_Sorted_Array.coverage" NAME="977 Squares of a Sorted Array Coverage Results" MODIFIED="1568326229350" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -104,7 +110,9 @@
     <SUITE FILE_PATH="coverage/Leetcode$136_Single_Number.coverage" NAME="136 Single Number Coverage Results" MODIFIED="1566638986021" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCode_Python$Count_Servers_that_Communicate.coverage" NAME="Count Servers that Communicate Coverage Results" MODIFIED="1574566512066" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCode_Python$872_Leaf_Similar_Trees.coverage" NAME="872 Leaf-Similar Trees Coverage Results" MODIFIED="1571398591241" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/LeetCode_Python$1360_Number_of_Days_Between_Two_Dates.coverage" NAME="1360 Number of Days Between Two Dates Coverage Results" MODIFIED="1588724165953" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCode_Python$657_Robot_Return_to_Origin.coverage" NAME="657 Robot Return to Origin Coverage Results" MODIFIED="1569789499659" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/LeetCode_Python$1033_Moving_Stones_Until_Consecutive.coverage" NAME="1033 Moving Stones Until Consecutive Coverage Results" MODIFIED="1588716290213" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCode_Python$1071_Greatest_Common_Divisor_of_Strings.coverage" NAME="1071 Greatest Common Divisor of Strings Coverage Results" MODIFIED="1569925675031" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCode_Python$824_Goat_Latin.coverage" NAME="824 Goat Latin Coverage Results" MODIFIED="1570039100016" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Leetcode$896_Monotonic_Array.coverage" NAME="896 Monotonic Array Coverage Results" MODIFIED="1568151891812" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -116,6 +124,7 @@
     <SUITE FILE_PATH="coverage/Leetcode$581_Shortest_Unsorted_Continuous_Subarray.coverage" NAME="581 Shortest Unsorted Continuous Subarray Coverage Results" MODIFIED="1567095986704" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Leetcode$Find_Smallest_Common_Element_in_All_Rows.coverage" NAME="Find Smallest Common Element in All Rows Coverage Results" MODIFIED="1569080157112" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Leetcode$888_Fair_Candy_Swap.coverage" NAME="888 Fair Candy Swap Coverage Results" MODIFIED="1567600056180" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/LeetCode_Python$292_Nim_Game.coverage" NAME="292 Nim Game Coverage Results" MODIFIED="1588668793670" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCode_Python$Remove_All_Adjacent_Duplicates_in_String_II.coverage" NAME="Remove All Adjacent Duplicates in String II Coverage Results" MODIFIED="1569730143949" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Leetcode$999_Available_Captures_for_Rook.coverage" NAME="999 Available Captures for Rook Coverage Results" MODIFIED="1567337344972" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCode_Python$744_Find_Smallest_Letter_Greater_Than_Target.coverage" NAME="744 Find Smallest Letter Greater Than Target Coverage Results" MODIFIED="1570214940563" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -137,6 +146,7 @@
     <SUITE FILE_PATH="coverage/Leetcode$7_Reverse_Integer.coverage" NAME="7 Reverse Integer Coverage Results" MODIFIED="1566578121206" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Leetcode$350_Intersection_of_Two_Arrays_II.coverage" NAME="350 Intersection of Two Arrays II Coverage Results" MODIFIED="1568548284767" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCode_Python$108_Convert_Sorted_Array_to_Binary_Search_Tree.coverage" NAME="108 Convert Sorted Array to Binary Search Tree Coverage Results" MODIFIED="1571591716449" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/LeetCode_Python$492_Construct_the_Rectangle.coverage" NAME="492 Construct the Rectangle Coverage Results" MODIFIED="1588733048886" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Leetcode$1051_Height_Checker.coverage" NAME="1051 Height Checker Coverage Results" MODIFIED="1568412079825" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Leetcode$633_Sum_of_Square_Numbers.coverage" NAME="633 Sum of Square Numbers Coverage Results" MODIFIED="1569037073527" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCode_Python$1295_Find_Numbers_with_Even_Number_of_Digits.coverage" NAME="1295 Find Numbers with Even Number of Digits Coverage Results" MODIFIED="1587674899745" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -156,17 +166,20 @@
     <SUITE FILE_PATH="coverage/LeetCode_Python$976_Largest_Perimeter_Triangle.coverage" NAME="976 Largest Perimeter Triangle Coverage Results" MODIFIED="1569429832801" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Leetcode$220_Contains_Duplicate_III.coverage" NAME="220 Contains Duplicate III Coverage Results" MODIFIED="1567515361581" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Leetcode$122_Best_Time_to_Buy_and_Sell_Stock_II.coverage" NAME="122 Best Time to Buy and Sell Stock II Coverage Results" MODIFIED="1566781096383" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/LeetCode_Python$506_Relative_Ranks.coverage" NAME="506 Relative Ranks Coverage Results" MODIFIED="1588728051069" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Leetcode$509_Fibonacci_Number.coverage" NAME="509 Fibonacci Number Coverage Results" MODIFIED="1567523815499" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCode_Python$693_Binary_Number_with_Alternating_Bits.coverage" NAME="693 Binary Number with Alternating Bits Coverage Results" MODIFIED="1570920914998" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCode_Python$633_Sum_of_Square_Numbers.coverage" NAME="633 Sum of Square Numbers Coverage Results" MODIFIED="1572298926162" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Leetcode$849_Maximize_Distance_to_Closest_Person.coverage" NAME="849 Maximize Distance to Closest Person Coverage Results" MODIFIED="1567884401475" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCode_Python$836_Rectangle_Overlap.coverage" NAME="836 Rectangle Overlap Coverage Results" MODIFIED="1569258438125" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/LeetCode_Python$1042_Flower_Planting_With_No_Adjacent.coverage" NAME="1042 Flower Planting With No Adjacent Coverage Results" MODIFIED="1588644708490" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Leetcode$9_Palindrome_Number.coverage" NAME="9 Palindrome Number Coverage Results" MODIFIED="1566577287202" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Leetcode$748_Shortest_Completing_Word.coverage" NAME="748 Shortest Completing Word Coverage Results" MODIFIED="1568761514054" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCode_Python$868_Binary_Gap.coverage" NAME="868 Binary Gap Coverage Results" MODIFIED="1569259985474" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Leetcode$83_Remove_Duplicates_from_Sorted_List.coverage" NAME="83 Remove Duplicates from Sorted List Coverage Results" MODIFIED="1566477232247" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCode_Python$1005_Maximize_Sum_Of_Array_After_K_Negations.coverage" NAME="1005 Maximize Sum Of Array After K Negations Coverage Results" MODIFIED="1570671382709" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCode_Python$704_Binary_Search.coverage" NAME="704 Binary Search Coverage Results" MODIFIED="1570109180441" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/LeetCode_Python$821_Shortest_Distance_to_a_Character.coverage" NAME="821 Shortest Distance to a Character Coverage Results" MODIFIED="1588720638537" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCode_Python$917_Reverse_Only_Letters.coverage" NAME="917 Reverse Only Letters Coverage Results" MODIFIED="1570047587160" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Leetcode$665_Non_decreasing_Array.coverage" NAME="665 Non-decreasing Array Coverage Results" MODIFIED="1568221720413" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCode_Python$Minimum_Number_of_Frogs_Croaking.coverage" NAME="Minimum Number of Frogs Croaking Coverage Results" MODIFIED="1587269786435" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -194,8 +207,8 @@
     <SUITE FILE_PATH="coverage/Leetcode$61_Rotate_List.coverage" NAME="61 Rotate List Coverage Results" MODIFIED="1567176673487" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Leetcode$724_Find_Pivot_index.coverage" NAME="724 Find Pivot index Coverage Results" MODIFIED="1567607285370" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCode_Python$859_Buddy_Strings.coverage" NAME="859 Buddy Strings Coverage Results" MODIFIED="1570104399197" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/LeetCode_Python$1025_Divisor_Game.coverage" NAME="1025 Divisor Game Coverage Results" MODIFIED="1569437572909" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCode_Python$897_Increasing_Order_Search_Tree.coverage" NAME="897 Increasing Order Search Tree Coverage Results" MODIFIED="1571397553335" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/LeetCode_Python$1025_Divisor_Game.coverage" NAME="1025 Divisor Game Coverage Results" MODIFIED="1588630057946" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCode_Python$303_Range_Sum_Query___Immutable.coverage" NAME="303 Range Sum Query - Immutable Coverage Results" MODIFIED="1570383125203" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Leetcode$690_Employee_Importance.coverage" NAME="690 Employee Importance Coverage Results" MODIFIED="1568758066888" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCode_Python$925_Long_Pressed_Name.coverage" NAME="925 Long Pressed Name Coverage Results" MODIFIED="1569600662709" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -232,7 +245,7 @@
     <SUITE FILE_PATH="coverage/LeetCode_Python$1037_Valid_Boomerang.coverage" NAME="1037 Valid Boomerang Coverage Results" MODIFIED="1569508520253" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCode_Python$238_Product_of_Array_Except_Self.coverage" NAME="238 Product of Array Except Self Coverage Results" MODIFIED="1572626937691" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCode_Python$Count_Number_of_Nice_Subarrays.coverage" NAME="Count Number of Nice Subarrays Coverage Results" MODIFIED="1572753211550" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/LeetCode_Python$.coverage" NAME="幸运星 Coverage Results" MODIFIED="1587645642097" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/LeetCode_Python$.coverage" NAME="算法与编程 Coverage Results" MODIFIED="1588667600738" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCode_Python$155_Min_Stack.coverage" NAME="155 Min Stack Coverage Results" MODIFIED="1570517838151" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCode_Python$_.coverage" NAME="牛客网_输入输出 Coverage Results" MODIFIED="1569669958893" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCode_Python$_1.coverage" NAME="快手-笔试1 Coverage Results" MODIFIED="1569676061650" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -243,6 +256,8 @@
     <SUITE FILE_PATH="coverage/LeetCode_Python$111_Minimum_Depth_of_Binary_Tree.coverage" NAME="111 Minimum Depth of Binary Tree Coverage Results" MODIFIED="1571947732269" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCode_Python$929_Unique_Email_Addresses.coverage" NAME="929 Unique Email Addresses Coverage Results" MODIFIED="1570047591613" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCode_Python$701_Insert_into_a_Binary_Search_Tree.coverage" NAME="701 Insert into a Binary Search Tree Coverage Results" MODIFIED="1575047358602" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/LeetCode_Python$482_License_Key_Formatting.coverage" NAME="482 License Key Formatting Coverage Results" MODIFIED="1588730571327" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/LeetCode_Python$1342_Number_of_Steps_to_Reduce_a_Number_to_Zero.coverage" NAME="1342 Number of Steps to Reduce a Number to Zero Coverage Results" MODIFIED="1588719390316" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCode_Python$Bulb_Switcher_III.coverage" NAME="Bulb Switcher III Coverage Results" MODIFIED="1583638936344" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCode_Python$Get_Equal_Substrings_Within_Budget.coverage" NAME="Get Equal Substrings Within Budget Coverage Results" MODIFIED="1569728508603" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Leetcode$840_Magic_Squares_In_Grid.coverage" NAME="840 Magic Squares In Grid Coverage Results" MODIFIED="1567852290785" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -267,6 +282,7 @@
     <SUITE FILE_PATH="coverage/Leetcode$725_Split_Linked_List_in_Parts.coverage" NAME="725 Split Linked List in Parts Coverage Results" MODIFIED="1567175469258" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCode_Python$1260_Shift_2D_Grid.coverage" NAME="1260 Shift 2D Grid Coverage Results" MODIFIED="1574610216574" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCode_Python$Design_A_Leaderboard.coverage" NAME="Design A Leaderboard Coverage Results" MODIFIED="1572711155413" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/LeetCode_Python$412_Fizz_Buzz.coverage" NAME="412 Fizz Buzz Coverage Results" MODIFIED="1588725585884" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Leetcode$707_Design_Linked_List.coverage" NAME="707 Design Linked List Coverage Results" MODIFIED="1566503927877" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCode_Python$Check_If_All_1_s_Are_at_Least_Length_K_Places_Away.coverage" NAME="Check If All 1's Are at Least Length K Places Away Coverage Results" MODIFIED="1588474121639" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Leetcode$914_X_of_a_Kind_in_a_Deck_of_Cards.coverage" NAME="914 X of a Kind in a Deck of Cards Coverage Results" MODIFIED="1568382544555" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -283,6 +299,7 @@
     <SUITE FILE_PATH="coverage/LeetCode_Python$Array_Transformation.coverage" NAME="Array Transformation Coverage Results" MODIFIED="1572708173229" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCode_Python$1175_Prime_Arrangements.coverage" NAME="1175 Prime Arrangements Coverage Results" MODIFIED="1569507841656" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCode_Python$538_Convert_BST_to_Greater_Tree.coverage" NAME="538 Convert BST to Greater Tree Coverage Results" MODIFIED="1571692589449" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/LeetCode_Python$796_Rotate_String.coverage" NAME="796 Rotate String Coverage Results" MODIFIED="1588724162895" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Leetcode$747_Largest_Number_At_Least_Twice_of_Others.coverage" NAME="747 Largest Number At Least Twice of Others Coverage Results" MODIFIED="1567774466535" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCode_Python$844_Backspace_String_Compare.coverage" NAME="844 Backspace String Compare Coverage Results" MODIFIED="1569599120170" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCode_Python$762_Prime_Number_of_Set_Bits_in_Binary_Representation.coverage" NAME="762 Prime Number of Set Bits in Binary Representation Coverage Results" MODIFIED="1570920897577" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -332,6 +349,7 @@
     <SUITE FILE_PATH="coverage/LeetCode_Python$1281_Subtract_the_Product_and_Sum_of_Digits_of_an_Integer.coverage" NAME="1281 Subtract the Product and Sum of Digits of an Integer Coverage Results" MODIFIED="1587972843067" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Leetcode$202_Happy_Number.coverage" NAME="202 Happy Number Coverage Results" MODIFIED="1568413983362" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCode_Python$1217_Play_with_Chips.coverage" NAME="1217 Play with Chips Coverage Results" MODIFIED="1570379173445" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/LeetCode_Python$806_Number_of_Lines_To_Write_String.coverage" NAME="806 Number of Lines To Write String Coverage Results" MODIFIED="1588726999264" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Leetcode$697_Degree_of_an_Array.coverage" NAME="697 Degree of an Array Coverage Results" MODIFIED="1567421544566" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCode_Python$687_Longest_Univalue_Path.coverage" NAME="687 Longest Univalue Path Coverage Results" MODIFIED="1572027324606" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCode_Python$415_Add_Strings.coverage" NAME="415 Add Strings Coverage Results" MODIFIED="1569716002930" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -382,6 +400,7 @@
     <SUITE FILE_PATH="coverage/Leetcode$1018_Binary_Prefix_Divisible_By_5.coverage" NAME="1018 Binary Prefix Divisible By 5 Coverage Results" MODIFIED="1567339361998" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Leetcode$953_Verifying_an_Alien_Dictionary.coverage" NAME="953 Verifying an Alien Dictionary Coverage Results" MODIFIED="1568842602776" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Leetcode$67_Add_Binary.coverage" NAME="67 Add Binary Coverage Results" MODIFIED="1567034257938" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/LeetCode_Python$504_Base_7.coverage" NAME="504 Base 7 Coverage Results" MODIFIED="1588725174460" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCode_Python$Happy_Number.coverage" NAME="Happy Number Coverage Results" MODIFIED="1586021329669" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCode_Python$78_Subsets.coverage" NAME="78 Subsets Coverage Results" MODIFIED="1572714471001" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Leetcode$268_Missing_Number.coverage" NAME="268 Missing Number Coverage Results" MODIFIED="1567520946621" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -415,37 +434,37 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/1375 Bulb Switcher III.py">
+        <entry file="file://$PROJECT_DIR$/412 Fizz Buzz.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="294">
-              <caret line="44" column="11" lean-forward="true" selection-start-line="44" selection-start-column="11" selection-end-line="44" selection-end-column="11" />
+            <state relative-caret-position="450">
+              <caret line="30" column="15" lean-forward="true" selection-start-line="30" selection-start-column="15" selection-end-line="30" selection-end-column="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/506 Relative Ranks.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="226">
+              <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/482 License Key Formatting.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="172">
+              <caret line="30" column="18" lean-forward="true" selection-start-line="30" selection-start-column="18" selection-end-line="30" selection-end-column="18" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/705 Design HashSet.py">
+        <entry file="file://$PROJECT_DIR$/492 Construct the Rectangle.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="71" lean-forward="true" selection-start-line="71" selection-end-line="104" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/1408 String Matching in an Array.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="660">
-              <caret line="44" column="21" selection-start-line="44" selection-start-column="21" selection-end-line="44" selection-end-column="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/1422 Maximum Score After Splitting a String.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="17" column="22" selection-start-line="17" selection-start-column="22" selection-end-line="17" selection-end-column="22" />
+            <state relative-caret-position="300">
+              <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
             </state>
           </provider>
         </entry>
@@ -467,25 +486,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Longest ZigZag Path in a Binary Tree.py" />
-        <option value="$PROJECT_DIR$/Generate a String With Characters That Have Odd Counts.py" />
-        <option value="$PROJECT_DIR$/Bulb Switcher III.py" />
-        <option value="$PROJECT_DIR$/Time Needed to Inform All Employees.py" />
-        <option value="$PROJECT_DIR$/Count Largest Group.py" />
-        <option value="$PROJECT_DIR$/Move Zeroes.py" />
-        <option value="$PROJECT_DIR$/Happy Number.py" />
-        <option value="$PROJECT_DIR$/Single Number.py" />
-        <option value="$PROJECT_DIR$/Maximum Subarray.py" />
-        <option value="$PROJECT_DIR$/Minimum Value to Get Positive Step by Step Sum.py" />
-        <option value="$PROJECT_DIR$/Find the Minimum Number of Fibonacci Numbers Whose Sum Is K.py" />
-        <option value="$PROJECT_DIR$/The k-th Lexicographical String of All Happy Strings of Length n.py" />
-        <option value="$PROJECT_DIR$/Restore The Array.py" />
-        <option value="$PROJECT_DIR$/Reformat The String.py" />
-        <option value="$PROJECT_DIR$/Display Table of Food Orders in a Restaurant.py" />
-        <option value="$PROJECT_DIR$/Minimum Number of Frogs Croaking.py" />
-        <option value="$PROJECT_DIR$/幸运星.py" />
-        <option value="$PROJECT_DIR$/193 Valid Phone Numbers.py" />
-        <option value="$PROJECT_DIR$/1275 Find Winner on a Tic Tac Toe Game.py" />
         <option value="$PROJECT_DIR$/1287. Element 1287 Appearing More Than 25% In Sorted Array.py" />
         <option value="$PROJECT_DIR$/1287 Element Appearing More Than 25% In Sorted Array.py" />
         <option value="$PROJECT_DIR$/1295 Find Numbers with Even Number of Digits.py" />
@@ -518,13 +518,32 @@
         <option value="$PROJECT_DIR$/Find the Kth Smallest Sum of a Matrix With Sorted Rows.py" />
         <option value="$PROJECT_DIR$/test.py" />
         <option value="$PROJECT_DIR$/705 Design HashSet.py" />
+        <option value="$PROJECT_DIR$/1431 Kids With the Greatest Number of Candies.py" />
+        <option value="$PROJECT_DIR$/581 Shortest Unsorted Continuous Subarray.py" />
+        <option value="$PROJECT_DIR$/1025 Divisor Game.py" />
+        <option value="$PROJECT_DIR$/1042 Flower Planting With No Adjacent.py" />
+        <option value="$USER_HOME$/Downloads/算法与编程.py" />
+        <option value="$USER_HOME$/Library/Containers/com.tencent.xinWeChat/Data/Library/Application Support/com.tencent.xinWeChat/2.0b4.0.9/96321e6af430d603483a7541db7d21ea/Message/MessageTemp/9404f6452930d4ffb24f487c59891ec4/OpenData/算法与编程.py" />
+        <option value="$PROJECT_DIR$/算法与编程.py" />
+        <option value="$PROJECT_DIR$/292 Nim Game.py" />
+        <option value="$PROJECT_DIR$/1033 Moving Stones Until Consecutive.py" />
+        <option value="$PROJECT_DIR$/1360 Number of Days Between Two Dates.py" />
+        <option value="$PROJECT_DIR$/1342 Number of Steps to Reduce a Number to Zero.py" />
+        <option value="$PROJECT_DIR$/821 Shortest Distance to a Character.py" />
+        <option value="$PROJECT_DIR$/796 Rotate String.py" />
+        <option value="$PROJECT_DIR$/504 Base 7.py" />
+        <option value="$PROJECT_DIR$/412 Fizz Buzz.py" />
+        <option value="$PROJECT_DIR$/806 Number of Lines To Write String.py" />
+        <option value="$PROJECT_DIR$/506 Relative Ranks.py" />
+        <option value="$PROJECT_DIR$/482 License Key Formatting.py" />
+        <option value="$PROJECT_DIR$/492 Construct the Rectangle.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="681" />
+    <option name="x" value="680" />
     <option name="y" value="23" />
-    <option name="width" value="759" />
+    <option name="width" value="746" />
     <option name="height" value="825" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -555,6 +574,14 @@
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -567,8 +594,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.705 Design HashSet">
-    <configuration name="705 Design HashSet" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.492 Construct the Rectangle">
+    <configuration name="412 Fizz Buzz" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Leetcode" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -581,7 +608,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/705 Design HashSet.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/412 Fizz Buzz.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -590,7 +617,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Check If All 1's Are at Least Length K Places Away" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="482 License Key Formatting" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Leetcode" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -603,7 +630,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1437 Check If All 1's Are at Least Length K Places Away.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/482 License Key Formatting.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -612,7 +639,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Destination City" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="492 Construct the Rectangle" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Leetcode" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -625,7 +652,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1436 Destination City.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/492 Construct the Rectangle.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -634,7 +661,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="506 Relative Ranks" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Leetcode" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -647,7 +674,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1438 Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/506 Relative Ranks.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -656,7 +683,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="806 Number of Lines To Write String" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Leetcode" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -669,7 +696,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/806 Number of Lines To Write String.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -680,11 +707,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.705 Design HashSet" />
-        <item itemvalue="Python.test" />
-        <item itemvalue="Python.Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit" />
-        <item itemvalue="Python.Check If All 1's Are at Least Length K Places Away" />
-        <item itemvalue="Python.Destination City" />
+        <item itemvalue="Python.492 Construct the Rectangle" />
+        <item itemvalue="Python.482 License Key Formatting" />
+        <item itemvalue="Python.506 Relative Ranks" />
+        <item itemvalue="Python.806 Number of Lines To Write String" />
+        <item itemvalue="Python.412 Fizz Buzz" />
       </list>
     </recent_temporary>
   </component>
@@ -803,23 +830,23 @@
       <workItem from="1588125818312" duration="11579000" />
       <workItem from="1588472963819" duration="7018000" />
       <workItem from="1588490095060" duration="395000" />
-      <workItem from="1588552623826" duration="9984000" />
+      <workItem from="1588552623826" duration="45245000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="956798000" />
+    <option name="totallyTimeSpent" value="992059000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <frame x="680" y="23" width="746" height="825" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.8408759" visible="true" weight="0.48783976" />
-      <window_info id="Structure" order="1" sideWeight="0.15912409" side_tool="true" visible="true" weight="0.48783976" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.84013605" visible="true" weight="0.16619319" />
+      <window_info id="Structure" order="1" sideWeight="0.15986395" side_tool="true" visible="true" weight="0.16619319" />
       <window_info id="Favorites" order="2" sideWeight="0.12054121" side_tool="true" weight="0.32896653" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.2016317" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.22733246" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3521682" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -841,150 +868,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/1414 Find the Minimum Number of Fibonacci Numbers Whose Sum Is K.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="555">
-          <caret line="37" column="10" selection-start-line="37" selection-start-column="10" selection-end-line="37" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/The k-th Lexicographical String of All Happy Strings of Length n.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="915">
-          <caret line="61" column="6" selection-start-line="61" selection-start-column="6" selection-end-line="61" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Restore The Array.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Reformat The String.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="735">
-          <caret line="49" column="36" selection-start-line="49" selection-start-column="36" selection-end-line="49" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1418 Display Table of Food Orders in a Restaurant.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="975">
-          <caret line="65" selection-start-line="65" selection-end-line="65" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Minimum Number of Frogs Croaking.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="795">
-          <caret line="53" column="23" selection-start-line="53" selection-start-column="23" selection-end-line="53" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/101 Symmetric Tree.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/13 Roman to Integer.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" selection-start-line="16" selection-end-line="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/幸运星.py" />
-    <entry file="file://$PROJECT_DIR$/193 Valid Phone Numbers.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="30" selection-start-line="14" selection-start-column="30" selection-end-line="14" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1275 Find Winner on a Tic Tac Toe Game.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1740">
-          <caret line="116" column="28" selection-start-line="116" selection-start-column="28" selection-end-line="116" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1287 Element Appearing More Than 25% In Sorted Array.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="19" selection-start-line="17" selection-start-column="19" selection-end-line="17" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1295 Find Numbers with Even Number of Digits.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="16" selection-start-line="17" selection-start-column="16" selection-end-line="17" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1299 Replace Elements with Greatest Element on Right Side.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="29" selection-start-line="17" selection-start-column="29" selection-end-line="17" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1304 Find N Unique Integers Sum up to Zero.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" column="15" selection-start-line="21" selection-start-column="15" selection-end-line="21" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1313 Decompress Run-Length Encoded List.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="3" selection-start-column="3" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1331 Rank Transform of an Array.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1337 The K Weakest Rows in a Matrix.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="825">
-          <caret line="55" column="42" selection-start-line="55" selection-start-column="42" selection-end-line="55" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1346 Check If N and Its Double Exist.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="27" column="27" selection-start-line="27" selection-start-column="27" selection-end-line="27" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1351 Count Negative Numbers in a Sorted Matrix.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="10" lean-forward="true" selection-start-line="18" selection-start-column="10" selection-end-line="18" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1365 How Many Numbers Are Smaller Than the Current Number.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="305">
-          <caret line="32" column="36" lean-forward="true" selection-start-line="32" selection-start-column="36" selection-end-line="32" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1380 Lucky Numbers in a Matrix.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="525">
-          <caret line="35" selection-start-line="35" selection-end-line="35" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/1385 Find the Distance Value Between Two Arrays.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="705">
@@ -1135,7 +1018,7 @@
     <entry file="file://$PROJECT_DIR$/1375 Bulb Switcher III.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="294">
-          <caret line="44" column="11" lean-forward="true" selection-start-line="44" selection-start-column="11" selection-end-line="44" selection-end-column="11" />
+          <caret line="44" column="11" selection-start-line="44" selection-start-column="11" selection-end-line="44" selection-end-column="11" />
         </state>
       </provider>
     </entry>
@@ -1163,8 +1046,152 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/705 Design HashSet.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="71" lean-forward="true" selection-start-line="71" selection-end-line="104" />
+        <state relative-caret-position="190">
+          <caret line="110" selection-start-line="110" selection-end-line="110" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1431 Kids With the Greatest Number of Candies.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="106">
+          <caret line="24" column="12" selection-start-line="24" selection-start-column="12" selection-end-line="24" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/581 Shortest Unsorted Continuous Subarray.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="226">
+          <caret line="103" column="33" selection-start-line="103" selection-start-column="33" selection-end-line="103" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1025 Divisor Game.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="271">
+          <caret line="21" column="5" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/算法与编程.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="106">
+          <caret line="61" lean-forward="true" selection-start-line="61" selection-end-line="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/算法与编程.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="213">
+          <caret line="55" column="18" selection-start-line="55" selection-start-column="18" selection-end-line="55" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/算法与编程.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="103">
+          <caret line="28" column="35" selection-start-line="28" selection-start-column="35" selection-end-line="28" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Longest ZigZag Path in a Binary Tree.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-164" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Happy Number.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Reformat The String.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/796 Rotate String.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="271">
+          <caret line="21" column="18" lean-forward="true" selection-start-line="21" selection-start-column="18" selection-end-line="21" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/821 Shortest Distance to a Character.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="24" column="33" lean-forward="true" selection-start-line="24" selection-start-column="33" selection-end-line="24" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1033 Moving Stones Until Consecutive.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="54" column="22" selection-start-line="54" selection-start-column="22" selection-end-line="54" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/292 Nim Game.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1042 Flower Planting With No Adjacent.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="98">
+          <caret line="57" column="22" selection-start-line="57" selection-start-column="22" selection-end-line="57" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/504 Base 7.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="163">
+          <caret line="24" column="18" lean-forward="true" selection-start-line="24" selection-start-column="18" selection-end-line="24" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1360 Number of Days Between Two Dates.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="263">
+          <caret line="57" lean-forward="true" selection-start-line="57" selection-end-line="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1342 Number of Steps to Reduce a Number to Zero.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="37" column="13" lean-forward="true" selection-start-line="37" selection-start-column="13" selection-end-line="37" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/412 Fizz Buzz.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="30" column="15" lean-forward="true" selection-start-line="30" selection-start-column="15" selection-end-line="30" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/806 Number of Lines To Write String.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="43" column="30" lean-forward="true" selection-start-line="43" selection-start-column="30" selection-end-line="43" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/506 Relative Ranks.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="226">
+          <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/482 License Key Formatting.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="172">
+          <caret line="30" column="18" lean-forward="true" selection-start-line="30" selection-start-column="18" selection-end-line="30" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/492 Construct the Rectangle.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
         </state>
       </provider>
     </entry>

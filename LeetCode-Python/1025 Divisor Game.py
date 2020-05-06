@@ -23,21 +23,10 @@ Note:
     1 <= N <= 1000
 """
 
-def divisorGame(N):
-    is_Alice_Turn = True
-    while N > 1:
-        x = None
-        for i in reversed(range(1, N)):
-            if N % i == 0:
-                x = i
-                break
-        N -= x
-        is_Alice_Turn = not is_Alice_Turn
 
-    if is_Alice_Turn:
-        return False
-    else:
-        return True
+def divisorGame(N):
+    return N % 2 == 0
+    # for each stap, the step
 
 input1 = 2
 input2 = 3

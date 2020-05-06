@@ -81,7 +81,39 @@ def findUnsortedSubarray(nums):
     return right_border - left_border + 1
 
 """
-input = [2, 6, 4, 8, 10, 9, 15]
+
+def findUnsortedSubarray(nums):
+    if len(nums) < 2:
+        return 0
+
+    max_list = [nums[0]]
+    for i in range(1, len(nums)):
+        if nums[i] > max_list[-1]:
+            max_list.append(nums[i])
+        else:
+            max_list.append(max_list[-1])
+
+    unmatch_index_list = list()
+    for i in range(len(nums)):
+        if max_list[i] != nums[i]:
+            unmatch_index_list.append(i)
+
+    if unmatch_index_list == []:
+        return 0
+
+    start = unmatch_index_list[0]
+    end = unmatch_index_list[-1]
+    min_value = min(nums[start:end + 1])
+
+    for i in range(start):
+        if nums[start - i - 1] > min_value:
+            unmatch_index_list = [start - i - 1] + unmatch_index_list
+        else:
+            break
+    return unmatch_index_list[-1]+1 - unmatch_index_list[0]
+
+
+input1 = [2, 6, 4, 8, 10, 9, 15]
 input2 = [1,2,3,4]
 input3 = [1, 3, 2, 4, 5]
 input4 = [2, 3, 3, 2, 4]
@@ -89,4 +121,4 @@ input5 = [2, 1]
 input6 = [1 ,2, 4, 5, 3]
 input7 = [1, 3, 5, 4, 2]
 input8 = [1, 2, 3, 5, 4]
-print(findUnsortedSubarray(input))
+print(findUnsortedSubarray(input1))
