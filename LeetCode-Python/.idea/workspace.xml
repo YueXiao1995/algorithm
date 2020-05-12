@@ -5,20 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="78a440fe-2f0d-440d-88c1-205e243682c0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/1282 Group the People Given the Group Size They Belong To.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1302 Deepest Leaves Sum.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1315 Sum of Nodes with Even-Valued Grandparent.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1379 Find a Corresponding Node of a Binary Tree in a Clone of That Tree.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1395 Count Number of Teams.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1409 Queries on a Permutation With Key.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1441 Build an Array With Stack Operations.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1442 Count Triplets That Can Form Two Arrays of Equal XOR.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1443 Minimum Time to Collect All Apples in a Tree.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1444 Number of Ways of Cutting a Pizza.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4 Median of Two Sorted Arrays.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../剑指Offer-Python/数组中重复的数字.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/535 Encode and Decode TinyURL.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../剑指Offer-Python/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../剑指Offer-Python/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1395 Count Number of Teams.py" beforeDir="false" afterPath="$PROJECT_DIR$/1395 Count Number of Teams.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -234,6 +223,7 @@
     <SUITE FILE_PATH="coverage/LeetCode_Python$705_Design_HashSet.coverage" NAME="705 Design HashSet Coverage Results" MODIFIED="1588594450095" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Leetcode$409_Longest_Palindrome.coverage" NAME="409 Longest Palindrome Coverage Results" MODIFIED="1568550577532" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Leetcode$594_Longest_Harmonious_Subsequence.coverage" NAME="594 Longest Harmonious Subsequence Coverage Results" MODIFIED="1568654955229" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/LeetCode_Python$1395_Count_Number_of_Teams.coverage" NAME="1395 Count Number of Teams Coverage Results" MODIFIED="1589298204816" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Leetcode$234_Palindrome_Linked_List.coverage" NAME="234 Palindrome Linked List Coverage Results" MODIFIED="1566491498760" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Leetcode$1122_Relative_Sort_Array.coverage" NAME="1122 Relative Sort Array Coverage Results" MODIFIED="1568325198487" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCode_Python$521_Longest_Uncommon_Subsequence_I.coverage" NAME="521 Longest Uncommon Subsequence I Coverage Results" MODIFIED="1569783515600" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -392,7 +382,7 @@
     <SUITE FILE_PATH="coverage/LeetCode_Python$893_Groups_of_Special_Equivalent_Strings.coverage" NAME="893 Groups of Special-Equivalent Strings Coverage Results" MODIFIED="1570044214758" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCode_Python$101_Symmetric_Tree.coverage" NAME="101 Symmetric Tree Coverage Results" MODIFIED="1571142814183" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCode_Python$938_Range_Sum_of_BST.coverage" NAME="938 Range Sum of BST Coverage Results" MODIFIED="1571145807991" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/LeetCode_Python$1409_Queries_on_a_Permutation_With_Key.coverage" NAME="1409 Queries on a Permutation With Key Coverage Results" MODIFIED="1589283183806" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/LeetCode_Python$1409_Queries_on_a_Permutation_With_Key.coverage" NAME="1409 Queries on a Permutation With Key Coverage Results" MODIFIED="1589289805571" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Leetcode$507_Perfect_Number.coverage" NAME="507 Perfect Number Coverage Results" MODIFIED="1568998087296" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Leetcode$Two_Sum.coverage" NAME="Two Sum Coverage Results" MODIFIED="1566406444517" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Leetcode$442_Find_All_Duplicates_in_an_Array.coverage" NAME="442 Find All Duplicates in an Array Coverage Results" MODIFIED="1567074702904" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -437,15 +427,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/1443 Minimum Time to Collect All Apples in a Tree.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="735">
-              <caret line="49" column="5" selection-start-line="49" selection-start-column="5" selection-end-line="49" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/1442 Count Triplets That Can Form Two Arrays of Equal XOR.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -518,11 +499,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/1395 Count Number of Teams.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="286">
-              <caret line="24" column="22" lean-forward="true" selection-start-line="24" selection-start-column="22" selection-end-line="24" selection-end-column="22" />
+            <state relative-caret-position="270">
+              <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/535 Encode and Decode TinyURL.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="450">
+              <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
             </state>
           </provider>
         </entry>
@@ -544,7 +534,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/1385 Find the Distance Value Between Two Arrays.py" />
         <option value="$PROJECT_DIR$/1389 Create Target Array in the Given Order.py" />
         <option value="$PROJECT_DIR$/1394 Find Lucky Integer in an Array.py" />
         <option value="$PROJECT_DIR$/1290 Convert Binary Number in a Linked List to Integer.py" />
@@ -595,6 +584,7 @@
         <option value="$PROJECT_DIR$/1282 Group the People Given the Group Size They Belong To.py" />
         <option value="$PROJECT_DIR$/1409 Queries on a Permutation With Key.py" />
         <option value="$PROJECT_DIR$/1395 Count Number of Teams.py" />
+        <option value="$PROJECT_DIR$/535 Encode and Decode TinyURL.py" />
       </list>
     </option>
   </component>
@@ -652,7 +642,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.1409 Queries on a Permutation With Key">
+  <component name="RunManager" selected="Python.1395 Count Number of Teams">
     <configuration name="1282 Group the People Given the Group Size They Belong To" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Leetcode" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -719,7 +709,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="1379 Find a Corresponding Node of a Binary Tree in a Clone of That Tree" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="1395 Count Number of Teams" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Leetcode" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -732,7 +722,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1379 Find a Corresponding Node of a Binary Tree in a Clone of That Tree.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1395 Count Number of Teams.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -765,11 +755,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.1395 Count Number of Teams" />
         <item itemvalue="Python.1409 Queries on a Permutation With Key" />
         <item itemvalue="Python.1282 Group the People Given the Group Size They Belong To" />
         <item itemvalue="Python.1315 Sum of Nodes with Even-Valued Grandparent" />
         <item itemvalue="Python.1302 Deepest Leaves Sum" />
-        <item itemvalue="Python.1379 Find a Corresponding Node of a Binary Tree in a Clone of That Tree" />
       </list>
     </recent_temporary>
   </component>
@@ -891,12 +881,12 @@
       <workItem from="1588552623826" duration="45450000" />
       <workItem from="1589078426261" duration="6838000" />
       <workItem from="1589164278000" duration="8338000" />
-      <workItem from="1589282266025" duration="840000" />
+      <workItem from="1589282266025" duration="8124000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1008280000" />
+    <option name="totallyTimeSpent" value="1015564000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="680" y="23" width="746" height="825" extended-state="0" />
@@ -929,13 +919,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/190 Reverse Bits.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="35" selection-start-line="14" selection-start-column="35" selection-end-line="14" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/1436 Destination City.py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -1233,8 +1216,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/1395 Count Number of Teams.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="24" column="22" lean-forward="true" selection-start-line="24" selection-start-column="22" selection-end-line="24" selection-end-column="22" />
+        <state relative-caret-position="270">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/535 Encode and Decode TinyURL.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
         </state>
       </provider>
     </entry>

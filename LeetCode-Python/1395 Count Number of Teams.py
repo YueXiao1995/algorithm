@@ -28,7 +28,47 @@ Constraints:
 """
 
 def numTeams(rating):
-    return 0
+    def insertIntoLine(line, rating):
+        l = len(line)
+        if l == 0:
+            line.append(rating)
+            return [], []
+        else:
+            if rating < line[0]:
+                line.insert(0, rating)
+                return [], line[1:]
+            elif rating > line[-1]:
+                line.append(rating)
+                return line[:-1], []
+            else:
+                for i in range(len(line) - 1):
+                    if line[i] < rating and line[i + 1] > rating:
+                        line.insert(i+1, rating)
+                        return line[:i + 1] , line[i + 2:]
+
+    smaller_ratings = dict()
+    bigger_ratings = dict()
+    line = list()
+    num_of_teams = 0
+    for i in range(len(rating)):
+        bigger_sum = 0
+        smaller_sum = 0
+        smaller_ratings_line, bigger_ratings_line = insertIntoLine(line, rating[-i - 1])
+
+        for j in range(len(bigger_ratings_line)):
+            num_of_teams += bigger_ratings[bigger_ratings_line[j]]
+
+
+        for j in range(len(smaller_ratings_line)):
+            num_of_teams += smaller_ratings[smaller_ratings_line[j]]
+
+        bigger_sum += len(bigger_ratings_line)
+        smaller_sum += len(smaller_ratings_line)
+
+        bigger_ratings[rating[-i - 1]] = bigger_sum
+        smaller_ratings[rating[-i - 1]] = smaller_sum
+
+    return num_of_teams
 
 rating = [2,5,3,4,1]
 print(numTeams(rating))
