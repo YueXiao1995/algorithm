@@ -15,3 +15,107 @@ Constraints:
     The tree nodes will have distinct values between 1 and 10^5.
 """
 
+from binarytree import build
+def balanceBST(root):
+
+    def balance(root):
+        if root.left:
+            if root.left.right:
+                a = root.left
+                b = root.left.right
+                c = root
+                t1 = root.left.left
+                t2 = root.left.right.left
+                t3 = root.left.right.right
+                t4 = root.right
+                a.right = t2
+                b.left = a
+
+                c.left = t3
+                b.right = c
+
+                return b
+            else:
+                a = root.left.left
+                b = root.left
+                c = root
+                t1 = root.left.left.left
+                t2 = root.left.left.right
+                t3 = root.left.right
+                t4 = root.right
+
+                b.left = a
+                b.right = c
+                c.left = t3
+                return b
+        else:
+            if root.right.left:
+                a = root
+                b = root.right.left
+                c = root.right
+                t1 = root.left
+                t2 = root.right.left.left
+                t3 = root.right.left.right
+                t4 = root.right.right
+                c.left = t3
+                b.right = c
+                a.right = t2
+                b.left = a
+                return b
+            else:
+                a = root
+                b = root.right
+                c = root.right.right
+
+                t1 = root.left
+                t2 = root.right.left
+                t3 = root.right.right.left
+                t4 = root.right.right.right
+
+                a.right = t2
+                b.left = a
+                c.left = t3
+                b.right = c
+
+                return b
+
+    def dfs(root):
+        if not root.left and not root.right:
+            return root, 1
+        elif root.left and not root.right:
+            root.left, left_h = dfs(root.left)
+
+            if left_h > 1:
+                root = balance(root)
+            return root, 2
+        elif not root.left and root.right:
+            root.right, right_h = dfs(root.right)
+
+            if right_h > 1:
+                print(root)
+                root = balance(root)
+                print(root)
+
+            return root, 2
+        else:
+            root.left, left_h = dfs(root.left)
+            root.right, right_h = dfs(root.right)
+
+            if abs(left_h - right_h) > 1:
+                root = balance(root)
+                return root, max(left_h, right_h)
+            else:
+                return root, max(left_h, right_h) + 1
+
+
+    root, _ = dfs(root)
+
+
+    return root
+
+root = build([1,
+        None,2,
+        None, None, None,3,
+        None, None, None, None, None, None, None,4])
+print(root)
+print(balanceBST(root))

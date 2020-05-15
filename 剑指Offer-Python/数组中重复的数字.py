@@ -14,4 +14,38 @@ def duplicate(numbers, duplication):
 
 numbers1 = [2,3,1,0,2,5,3]
 duplication = []
-print(duplicate(numbers1))
+
+
+
+def sortListByLastElement(tuples):
+    last_element = dict()
+    for tuple in tuples:
+        if tuple[-1] not in last_element:
+            last_element[tuple[-1]] = [tuple]
+        else:
+            last_element[tuple[-1]].append(tuple)
+    print(last_element)
+    new_list = list()
+    for element in sorted(last_element.keys()):
+        print(element)
+        new_list.extend(last_element[element])
+    return new_list
+
+
+
+print(sortListByLastElement([(0, 5), (-1, 2), (4, 4), (2, 3), (3, 1)]))
+
+def removeingFromSpecificIndex(samples, indexs_for_removing):
+    for i in range(len(indexs_for_removing)):
+        del samples[indexs_for_removing[-i-1]]
+    return samples
+samples = ['Red', 'Green', 'White', 'Black', 'Pink', 'Yellow']
+indexs_for_removing = [0, 4, 5]
+print(removeingFromSpecificIndex(samples, indexs_for_removing))
+
+import numpy as np
+#a = np.array(((2, 3), (3, 5)))
+a = np.matrix(((2, 3), (3, 5)))
+
+import numpy.linalg as npl
+
