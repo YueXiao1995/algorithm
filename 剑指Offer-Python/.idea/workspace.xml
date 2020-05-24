@@ -2,12 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="537f4f73-f39d-486b-91a5-f73f8cafd4bf" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../LeetCode-Python/894 All Possible Full Binary Trees.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../LeetCode-Python/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../LeetCode-Python/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LeetCode-Python/1382 Balance a Binary Search Tree.py" beforeDir="false" afterPath="$PROJECT_DIR$/../LeetCode-Python/1382 Balance a Binary Search Tree.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/数组中重复的数字.py" beforeDir="false" afterPath="$PROJECT_DIR$/数组中重复的数字.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/旋转数组的最小数字.py" beforeDir="false" afterPath="$PROJECT_DIR$/旋转数组的最小数字.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -33,7 +29,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/数组中重复的数字.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="174">
+            <state relative-caret-position="315">
               <caret line="21" column="24" selection-start-line="21" selection-start-column="24" selection-end-line="21" selection-end-column="24" />
             </state>
           </provider>
@@ -42,8 +38,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/旋转数组的最小数字.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" selection-start-line="7" selection-end-line="7" />
+            <state relative-caret-position="570">
+              <caret line="38" selection-start-line="38" selection-end-line="38" />
               <folding>
                 <element signature="e#372#424#0" expanded="true" />
               </folding>
@@ -125,6 +121,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -136,7 +133,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -163,7 +159,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.旋转数组的最小数字">
+  <component name="RunManager" selected="Python.plot_agglomerative_dendrogram">
     <configuration name="二维数组中的查找" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="剑指Offer-Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -298,7 +294,6 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.旋转数组的最小数字" />
         <item itemvalue="Python.plot_agglomerative_dendrogram" />
         <item itemvalue="Python.二维数组中的查找" />
       </list>
@@ -323,17 +318,19 @@
       <workItem from="1589354918020" duration="2132000" />
       <workItem from="1589426082228" duration="305000" />
       <workItem from="1589437007274" duration="1953000" />
+      <workItem from="1589622000705" duration="581000" />
+      <workItem from="1589651179702" duration="85000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16769000" />
+    <option name="totallyTimeSpent" value="17435000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="680" y="23" width="760" height="825" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1977716" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20891365" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -352,7 +349,7 @@
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info active="true" anchor="right" id="SciView" order="3" visible="true" weight="0.3286908" />
+      <window_info anchor="right" id="SciView" order="3" weight="0.32729805" />
       <window_info anchor="right" id="Database" order="4" />
     </layout>
   </component>
@@ -367,6 +364,20 @@
           <folding>
             <element signature="e#353#371#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/用两个栈实现队列.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/数组中重复的数字.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="24" selection-start-line="21" selection-start-column="24" selection-end-line="21" selection-end-column="24" />
         </state>
       </provider>
     </entry>
@@ -398,24 +409,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/数组中重复的数字.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="174">
-          <caret line="21" column="24" selection-start-line="21" selection-start-column="24" selection-end-line="21" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/用两个栈实现队列.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/旋转数组的最小数字.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        <state relative-caret-position="570">
+          <caret line="38" selection-start-line="38" selection-end-line="38" />
           <folding>
             <element signature="e#372#424#0" expanded="true" />
           </folding>

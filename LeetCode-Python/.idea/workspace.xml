@@ -1,16 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="BookmarkManager">
-    <bookmark url="file://$PROJECT_DIR$/1071 Greatest Common Divisor of Strings.py" line="74" mnemonic="3" />
+    <bookmark url="file://$PROJECT_DIR$/1456 Maximum Number of Vowels in a Substring of Given Length.py" line="78" mnemonic="3" />
   </component>
   <component name="ChangeListManager">
     <list default="true" id="78a440fe-2f0d-440d-88c1-205e243682c0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/894 All Possible Full Binary Trees.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1455 Check If a Word Occurs As a Prefix of Any Word in a Sentence.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1456 Maximum Number of Vowels in a Substring of Given Length.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data Structure and Basic Algorithm/.ipynb_checkpoints/1. 排序和查找-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../Data Structure and Basic Algorithm/.ipynb_checkpoints/1. 排序和查找-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Data Structure and Basic Algorithm/1. 排序和查找.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../Data Structure and Basic Algorithm/1. 排序和查找.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Leetcode.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Leetcode.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1382 Balance a Binary Search Tree.py" beforeDir="false" afterPath="$PROJECT_DIR$/1382 Balance a Binary Search Tree.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/894 All Possible Full Binary Trees.py" beforeDir="false" afterPath="$PROJECT_DIR$/894 All Possible Full Binary Trees.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../剑指Offer-Python/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../剑指Offer-Python/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../剑指Offer-Python/数组中重复的数字.py" beforeDir="false" afterPath="$PROJECT_DIR$/../剑指Offer-Python/数组中重复的数字.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../剑指Offer-Python/旋转数组的最小数字.py" beforeDir="false" afterPath="$PROJECT_DIR$/../剑指Offer-Python/旋转数组的最小数字.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -35,6 +39,7 @@
     <SUITE FILE_PATH="coverage/LeetCode_Python$Minimum_Value_to_Get_Positive_Step_by_Step_Sum.coverage" NAME="Minimum Value to Get Positive Step by Step Sum Coverage Results" MODIFIED="1587221177471" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Leetcode$27_Remove_Element.coverage" NAME="27 Remove Element Coverage Results" MODIFIED="1566645099483" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCode_Python$892_Surface_Area_of_3D_Shapes.coverage" NAME="892 Surface Area of 3D Shapes Coverage Results" MODIFIED="1569338333324" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/LeetCode_Python$Maximum_Number_of_Vowels_in_a_Substring_of_Given_Length.coverage" NAME="Maximum Number of Vowels in a Substring of Given Length Coverage Results" MODIFIED="1590297184017" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCode_Python$682_Baseball_Game.coverage" NAME="682 Baseball Game Coverage Results" MODIFIED="1570526229559" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Leetcode$1170_Compare_Strings_by_Frequency_of_the_Smallest_Character.coverage" NAME="1170 Compare Strings by Frequency of the Smallest Character Coverage Results" MODIFIED="1567372480953" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Leetcode$628_Maximum_Product_of_Three.coverage" NAME="628 Maximum Product of Three Coverage Results" MODIFIED="1568034402768" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -46,6 +51,7 @@
     <SUITE FILE_PATH="coverage/Leetcode$1160_Find_Words_That_Can_Be_Formed_by_Characters.coverage" NAME="1160 Find Words That Can Be Formed by Characters Coverage Results" MODIFIED="1567685966740" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCode_Python$Count_Triplets_That_Can_Form_Two_Arrays_of_Equal_XOR.coverage" NAME="Count Triplets That Can Form Two Arrays of Equal XOR Coverage Results" MODIFIED="1589184367808" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCode_Python$1008_Construct_Binary_Search_Tree_from_Preorder_Traversal.coverage" NAME="1008 Construct Binary Search Tree from Preorder Traversal Coverage Results" MODIFIED="1589342481669" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/LeetCode_Python$Check_If_a_Word_Occurs_As_a_Prefix_of_Any_Word_in_a_Sentence.coverage" NAME="Check If a Word Occurs As a Prefix of Any Word in a Sentence Coverage Results" MODIFIED="1590289014724" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Leetcode$160_Intersection_of_Two_Linked_Lists.coverage" NAME="160 Intersection of Two Linked Lists Coverage Results" MODIFIED="1566488656900" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Leetcode$143_Reorder_List.coverage" NAME="143 Reorder List Coverage Results" MODIFIED="1567099393976" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCode_Python$942_DI_String_Match.coverage" NAME="942 DI String Match Coverage Results" MODIFIED="1569339477621" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -383,6 +389,7 @@
     <SUITE FILE_PATH="coverage/Leetcode$830_Positions_of_Large_Groups.coverage" NAME="830 Positions of Large Groups Coverage Results" MODIFIED="1568226094780" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Leetcode$1200_Minimum_Absolute_Difference.coverage" NAME="1200 Minimum Absolute Difference Coverage Results" MODIFIED="1569147367994" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCode_Python$404_Sum_of_Left_Leaves.coverage" NAME="404 Sum of Left Leaves Coverage Results" MODIFIED="1571770490136" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/LeetCode_Python$894_All_Possible_Full_Binary_Trees.coverage" NAME="894 All Possible Full Binary Trees Coverage Results" MODIFIED="1589816806276" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCode_Python$1217_Play_with_Chips.coverage" NAME="1217 Play with Chips Coverage Results" MODIFIED="1570379173445" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCode_Python$806_Number_of_Lines_To_Write_String.coverage" NAME="806 Number of Lines To Write String Coverage Results" MODIFIED="1588726999264" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Leetcode$5182_Maximum_Subarray_Sum_with_One_Deletion.coverage" NAME="5182 Maximum Subarray Sum with One Deletion Coverage Results" MODIFIED="1567941902375" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -438,33 +445,6 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/1395 Count Number of Teams.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="18" selection-start-line="18" selection-end-line="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/535 Encode and Decode TinyURL.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="14" column="44" selection-start-line="14" selection-start-column="44" selection-end-line="14" selection-end-column="44" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/654 Maximum Binary Tree.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/1329 Sort the Matrix Diagonally.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="645">
@@ -503,17 +483,44 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/1382 Balance a Binary Search Tree.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="42" column="39" lean-forward="true" selection-start-line="42" selection-start-column="39" selection-end-line="42" selection-end-column="39" />
+            <state relative-caret-position="630">
+              <caret line="42" column="39" selection-start-line="42" selection-start-column="39" selection-end-line="42" selection-end-column="39" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/894 All Possible Full Binary Trees.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1020">
+              <caret line="68" column="15" selection-start-line="68" selection-start-column="15" selection-end-line="68" selection-end-column="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="6" selection-start-line="6" selection-end-line="6" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/894 All Possible Full Binary Trees.py">
+        <entry file="file://$PROJECT_DIR$/1455 Check If a Word Occurs As a Prefix of Any Word in a Sentence.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+            <state relative-caret-position="398">
+              <caret line="60" column="18" selection-start-line="60" selection-start-column="18" selection-end-line="60" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/1456 Maximum Number of Vowels in a Substring of Given Length.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="307">
+              <caret line="57" column="13" selection-start-line="57" selection-start-column="13" selection-end-line="57" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -544,8 +551,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/1408 String Matching in an Array.py" />
-        <option value="$PROJECT_DIR$/1422 Maximum Score After Splitting a String.py" />
         <option value="$PROJECT_DIR$/1403 Minimum Subsequence in Non-Increasing Order.py" />
         <option value="$PROJECT_DIR$/1356 Sort Integers by The Number of 1 Bits.py" />
         <option value="$PROJECT_DIR$/190 Reverse Bits.py" />
@@ -553,7 +558,6 @@
         <option value="$PROJECT_DIR$/Check If All 1's Are at Least Length K Places Away.py" />
         <option value="$PROJECT_DIR$/Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit.py" />
         <option value="$PROJECT_DIR$/Find the Kth Smallest Sum of a Matrix With Sorted Rows.py" />
-        <option value="$PROJECT_DIR$/test.py" />
         <option value="$PROJECT_DIR$/705 Design HashSet.py" />
         <option value="$PROJECT_DIR$/1431 Kids With the Greatest Number of Candies.py" />
         <option value="$PROJECT_DIR$/581 Shortest Unsorted Continuous Subarray.py" />
@@ -595,14 +599,15 @@
         <option value="$PROJECT_DIR$/1347 Minimum Number of Steps to Make Two Strings Anagram.py" />
         <option value="$PROJECT_DIR$/1382 Balance a Binary Search Tree.py" />
         <option value="$PROJECT_DIR$/894 All Possible Full Binary Trees.py" />
+        <option value="$PROJECT_DIR$/test.py" />
+        <option value="$PROJECT_DIR$/Check If a Word Occurs As a Prefix of Any Word in a Sentence.py" />
+        <option value="$PROJECT_DIR$/Maximum Number of Vowels in a Substring of Given Length.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
-    <option name="x" value="694" />
-    <option name="y" value="23" />
-    <option name="width" value="746" />
-    <option name="height" value="825" />
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="width" value="1440" />
+    <option name="height" value="900" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -652,73 +657,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.1382 Balance a Binary Search Tree">
-    <configuration name="1008 Construct Binary Search Tree from Preorder Traversal" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Leetcode" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1008 Construct Binary Search Tree from Preorder Traversal.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="1079 Letter Tile Possibilities" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Leetcode" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1079 Letter Tile Possibilities.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="1305 All Elements in Two Binary Search Trees" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Leetcode" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1305 All Elements in Two Binary Search Trees.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.Maximum Number of Vowels in a Substring of Given Length">
     <configuration name="1347 Minimum Number of Steps to Make Two Strings Anagram" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Leetcode" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -763,13 +702,79 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="894 All Possible Full Binary Trees" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Leetcode" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/894 All Possible Full Binary Trees.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Check If a Word Occurs As a Prefix of Any Word in a Sentence" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Leetcode" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1455 Check If a Word Occurs As a Prefix of Any Word in a Sentence.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Maximum Number of Vowels in a Substring of Given Length" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Leetcode" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1456 Maximum Number of Vowels in a Substring of Given Length.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Maximum Number of Vowels in a Substring of Given Length" />
+        <item itemvalue="Python.Check If a Word Occurs As a Prefix of Any Word in a Sentence" />
+        <item itemvalue="Python.894 All Possible Full Binary Trees" />
         <item itemvalue="Python.1382 Balance a Binary Search Tree" />
         <item itemvalue="Python.1347 Minimum Number of Steps to Make Two Strings Anagram" />
-        <item itemvalue="Python.1079 Letter Tile Possibilities" />
-        <item itemvalue="Python.1305 All Elements in Two Binary Search Trees" />
-        <item itemvalue="Python.1008 Construct Binary Search Tree from Preorder Traversal" />
       </list>
     </recent_temporary>
   </component>
@@ -894,23 +899,27 @@
       <workItem from="1589282266025" duration="25423000" />
       <workItem from="1589428420031" duration="114000" />
       <workItem from="1589437008985" duration="1698000" />
+      <workItem from="1589622004193" duration="575000" />
+      <workItem from="1589651180180" duration="84000" />
+      <workItem from="1589768971005" duration="5720000" />
+      <workItem from="1590125795957" duration="364000" />
+      <workItem from="1590242774898" duration="8954000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1034675000" />
+    <option name="totallyTimeSpent" value="1050372000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="694" y="23" width="746" height="825" extended-state="1" />
-    <editor active="true" />
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.8304862" visible="true" weight="0.11221591" />
-      <window_info id="Structure" order="1" sideWeight="0.16951379" side_tool="true" visible="true" weight="0.11221591" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.8218978" visible="true" weight="0.34334764" />
+      <window_info id="Structure" order="1" sideWeight="0.1781022" side_tool="true" visible="true" weight="0.34334764" />
       <window_info id="Favorites" order="2" sideWeight="0.12054121" side_tool="true" weight="0.32896653" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.22733246" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.3521682" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.2016317" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.23390275" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -930,22 +939,23 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/894 All Possible Full Binary Trees.py</url>
+          <line>42</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/894 All Possible Full Binary Trees.py</url>
+          <line>64</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/1375 Bulb Switcher III.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="294">
-          <caret line="44" column="11" selection-start-line="44" selection-start-column="11" selection-end-line="44" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/657 Robot Return to Origin.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-22" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/671 Second Minimum Node In a Binary Tree.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/448 Find All Number Disappered in an Array.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -1225,6 +1235,20 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/1382 Balance a Binary Search Tree.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="630">
+          <caret line="42" column="39" selection-start-line="42" selection-start-column="39" selection-end-line="42" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/894 All Possible Full Binary Trees.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1020">
+          <caret line="68" column="15" selection-start-line="68" selection-start-column="15" selection-end-line="68" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/1071 Greatest Common Divisor of Strings.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1110">
@@ -1232,17 +1256,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/1382 Balance a Binary Search Tree.py">
+    <entry file="file://$PROJECT_DIR$/test.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="42" column="39" lean-forward="true" selection-start-line="42" selection-start-column="39" selection-end-line="42" selection-end-column="39" />
+        <state relative-caret-position="90">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/894 All Possible Full Binary Trees.py">
+    <entry file="file://$PROJECT_DIR$/1456 Maximum Number of Vowels in a Substring of Given Length.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+        <state relative-caret-position="307">
+          <caret line="57" column="13" selection-start-line="57" selection-start-column="13" selection-end-line="57" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1455 Check If a Word Occurs As a Prefix of Any Word in a Sentence.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="398">
+          <caret line="60" column="18" selection-start-line="60" selection-start-column="18" selection-end-line="60" selection-end-column="18" />
         </state>
       </provider>
     </entry>
