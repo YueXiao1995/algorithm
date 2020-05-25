@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="78a440fe-2f0d-440d-88c1-205e243682c0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/1446 Consecutive Characters.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1450 Number of Students Doing Homework at a Given Time.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1457 Pseudo-Palindromic Paths in a Binary Tree.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -154,6 +153,7 @@
     <SUITE FILE_PATH="coverage/LeetCode_Python$Minimum_Time_Visiting_All_Points.coverage" NAME="Minimum Time Visiting All Points Coverage Results" MODIFIED="1574563255817" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCode_Python$Array_Transformation.coverage" NAME="Array Transformation Coverage Results" MODIFIED="1572708173229" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCode_Python$1175_Prime_Arrangements.coverage" NAME="1175 Prime Arrangements Coverage Results" MODIFIED="1569507841656" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/LeetCode_Python$1457_Pseudo_Palindromic_Paths_in_a_Binary_Tree.coverage" NAME="1457 Pseudo-Palindromic Paths in a Binary Tree Coverage Results" MODIFIED="1590386858877" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCode_Python$1255_Maximum_Score_Words_Formed_by_Letters.coverage" NAME="1255 Maximum Score Words Formed by Letters Coverage Results" MODIFIED="1574731130880" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Leetcode$1176_Diet_Plan_Performance.coverage" NAME="1176 Diet Plan Performance Coverage Results" MODIFIED="1567535154235" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCode_Python$Reconstruct_a_2_Row_Binary_Matrix.coverage" NAME="Reconstruct a 2-Row Binary Matrix Coverage Results" MODIFIED="1573356976871" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -440,33 +440,6 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/1008 Construct Binary Search Tree from Preorder Traversal.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="24" column="33" selection-start-line="24" selection-start-column="33" selection-end-line="24" selection-end-column="33" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/1305 All Elements in Two Binary Search Trees.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="840">
-              <caret line="56" column="35" selection-start-line="56" selection-start-column="35" selection-end-line="56" selection-end-column="35" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/1079 Letter Tile Possibilities.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" selection-start-line="11" selection-end-line="11" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/1382 Balance a Binary Search Tree.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="630">
@@ -479,7 +452,7 @@
         <entry file="file://$PROJECT_DIR$/894 All Possible Full Binary Trees.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="780">
-              <caret line="52" column="9" lean-forward="true" selection-start-line="52" selection-start-column="9" selection-end-line="68" selection-end-column="15" />
+              <caret line="52" column="9" selection-start-line="52" selection-start-column="9" selection-end-line="68" selection-end-column="15" />
             </state>
           </provider>
         </entry>
@@ -488,7 +461,7 @@
         <entry file="file://$PROJECT_DIR$/1455 Check If a Word Occurs As a Prefix of Any Word in a Sentence.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="248">
-              <caret line="50" column="33" lean-forward="true" selection-start-line="50" selection-start-column="33" selection-end-line="50" selection-end-column="33" />
+              <caret line="50" column="33" selection-start-line="50" selection-start-column="33" selection-end-line="50" selection-end-column="33" />
             </state>
           </provider>
         </entry>
@@ -497,16 +470,39 @@
         <entry file="file://$PROJECT_DIR$/1450 Number of Students Doing Homework at a Given Time.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="264">
-              <caret line="38" lean-forward="true" selection-start-line="38" selection-end-line="38" />
+              <caret line="38" selection-start-line="38" selection-end-line="38" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/1446 Consecutive Characters.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="226">
+              <caret line="45" selection-start-line="45" selection-end-line="45" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/1446 Consecutive Characters.py">
+        <entry file="file://$PROJECT_DIR$/1457 Pseudo-Palindromic Paths in a Binary Tree.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="361">
-              <caret line="54" lean-forward="true" selection-start-line="54" selection-end-line="54" />
+            <state relative-caret-position="366">
+              <caret line="59" selection-start-line="26" selection-end-line="59" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/1380 Lucky Numbers in a Matrix.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/1379 Find a Corresponding Node of a Binary Tree in a Clone of That Tree.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-657">
+              <caret line="57" column="13" selection-start-line="57" selection-start-column="13" selection-end-line="57" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -546,7 +542,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/190 Reverse Bits.py" />
         <option value="$PROJECT_DIR$/Destination City.py" />
         <option value="$PROJECT_DIR$/Check If All 1's Are at Least Length K Places Away.py" />
         <option value="$PROJECT_DIR$/Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit.py" />
@@ -597,6 +592,7 @@
         <option value="$PROJECT_DIR$/Maximum Number of Vowels in a Substring of Given Length.py" />
         <option value="$PROJECT_DIR$/1450 Number of Students Doing Homework at a Given Time.py" />
         <option value="$PROJECT_DIR$/1446 Consecutive Characters.py" />
+        <option value="$PROJECT_DIR$/1457 Pseudo-Palindromic Paths in a Binary Tree.py" />
       </list>
     </option>
   </component>
@@ -654,7 +650,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.1446 Consecutive Characters">
+  <component name="RunManager" selected="Python.1457 Pseudo-Palindromic Paths in a Binary Tree">
     <configuration name="1446 Consecutive Characters" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Leetcode" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -699,7 +695,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="894 All Possible Full Binary Trees" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="1457 Pseudo-Palindromic Paths in a Binary Tree" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Leetcode" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -712,7 +708,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/894 All Possible Full Binary Trees.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1457 Pseudo-Palindromic Paths in a Binary Tree.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -767,11 +763,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.1457 Pseudo-Palindromic Paths in a Binary Tree" />
         <item itemvalue="Python.1446 Consecutive Characters" />
         <item itemvalue="Python.1450 Number of Students Doing Homework at a Given Time" />
         <item itemvalue="Python.Maximum Number of Vowels in a Substring of Given Length" />
         <item itemvalue="Python.Check If a Word Occurs As a Prefix of Any Word in a Sentence" />
-        <item itemvalue="Python.894 All Possible Full Binary Trees" />
       </list>
     </recent_temporary>
   </component>
@@ -900,23 +896,23 @@
       <workItem from="1589651180180" duration="84000" />
       <workItem from="1589768971005" duration="5720000" />
       <workItem from="1590125795957" duration="364000" />
-      <workItem from="1590242774898" duration="10495000" />
+      <workItem from="1590242774898" duration="12727000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1051913000" />
+    <option name="totallyTimeSpent" value="1054145000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="694" y="23" width="746" height="825" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.8214286" visible="true" weight="0.2940341" />
-      <window_info id="Structure" order="1" sideWeight="0.17857143" side_tool="true" visible="true" weight="0.2940341" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.87828946" visible="true" weight="0.20454545" />
+      <window_info id="Structure" order="1" sideWeight="0.121710524" side_tool="true" visible="true" weight="0.20454545" />
       <window_info id="Favorites" order="2" sideWeight="0.12054121" side_tool="true" weight="0.32896653" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.22733246" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.20105125" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.23390275" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -925,8 +921,8 @@
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.32983682" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" weight="0.3296433" />
-      <window_info anchor="bottom" id="Terminal" order="11" />
-      <window_info anchor="bottom" id="Python Console" order="12" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.32983682" />
+      <window_info anchor="bottom" id="Python Console" order="12" weight="0.3718791" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -938,12 +934,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/852 Peak Index in a Mountain Array.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1030 Matrix Cells in Distance Order.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/705 Design HashSet.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="190">
@@ -1118,13 +1108,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/1379 Find a Corresponding Node of a Binary Tree in a Clone of That Tree.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1560">
-          <caret line="104" column="10" selection-start-line="104" selection-start-column="10" selection-end-line="104" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/1302 Deepest Leaves Sum.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
@@ -1240,28 +1223,45 @@
     <entry file="file://$PROJECT_DIR$/894 All Possible Full Binary Trees.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="780">
-          <caret line="52" column="9" lean-forward="true" selection-start-line="52" selection-start-column="9" selection-end-line="68" selection-end-column="15" />
+          <caret line="52" column="9" selection-start-line="52" selection-start-column="9" selection-end-line="68" selection-end-column="15" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/1455 Check If a Word Occurs As a Prefix of Any Word in a Sentence.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="248">
-          <caret line="50" column="33" lean-forward="true" selection-start-line="50" selection-start-column="33" selection-end-line="50" selection-end-column="33" />
+          <caret line="50" column="33" selection-start-line="50" selection-start-column="33" selection-end-line="50" selection-end-column="33" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/1450 Number of Students Doing Homework at a Given Time.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="264">
-          <caret line="38" lean-forward="true" selection-start-line="38" selection-end-line="38" />
+          <caret line="38" selection-start-line="38" selection-end-line="38" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/1446 Consecutive Characters.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="361">
-          <caret line="54" lean-forward="true" selection-start-line="54" selection-end-line="54" />
+        <state relative-caret-position="226">
+          <caret line="45" selection-start-line="45" selection-end-line="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1379 Find a Corresponding Node of a Binary Tree in a Clone of That Tree.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-657">
+          <caret line="57" column="13" selection-start-line="57" selection-start-column="13" selection-end-line="57" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1380 Lucky Numbers in a Matrix.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1457 Pseudo-Palindromic Paths in a Binary Tree.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="366">
+          <caret line="59" selection-start-line="26" selection-end-line="59" />
         </state>
       </provider>
     </entry>
