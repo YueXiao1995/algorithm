@@ -57,4 +57,3 @@ print(simplifiedFractions(n))
 n = 8
 print(simplifiedFractions(n))
 
-

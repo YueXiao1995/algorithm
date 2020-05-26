@@ -94,4 +94,3 @@ s = "tryhard"
 k = 4
 print(maxVowels(s, k))
 
-
