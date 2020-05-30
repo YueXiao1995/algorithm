@@ -41,10 +41,12 @@ def lengthOfLongestSubstring(s):
             chars_index[s[i]] = i
             # update the star point of the substring
             start_index = last_same_char_index + 1
+
     return max_l
 
 
-# instead of deleting the old num which is not in substring from dict, for each num, this method will store all of the indexs into a list
+# instead of deleting the old num which is not in substring from dict, for each num,
+# this method will store all of the indexs into a list
 def lengthOfLongestSubstring2(s):
     l = len(s)  # length of the input string
     max_l = 0  # record the maximum length of substring without repeating characters
@@ -82,4 +84,4 @@ string5 = "bbtablud"
 string6 = "abcabcbb"
 string7 = "aabaab!bb"
 string8 = "wwekw"
-print(lengthOfLongestSubstring2(string4))
+print(lengthOfLongestSubstring(string6))

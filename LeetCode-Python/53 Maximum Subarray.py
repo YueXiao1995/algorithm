@@ -83,6 +83,12 @@ def maxSubArry(nums):
                 right_sum = 0
     return left_sum
 
+def maxSubArry2(nums):
+    current_max_sum = list()
+    current_max_sum.append(nums[0])
+    for i in range(1, len(nums)):
+        current_max_sum.append(max(current_max_sum[i - 1] + nums[i], nums[i]))
+    return max(current_max_sum)
 input = [8,-19,5,-4,20]
 input2 = [-2,1,-3,4,-1,2,1,-5,4]
 input3 = [3,-2,-3,-3,1,3,0]
