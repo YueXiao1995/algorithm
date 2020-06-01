@@ -48,6 +48,7 @@ def minReorder(n, connections):
     reorient = 0
     current_layer = [0]
     while len(current_layer) != 0:
+
         next_layer = list()
         for start in current_layer:
             if start in roads.keys():
@@ -63,6 +64,44 @@ def minReorder(n, connections):
                     roads[end].remove(start)
                     if len(roads[end]) == 0:
                         roads.pop(end)
+
+        current_layer = next_layer
+    return reorient
+
+# Time Limit Exceeded
+def minReorder2(n, connections):
+    roads = dict()
+    reversed_roads = dict()
+    for c in connections:
+        if c[0] not in roads:
+            roads[c[0]] = [c[1]]
+        else:
+            roads[c[0]].append(c[1])
+
+        if c[1] not in reversed_roads:
+            reversed_roads[c[1]] = [c[0]]
+        else:
+            reversed_roads[c[1]].append(c[0])
+
+    visited = set()
+    reorient = 0
+    current_layer = [0]
+    visited.add(0)
+    while len(current_layer) != 0:
+        next_layer = list()
+        for start in current_layer:
+            if start in roads.keys():
+                for city in roads[start]:
+                    if city not in visited:
+                        next_layer.append(city)
+                        visited.add(city)
+                        reorient += 1
+            if start in reversed_roads.keys():
+                for city in reversed_roads[start]:
+                    if city not in visited:
+                        next_layer.append(city)
+                        visited.add(city)
+
         current_layer = next_layer
     return reorient
 
@@ -70,13 +109,13 @@ def minReorder(n, connections):
 
 n = 6
 connections = [[0,1],[1,3],[2,3],[4,0],[4,5]]
-print(minReorder(n, connections))
+print(minReorder2(n, connections))
 
 n = 5
 connections = [[1,0],[1,2],[3,2],[3,4]]
-print(minReorder(n, connections))
+print(minReorder2(n, connections))
 
 n = 3
 connections = [[1,0],[2,0]]
-print(minReorder(n, connections))
+print(minReorder2(n, connections))
 
