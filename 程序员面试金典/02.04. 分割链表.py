@@ -31,6 +31,7 @@ def NodeListPrinter(head):
         head = head.next
     return ('->').join(node_list)
 
+# 操作修改链表
 def partition(head, x):
     if head == None:
         return None
@@ -69,6 +70,40 @@ def partition(head, x):
         return new_head
     else:
         return head
+# 新建新链表
+def partition2(head, x):
+    smaller_head = None
+    smaller_tail = None
+    bigger_head = None
+    bigger_tail = None
+    pointer = head
+    while pointer != None:
+        new_node = ListNode(pointer.val)
+        if pointer.val < x:
+            if smaller_head == None:
+                smaller_head = new_node
+                smaller_tail = new_node
+            else:
+                smaller_tail.next = new_node
+                smaller_tail = new_node
+        else:
+            if bigger_head == None:
+                bigger_head = new_node
+                bigger_tail = new_node
+            else:
+                bigger_tail.next = new_node
+                bigger_tail = new_node
+        pointer = pointer.next
+
+    if smaller_head != None and bigger_head != None:
+        smaller_tail.next = bigger_head
+        return smaller_head
+    elif smaller_head != None:
+        return smaller_head
+    elif bigger_head != None:
+        return bigger_head
+    else:
+        return None
 
 nums = [11, 3, 5, 8, 5, 10, 2, 1]
 x = 5
@@ -76,9 +111,8 @@ head = NodeListBuilder(nums)
 print(NodeListPrinter(head))
 print(NodeListPrinter(partition(head, x)))
 
-
 nums = [3, 5, 8, 5, 10, 2, 1, 7]
 x = 5
 head = NodeListBuilder(nums)
 print(NodeListPrinter(head))
-print(NodeListPrinter(partition(head, x)))
+print(NodeListPrinter(partition2(head, x)))

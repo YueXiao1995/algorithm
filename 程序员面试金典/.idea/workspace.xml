@@ -2,11 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="274354b0-2e2c-4bf3-9e5a-b1f1749e544d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/02.01. 移除重复节点.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02.02. 返回倒数第 k 个节点.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02.03. 删除中间节点.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02.04. 分割链表.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02.05. 链表求和.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02.06. 回文链表.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02.07. 链表相交.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01.01 判定字符是否唯一.py" beforeDir="false" afterPath="$PROJECT_DIR$/01.01. 判定字符是否唯一.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02.04. 分割链表.py" beforeDir="false" afterPath="$PROJECT_DIR$/02.04. 分割链表.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -18,15 +19,17 @@
     <SUITE FILE_PATH="coverage/$02_01__.coverage" NAME="02.01. 移除重复节点 Coverage Results" MODIFIED="1591258140948" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/$01_03__URL.coverage" NAME="01.03. URL化 Coverage Results" MODIFIED="1591030451910" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/$01_06__.coverage" NAME="01.06. 字符串压缩 Coverage Results" MODIFIED="1591039694175" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/$02_06__.coverage" NAME="02.06. 回文链表 Coverage Results" MODIFIED="1591302193728" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/$01_04__.coverage" NAME="01.04. 回文排列 Coverage Results" MODIFIED="1591037354820" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/$01_08__.coverage" NAME="01.08. 零矩阵 Coverage Results" MODIFIED="1591134276443" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/$02_03__.coverage" NAME="02.03. 删除中间节点 Coverage Results" MODIFIED="1591258072339" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/$01_05__.coverage" NAME="01.05. 一次编辑 Coverage Results" MODIFIED="1591037972709" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/$01_07__.coverage" NAME="01.07. 旋转矩阵 Coverage Results" MODIFIED="1591131707496" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/$02_05__.coverage" NAME="02.05. 链表求和 Coverage Results" MODIFIED="1591300360435" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/$02_02___k_.coverage" NAME="02.02. 返回倒数第 k 个节点 Coverage Results" MODIFIED="1591258083500" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/$01_01_.coverage" NAME="01.01 判定字符是否唯一 Coverage Results" MODIFIED="1591027106391" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/$01_02__.coverage" NAME="01.02. 判定是否互为字符重排 Coverage Results" MODIFIED="1591028080252" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/$02_04__.coverage" NAME="02.04. 分割链表 Coverage Results" MODIFIED="1591264098882" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/$02_04__.coverage" NAME="02.04. 分割链表 Coverage Results" MODIFIED="1591281715592" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/$01_09__.coverage" NAME="01.09. 字符串轮转 Coverage Results" MODIFIED="1591164401015" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="FileEditorManager">
@@ -58,11 +61,38 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/02.04. 分割链表.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="281">
-              <caret line="78" lean-forward="true" selection-start-line="78" selection-end-line="78" />
+            <state relative-caret-position="90">
+              <caret line="7" selection-start-line="7" selection-end-line="31" selection-end-column="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/02.05. 链表求和.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="152">
+              <caret line="92" column="36" selection-start-line="92" selection-start-column="36" selection-end-line="92" selection-end-column="36" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/02.06. 回文链表.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="86">
+              <caret line="59" column="17" lean-forward="true" selection-start-line="59" selection-start-column="17" selection-end-line="59" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/02.07. 链表相交.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="416">
+              <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
             </state>
           </provider>
         </entry>
@@ -94,7 +124,11 @@
         <option value="$PROJECT_DIR$/02.03. 删除中间节点.py" />
         <option value="$PROJECT_DIR$/02.02. 返回倒数第 k 个节点.py" />
         <option value="$PROJECT_DIR$/02.01. 移除重复节点.py" />
+        <option value="$PROJECT_DIR$/2.05. 链表求和.py" />
         <option value="$PROJECT_DIR$/02.04. 分割链表.py" />
+        <option value="$PROJECT_DIR$/02.05. 链表求和.py" />
+        <option value="$PROJECT_DIR$/02.06. 回文链表.py" />
+        <option value="$PROJECT_DIR$/02.07. 链表相交.py" />
       </list>
     </option>
   </component>
@@ -145,29 +179,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.02.04. 分割链表">
-    <configuration name="01.09. 字符串轮转" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="程序员面试金典" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/01.09. 字符串轮转.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.02.06. 回文链表">
     <configuration name="02.01. 移除重复节点" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="程序员面试金典" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -212,28 +224,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="02.03. 删除中间节点" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="程序员面试金典" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/02.03. 删除中间节点.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="02.04. 分割链表" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="程序员面试金典" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -256,13 +246,57 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="02.05. 链表求和" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="程序员面试金典" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/02.05. 链表求和.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="02.06. 回文链表" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="程序员面试金典" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/02.06. 回文链表.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.02.06. 回文链表" />
+        <item itemvalue="Python.02.05. 链表求和" />
         <item itemvalue="Python.02.04. 分割链表" />
         <item itemvalue="Python.02.01. 移除重复节点" />
         <item itemvalue="Python.02.02. 返回倒数第 k 个节点" />
-        <item itemvalue="Python.02.03. 删除中间节点" />
-        <item itemvalue="Python.01.09. 字符串轮转" />
       </list>
     </recent_temporary>
   </component>
@@ -276,19 +310,19 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1590952662373</updated>
-      <workItem from="1590952663615" duration="38899000" />
+      <workItem from="1590952663615" duration="46238000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="38899000" />
+    <option name="totallyTimeSpent" value="46238000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="780" y="23" width="660" height="823" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24757281" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.197411" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" />
@@ -370,7 +404,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/01.01 判定字符是否唯一.py">
+    <entry file="file://$PROJECT_DIR$/01.01. 判定字符是否唯一.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="267">
           <caret line="54" column="22" selection-start-line="54" selection-start-column="22" selection-end-line="54" selection-end-column="22" />
@@ -400,8 +434,29 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/02.04. 分割链表.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="281">
-          <caret line="78" lean-forward="true" selection-start-line="78" selection-end-line="78" />
+        <state relative-caret-position="90">
+          <caret line="7" selection-start-line="7" selection-end-line="31" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02.05. 链表求和.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="92" column="36" selection-start-line="92" selection-start-column="36" selection-end-line="92" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02.06. 回文链表.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="86">
+          <caret line="59" column="17" lean-forward="true" selection-start-line="59" selection-start-column="17" selection-end-line="59" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02.07. 链表相交.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="416">
+          <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
         </state>
       </provider>
     </entry>
