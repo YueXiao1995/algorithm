@@ -27,7 +27,76 @@
 链接：https://leetcode-cn.com/problems/intersection-of-two-linked-lists-lcci
 著作权归领扣网络所有。商业转载请联系官方授权，非商业转载请注明出处。
 """
+class ListNode(object):
+    def __init__(self, x):
+        self.val = x
+        self.next = None
 
+
+def NodeListBuilder(nums):
+    if len(nums) == 0:
+        return None
+    else:
+        head = ListNode(nums[0])
+        last = head
+        for i in range(1, len(nums)):
+            new_node = ListNode(nums[i])
+            last.next = new_node
+            last = new_node
+        return head
+
+
+def NodeListPrinter(head):
+    node_list = []
+    while head != None:
+        node_list.append(str(head.val))
+        head = head.next
+    return ('->').join(node_list)
+
+
+# 本地编译无法通过，但在线编译可以通过
 def getIntersectionNode(headA, headB):
-    return 0
+    # 历遍两个链表得到它们的长度及尾部node的索引
+    if headA == None or headB == None:
+        return None
+    l1 = 1
+    p1 = headA
+    while p1.next != None:
+        l1 += 1
+        p1 = p1.next
 
+    l2 = 1
+    p2 = headB
+    while p2.next != None:
+        l2 += 1
+        p2 = p2.next
+
+    pa = headA
+    pb = headB
+
+    # 判断索引是否相同
+    if p1 == p2:
+        if l1 > l2:
+            for i in range(l1 - l2):
+                pa = pa.next
+        elif l2 > l1:
+            for i in range(l2 - l1):
+                pb = pb.next
+        while pa != None and pb != None:
+            if pa == pb:
+                return pa
+            else:
+                pa = pa.next
+                pb = pb.next
+        return None
+    else:
+        return None
+
+
+listA = NodeListBuilder([4,1,8,4,5])
+listB = NodeListBuilder([5,0,1,8,4,5])
+print(getIntersectionNode(listA, listB))
+
+listA = NodeListBuilder([0,9,1,2,4])
+listB = NodeListBuilder([3,2,4])
+print(getIntersectionNode(listA, listB))
