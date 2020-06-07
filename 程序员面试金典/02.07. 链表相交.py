@@ -54,7 +54,6 @@ def NodeListPrinter(head):
     return ('->').join(node_list)
 
 
-# 本地编译无法通过，但在线编译可以通过
 def getIntersectionNode(headA, headB):
     # 历遍两个链表得到它们的长度及尾部node的索引
     if headA == None or headB == None:
@@ -93,10 +92,19 @@ def getIntersectionNode(headA, headB):
         return None
 
 
-listA = NodeListBuilder([4,1,8,4,5])
-listB = NodeListBuilder([5,0,1,8,4,5])
-print(getIntersectionNode(listA, listB))
+list_common = NodeListBuilder([8, 4, 5])
 
-listA = NodeListBuilder([0,9,1,2,4])
-listB = NodeListBuilder([3,2,4])
-print(getIntersectionNode(listA, listB))
+listA = ListNode(4)
+node1 = ListNode(1)
+listA.next = node1
+node1.next = list_common
+
+listB = ListNode(5)
+node2 = ListNode(0)
+node3 = ListNode(1)
+listB.next = node2
+node2.next = node3
+node3.next = list_common
+
+print(NodeListPrinter(getIntersectionNode(listA, listB)))
+
