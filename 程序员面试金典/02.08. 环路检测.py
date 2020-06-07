@@ -45,6 +45,7 @@ def detectCycle(head):
 def detectCycle2(head):
     # 快指针不会跳过慢指针
     # 当慢指针在环内时， 快指针总能在一周之内追上慢指针
+    # m = head 到 环路的开头， r = 环路的长， d = 环路的开头到快指针追上慢指针的位置
     #   s1 = m + d
     #   s2 = m + n * r + d
     #   2 * s1 = s2
