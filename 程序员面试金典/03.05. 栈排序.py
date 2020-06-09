@@ -26,10 +26,33 @@
 class SortedStack(object):
 
     def __init__(self):
-
+        self.stack = []
 
     def push(self, val):
-        
+        l = len(self.stack)
+        temp = []
+        if l == 0:
+            self.stack.append(val)
+        else:
+            is_pushed = None
+            while l != 0:
+                if is_pushed == None and self.stack[-1] > val:
+                    # temp.push()
+                    temp.append(val)
+                    is_pushed = False
+                # temp.push(stack.pop())
+                temp.append(self.stack[-1])
+                del self.stack[-1]
+                l -= 1
+            # if all of the num in stack is smaller than val
+            if is_pushed == None:
+                temp.append(val)
+            l = len(temp)
+            while l != 0:
+                # stack.push(temp.pop())
+                self.stack.append(temp[-1])
+                del temp[-1]
+                l -= 1
         """
         :type val: int
         :rtype: None
@@ -37,18 +60,34 @@ class SortedStack(object):
 
 
     def pop(self):
+        if len(self.stack) == 0:
+            return None
+        else:
+            top = self.stack[-1]
+            del self.stack[-1]
+            return top
+
         """
         :rtype: None
         """
 
 
     def peek(self):
+        if len(self.stack) == 0:
+            return -1
+        else:
+            top = self.stack[-1]
+            return top
         """
         :rtype: int
         """
 
 
     def isEmpty(self):
+        if len(self.stack) == 0:
+            return True
+        else:
+            return False
         """
         :rtype: bool
 
