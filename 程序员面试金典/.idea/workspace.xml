@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="274354b0-2e2c-4bf3-9e5a-b1f1749e544d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/04.04. 检查平衡性.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04.05. 合法二叉搜索树.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04.06. 后继者.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/04.06. 后继者.py" beforeDir="false" afterPath="$PROJECT_DIR$/04.06. 后继者.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -17,7 +14,7 @@
     <SUITE FILE_PATH="coverage/$02_01__.coverage" NAME="02.01. 移除重复节点 Coverage Results" MODIFIED="1591258140948" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/$03_03__.coverage" NAME="03.03. 堆盘子 Coverage Results" MODIFIED="1591576272189" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/$01_03__URL.coverage" NAME="01.03. URL化 Coverage Results" MODIFIED="1591030451910" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/$04_05__.coverage" NAME="04.05. 合法二叉搜索树 Coverage Results" MODIFIED="1591832451459" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/$04_05__.coverage" NAME="04.05. 合法二叉搜索树 Coverage Results" MODIFIED="1591841558402" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/$01_06__.coverage" NAME="01.06. 字符串压缩 Coverage Results" MODIFIED="1591039694175" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/$02_08__.coverage" NAME="02.08. 环路检测 Coverage Results" MODIFIED="1591510634599" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/$04_01__.coverage" NAME="04.01. 节点间通路 Coverage Results" MODIFIED="1591787829291" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -42,6 +39,7 @@
     <SUITE FILE_PATH="coverage/$01_01_.coverage" NAME="01.01 判定字符是否唯一 Coverage Results" MODIFIED="1591027106391" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/$04_02__.coverage" NAME="04.02. 最小高度树 Coverage Results" MODIFIED="1591787834239" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/$03_04__.coverage" NAME="03.04. 化栈为队 Coverage Results" MODIFIED="1591699101995" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/$04_06__.coverage" NAME="04.06. 后继者 Coverage Results" MODIFIED="1591848025873" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
@@ -102,8 +100,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/04.06. 后继者.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="87">
-              <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+            <state relative-caret-position="32">
+              <caret line="35" selection-start-line="35" selection-end-line="54" selection-end-column="20" />
             </state>
           </provider>
         </entry>
@@ -231,29 +229,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.04.05. 合法二叉搜索树">
-    <configuration name="04.01. 节点间通路" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="程序员面试金典" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/04.01. 节点间通路.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.04.06. 后继者">
     <configuration name="04.02. 最小高度树" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="程序员面试金典" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -342,13 +318,35 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="04.06. 后继者" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="程序员面试金典" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/04.06. 后继者.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.04.06. 后继者" />
         <item itemvalue="Python.04.05. 合法二叉搜索树" />
         <item itemvalue="Python.04.04. 检查平衡性" />
         <item itemvalue="Python.04.03. 特定深度节点链表" />
         <item itemvalue="Python.04.02. 最小高度树" />
-        <item itemvalue="Python.04.01. 节点间通路" />
       </list>
     </recent_temporary>
   </component>
@@ -368,23 +366,23 @@
       <workItem from="1591484529493" duration="143000" />
       <workItem from="1591506153048" duration="3604000" />
       <workItem from="1591559894111" duration="10545000" />
-      <workItem from="1591697577076" duration="24098000" />
+      <workItem from="1591697577076" duration="31842000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="90689000" />
+    <option name="totallyTimeSpent" value="98433000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="829" y="23" width="611" height="823" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23198594" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.29173988" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.33069828" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32938075" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -628,8 +626,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/04.06. 后继者.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="87">
-          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+        <state relative-caret-position="32">
+          <caret line="35" selection-start-line="35" selection-end-line="54" selection-end-column="20" />
         </state>
       </provider>
     </entry>
