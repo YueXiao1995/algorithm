@@ -23,16 +23,30 @@
 链接：https://leetcode-cn.com/problems/paths-with-sum-lcci
 著作权归领扣网络所有。商业转载请联系官方授权，非商业转载请注明出处。
 """
-from binarytree import build, Node
+from binarytree import build
 
 def pathSum(root, sum):
-    def dfs(root, sum):
-        if not root.left and not root.right:
-            routes = list()
-            if root.value == sum:
-                routes.append([sum])
-            return [root.value], routes
-    return 0
+    def dfs(root, sum,  ancestors):
+        if root == None:
+            return 0
+        paths = 0
+        v = root.value
+        if v == sum:
+            paths += 1
+            print([root.value])
+        for i in range(len(ancestors)):
+            v += ancestors[-i - 1]
+            if v == sum:
+                paths += 1
+                print(ancestors[-i - 1:] + [root.value])
+        ancestors.append(root.value)
+        if root.left:
+            paths += dfs(root.left, sum, list(ancestors))
+        if root.right:
+            paths += dfs(root.right, sum, list(ancestors))
+        return paths
+
+    return dfs(root, sum, [])
 
 tree = build([5, 4, 8, 11, None, 13, 4, 7, 2, None, None, None, None, 5, 1])
 print(tree)
