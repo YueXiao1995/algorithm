@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="274354b0-2e2c-4bf3-9e5a-b1f1749e544d" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/04.12. 求和路径.py" beforeDir="false" afterPath="$PROJECT_DIR$/04.12. 求和路径.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05.01. 插入.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -62,15 +63,6 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/04.02. 最小高度树.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="645">
-              <caret line="43" column="36" selection-start-line="43" selection-start-column="36" selection-end-line="43" selection-end-column="36" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/04.03. 特定深度节点链表.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="720">
@@ -124,11 +116,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/04.04. 检查平衡性.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-301">
-              <caret line="23" selection-start-line="23" selection-end-line="23" />
+            <state relative-caret-position="314">
+              <caret line="64" column="25" selection-start-line="64" selection-start-column="25" selection-end-line="64" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/05.01. 插入.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="389">
+              <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
             </state>
           </provider>
         </entry>
@@ -201,6 +202,7 @@
         <option value="$PROJECT_DIR$/04.09. 二叉搜索树序列.py" />
         <option value="$PROJECT_DIR$/04.10. 检查子树.py" />
         <option value="$PROJECT_DIR$/04.12. 求和路径.py" />
+        <option value="$PROJECT_DIR$/05.01. 插入.py" />
       </list>
     </option>
   </component>
@@ -390,17 +392,18 @@
       <workItem from="1591559894111" duration="10545000" />
       <workItem from="1591697577076" duration="35741000" />
       <workItem from="1592107693699" duration="366000" />
-      <workItem from="1592229676685" duration="13008000" />
+      <workItem from="1592229676685" duration="14033000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="115706000" />
+    <option name="totallyTimeSpent" value="116731000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="829" y="23" width="611" height="823" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.31634447" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.11950791" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -677,8 +680,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/04.04. 检查平衡性.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-301">
-          <caret line="23" selection-start-line="23" selection-end-line="23" />
+        <state relative-caret-position="314">
+          <caret line="64" column="25" selection-start-line="64" selection-start-column="25" selection-end-line="64" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/05.01. 插入.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="389">
+          <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
         </state>
       </provider>
     </entry>
