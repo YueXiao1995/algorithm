@@ -86,19 +86,14 @@ def findUnsortedSubarray(nums):
     if len(nums) < 2:
         return 0
 
+    unmatch_index_list = list()
     max_list = [nums[0]]
     for i in range(1, len(nums)):
-        if nums[i] > max_list[-1]:
+        if nums[i] >= max_list[-1]:
             max_list.append(nums[i])
         else:
-            max_list.append(max_list[-1])
-
-    unmatch_index_list = list()
-    for i in range(len(nums)):
-        if max_list[i] != nums[i]:
             unmatch_index_list.append(i)
-
-    if unmatch_index_list == []:
+    if len(unmatch_index_list) == 0:
         return 0
 
     start = unmatch_index_list[0]
@@ -107,7 +102,7 @@ def findUnsortedSubarray(nums):
 
     for i in range(start):
         if nums[start - i - 1] > min_value:
-            unmatch_index_list = [start - i - 1] + unmatch_index_list
+            unmatch_index_list.insert(0, start - i - 1)
         else:
             break
     return unmatch_index_list[-1]+1 - unmatch_index_list[0]
