@@ -45,3 +45,7 @@ print(finalPrices(prices))
 
 prices = [10,1,1,6]
 print(finalPrices(prices))
+
+
+
+
