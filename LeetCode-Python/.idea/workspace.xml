@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="78a440fe-2f0d-440d-88c1-205e243682c0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/1550 Three Consecutive Odds.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1544 Make The String Great.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -123,6 +123,7 @@
     <SUITE FILE_PATH="coverage/LeetCode_Python$563_Binary_Tree_Tilt.coverage" NAME="563 Binary Tree Tilt Coverage Results" MODIFIED="1571851822899" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Leetcode$217_Contains_Duplicate.coverage" NAME="217 Contains Duplicate Coverage Results" MODIFIED="1567385267802" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCode_Python$1451_Rearrange_Words_in_a_Sentence.coverage" NAME="1451 Rearrange Words in a Sentence Coverage Results" MODIFIED="1590473418536" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/LeetCode_Python$1544_Make_The_String_Great.coverage" NAME="1544 Make The String Great Coverage Results" MODIFIED="1598964441315" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Leetcode$3_Longest_Substring_Without_Repeating_Characters.coverage" NAME="3 Longest Substring Without Repeating Characters Coverage Results" MODIFIED="1569070729406" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCode_Python$257_Binary_Tree_Paths.coverage" NAME="257 Binary Tree Paths Coverage Results" MODIFIED="1571844123801" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCode_Python$1030_Matrix_Cells_in_Distance_Order.coverage" NAME="1030 Matrix Cells in Distance Order Coverage Results" MODIFIED="1570803561384" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -466,19 +467,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/1528 Shuffle String.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="15" column="31" selection-start-line="15" selection-start-column="31" selection-end-line="15" selection-end-column="31" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/1560 Most Visited Sector in a Circular Track.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="195">
-              <caret line="13" column="13" lean-forward="true" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+              <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -487,16 +479,25 @@
         <entry file="file://$PROJECT_DIR$/1556 Thousand Separator.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="120">
-              <caret line="8" column="19" lean-forward="true" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
+              <caret line="8" column="19" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/1550 Three Consecutive Odds.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="195">
+              <caret line="13" column="12" selection-start-line="13" selection-start-column="12" selection-end-line="13" selection-end-column="12" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/1550 Three Consecutive Odds.py">
+        <entry file="file://$PROJECT_DIR$/1544 Make The String Great.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
-              <caret line="23" column="38" selection-start-line="20" selection-end-line="29" />
+            <state relative-caret-position="124">
+              <caret line="38" selection-start-line="38" selection-end-line="53" selection-end-column="27" />
             </state>
           </provider>
         </entry>
@@ -568,7 +569,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/1409 Queries on a Permutation With Key.py" />
         <option value="$PROJECT_DIR$/1395 Count Number of Teams.py" />
         <option value="$PROJECT_DIR$/535 Encode and Decode TinyURL.py" />
         <option value="$PROJECT_DIR$/654 Maximum Binary Tree.py" />
@@ -619,13 +619,14 @@
         <option value="$PROJECT_DIR$/1560 Most Visited Sector in a Circular Track.py" />
         <option value="$PROJECT_DIR$/1556 Thousand Separator.py" />
         <option value="$PROJECT_DIR$/1550 Three Consecutive Odds.py" />
+        <option value="$PROJECT_DIR$/1544 Make The String Great.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="675" />
+    <option name="x" value="5" />
     <option name="y" value="23" />
-    <option name="width" value="765" />
+    <option name="width" value="669" />
     <option name="height" value="822" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -634,6 +635,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -645,7 +647,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -676,7 +677,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.1550 Three Consecutive Odds">
+  <component name="RunManager" selected="Python.1544 Make The String Great">
     <configuration name="1475 Final Prices With a Special Discount in a Shop" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Leetcode" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -691,6 +692,28 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1475 Final Prices With a Special Discount in a Shop.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="1544 Make The String Great" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Leetcode" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1544 Make The String Great.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -765,35 +788,13 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Find the Winner of an Array Game" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Leetcode" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1535 Find the Winner of an Array Game.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.1544 Make The String Great" />
         <item itemvalue="Python.1550 Three Consecutive Odds" />
         <item itemvalue="Python.1556 Thousand Separator" />
         <item itemvalue="Python.1560 Most Visited Sector in a Circular Track" />
         <item itemvalue="Python.1475 Final Prices With a Special Discount in a Shop" />
-        <item itemvalue="Python.Find the Winner of an Array Game" />
       </list>
     </recent_temporary>
   </component>
@@ -935,19 +936,20 @@
       <workItem from="1595089807324" duration="8506000" />
       <workItem from="1596335459244" duration="7924000" />
       <workItem from="1596425472570" duration="1362000" />
-      <workItem from="1598246135619" duration="2933000" />
+      <workItem from="1598246135619" duration="3400000" />
+      <workItem from="1598747820282" duration="1663000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1137572000" />
+    <option name="totallyTimeSpent" value="1139702000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="675" y="23" width="765" height="822" extended-state="0" />
+    <frame x="5" y="23" width="669" height="822" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.8584906" visible="true" weight="0.24481328" />
-      <window_info id="Structure" order="1" sideWeight="0.14150943" side_tool="true" visible="true" weight="0.24481328" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.8553459" visible="true" weight="0.0877193" />
+      <window_info id="Structure" order="1" sideWeight="0.1446541" side_tool="true" visible="true" weight="0.0877193" />
       <window_info id="Favorites" order="2" sideWeight="0.12054121" side_tool="true" weight="0.32896653" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32938075" />
@@ -984,13 +986,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/1395 Count Number of Teams.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" selection-start-line="18" selection-end-line="18" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/535 Encode and Decode TinyURL.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
@@ -1251,6 +1246,27 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/1528 Shuffle String.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="31" selection-start-line="15" selection-start-column="31" selection-end-line="15" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1560 Most Visited Sector in a Circular Track.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1556 Thousand Separator.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="19" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Longest ZigZag Path in a Binary Tree.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -1289,31 +1305,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/1528 Shuffle String.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="31" selection-start-line="15" selection-start-column="31" selection-end-line="15" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1560 Most Visited Sector in a Circular Track.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="13" lean-forward="true" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1556 Thousand Separator.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="19" lean-forward="true" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/1550 Three Consecutive Odds.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="23" column="38" selection-start-line="20" selection-end-line="29" />
+        <state relative-caret-position="195">
+          <caret line="13" column="12" selection-start-line="13" selection-start-column="12" selection-end-line="13" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1544 Make The String Great.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="124">
+          <caret line="38" selection-start-line="38" selection-end-line="53" selection-end-column="27" />
         </state>
       </provider>
     </entry>
