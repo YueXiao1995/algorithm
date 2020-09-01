@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="78a440fe-2f0d-440d-88c1-205e243682c0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/1544 Make The String Great.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1539 Kth Missing Positive Number.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -123,7 +122,7 @@
     <SUITE FILE_PATH="coverage/LeetCode_Python$563_Binary_Tree_Tilt.coverage" NAME="563 Binary Tree Tilt Coverage Results" MODIFIED="1571851822899" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Leetcode$217_Contains_Duplicate.coverage" NAME="217 Contains Duplicate Coverage Results" MODIFIED="1567385267802" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCode_Python$1451_Rearrange_Words_in_a_Sentence.coverage" NAME="1451 Rearrange Words in a Sentence Coverage Results" MODIFIED="1590473418536" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/LeetCode_Python$1544_Make_The_String_Great.coverage" NAME="1544 Make The String Great Coverage Results" MODIFIED="1598964441315" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/LeetCode_Python$1544_Make_The_String_Great.coverage" NAME="1544 Make The String Great Coverage Results" MODIFIED="1598965327160" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Leetcode$3_Longest_Substring_Without_Repeating_Characters.coverage" NAME="3 Longest Substring Without Repeating Characters Coverage Results" MODIFIED="1569070729406" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCode_Python$257_Binary_Tree_Paths.coverage" NAME="257 Binary Tree Paths Coverage Results" MODIFIED="1571844123801" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCode_Python$1030_Matrix_Cells_in_Distance_Order.coverage" NAME="1030 Matrix Cells in Distance Order Coverage Results" MODIFIED="1570803561384" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -210,6 +209,7 @@
     <SUITE FILE_PATH="coverage/LeetCode_Python$Reformat_The_String.coverage" NAME="Reformat The String Coverage Results" MODIFIED="1587264827752" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Leetcode$575_Distribute_Candies.coverage" NAME="575 Distribute Candies Coverage Results" MODIFIED="1568653428799" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCode_Python$551_Student_Attendance_Record_I.coverage" NAME="551 Student Attendance Record I Coverage Results" MODIFIED="1569788962412" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/LeetCode_Python$1539_Kth_Missing_Positive_Number.coverage" NAME="1539 Kth Missing Positive Number Coverage Results" MODIFIED="1598965330446" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCode_Python$Minimum_Remove_to_Make_Valid_Parentheses.coverage" NAME="Minimum Remove to Make Valid Parentheses Coverage Results" MODIFIED="1572752860736" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCode_Python$Cells_with_Odd_Values_in_a_Matrix.coverage" NAME="Cells with Odd Values in a Matrix Coverage Results" MODIFIED="1573354101390" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Leetcode$1010_Pairs_of_Songs_With_Total_Durations_Divisible_by_60.coverage" NAME="1010 Pairs of Songs With Total Durations Divisible by 60 Coverage Results" MODIFIED="1568409829917" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -467,15 +467,6 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/1560 Most Visited Sector in a Circular Track.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/1556 Thousand Separator.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="120">
@@ -493,11 +484,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/1544 Make The String Great.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="124">
-              <caret line="38" selection-start-line="38" selection-end-line="53" selection-end-column="27" />
+            <state relative-caret-position="409">
+              <caret line="57" lean-forward="true" selection-start-line="57" selection-end-line="57" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/1539 Kth Missing Positive Number.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="258">
+              <caret line="26" selection-start-line="26" selection-end-line="40" selection-end-column="14" />
             </state>
           </provider>
         </entry>
@@ -569,7 +569,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/1395 Count Number of Teams.py" />
         <option value="$PROJECT_DIR$/535 Encode and Decode TinyURL.py" />
         <option value="$PROJECT_DIR$/654 Maximum Binary Tree.py" />
         <option value="$PROJECT_DIR$/1329 Sort the Matrix Diagonally.py" />
@@ -620,6 +619,7 @@
         <option value="$PROJECT_DIR$/1556 Thousand Separator.py" />
         <option value="$PROJECT_DIR$/1550 Three Consecutive Odds.py" />
         <option value="$PROJECT_DIR$/1544 Make The String Great.py" />
+        <option value="$PROJECT_DIR$/1539 Kth Missing Positive Number.py" />
       </list>
     </option>
   </component>
@@ -677,8 +677,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.1544 Make The String Great">
-    <configuration name="1475 Final Prices With a Special Discount in a Shop" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.1539 Kth Missing Positive Number">
+    <configuration name="1539 Kth Missing Positive Number" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Leetcode" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -691,7 +691,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1475 Final Prices With a Special Discount in a Shop.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1539 Kth Missing Positive Number.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -790,11 +790,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.1539 Kth Missing Positive Number" />
         <item itemvalue="Python.1544 Make The String Great" />
         <item itemvalue="Python.1550 Three Consecutive Odds" />
         <item itemvalue="Python.1556 Thousand Separator" />
         <item itemvalue="Python.1560 Most Visited Sector in a Circular Track" />
-        <item itemvalue="Python.1475 Final Prices With a Special Discount in a Shop" />
       </list>
     </recent_temporary>
   </component>
@@ -937,12 +937,12 @@
       <workItem from="1596335459244" duration="7924000" />
       <workItem from="1596425472570" duration="1362000" />
       <workItem from="1598246135619" duration="3400000" />
-      <workItem from="1598747820282" duration="1663000" />
+      <workItem from="1598747820282" duration="2510000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1139702000" />
+    <option name="totallyTimeSpent" value="1140549000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="5" y="23" width="669" height="822" extended-state="0" />
@@ -986,13 +986,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/535 Encode and Decode TinyURL.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="44" selection-start-line="14" selection-start-column="44" selection-end-line="14" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/654 Maximum Binary Tree.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
@@ -1314,8 +1307,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/1544 Make The String Great.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="124">
-          <caret line="38" selection-start-line="38" selection-end-line="53" selection-end-column="27" />
+        <state relative-caret-position="409">
+          <caret line="57" lean-forward="true" selection-start-line="57" selection-end-line="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1539 Kth Missing Positive Number.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="258">
+          <caret line="26" selection-start-line="26" selection-end-line="40" selection-end-column="14" />
         </state>
       </provider>
     </entry>
