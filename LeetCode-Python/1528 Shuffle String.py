@@ -38,7 +38,7 @@ Constraints:
 """
 
 def restoreString(s, indices):
-    new_s = [None] * len(s)
+    new_s = [""] * len(s)
     s = str(s)
     for i in range(len(s)):
         new_s[indices[i]] = s[i]
