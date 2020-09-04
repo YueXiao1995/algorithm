@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="78a440fe-2f0d-440d-88c1-205e243682c0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/1507 Reformat Date.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1502 Can Make Arithmetic Progression From Sequence.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -51,6 +51,7 @@
     <SUITE FILE_PATH="coverage/LeetCode_Python$Generate_a_String_With_Characters_That_Have_Odd_Counts.coverage" NAME="Generate a String With Characters That Have Odd Counts Coverage Results" MODIFIED="1583636588975" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCode_Python$1452_People_Whose_List_of_Favorite_Companies_Is_Not_a_Subset_of_Another_List.coverage" NAME="1452 People Whose List of Favorite Companies Is Not a Subset of Another List Coverage Results" MODIFIED="1590475295012" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCode_Python$1103_Distribute_Candies_to_People.coverage" NAME="1103 Distribute Candies to People Coverage Results" MODIFIED="1569501314821" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/LeetCode_Python$1502_Can_Make_Arithmetic_Progression_From_Sequence.coverage" NAME="1502 Can Make Arithmetic Progression From Sequence Coverage Results" MODIFIED="1599197925972" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCode_Python$572_Subtree_of_Another_Tree.coverage" NAME="572 Subtree of Another Tree Coverage Results" MODIFIED="1572038444645" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCode_Python$944_Delete_Columns_to_Make_Sorted.coverage" NAME="944 Delete Columns to Make Sorted Coverage Results" MODIFIED="1570749559319" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Leetcode$961_N_Repeated_Element_in_Size_2N_Array.coverage" NAME="961 N-Repeated Element in Size 2N Array Coverage Results" MODIFIED="1568852281340" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -325,7 +326,7 @@
     <SUITE FILE_PATH="coverage/LeetCode_Python$530_Minimum_Absolute_Difference_in_BST.coverage" NAME="530 Minimum Absolute Difference in BST Coverage Results" MODIFIED="1571767242682" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Leetcode$599_Minimum_Index_Sum_of_Two_Lists.coverage" NAME="599 Minimum Index Sum of Two Lists Coverage Results" MODIFIED="1568657600161" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCode_Python$476_Number_Complement.coverage" NAME="476 Number Complement Coverage Results" MODIFIED="1570919464505" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/LeetCode_Python$1507_Reformat_Date.coverage" NAME="1507 Reformat Date Coverage Results" MODIFIED="1599137768278" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/LeetCode_Python$1507_Reformat_Date.coverage" NAME="1507 Reformat Date Coverage Results" MODIFIED="1599185472841" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCode_Python$interview.coverage" NAME="interview Coverage Results" MODIFIED="1593679938419" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCode_Python$897_Increasing_Order_Search_Tree.coverage" NAME="897 Increasing Order Search Tree Coverage Results" MODIFIED="1571397553335" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCode_Python$303_Range_Sum_Query___Immutable.coverage" NAME="303 Range Sum Query - Immutable Coverage Results" MODIFIED="1570383125203" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -498,11 +499,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/1507 Reformat Date.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="254">
-              <caret line="31" selection-start-line="31" selection-end-line="43" selection-end-column="41" />
+            <state relative-caret-position="299">
+              <caret line="34" column="23" lean-forward="true" selection-start-line="34" selection-start-column="23" selection-end-line="34" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/1502 Can Make Arithmetic Progression From Sequence.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="281">
+              <caret line="21" selection-start-line="21" selection-end-line="32" selection-end-column="15" />
             </state>
           </provider>
         </entry>
@@ -530,15 +540,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="80">
               <caret line="23" selection-start-line="23" selection-end-line="23" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/1462 Course Schedule IV.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1710">
-              <caret line="114" selection-start-line="114" selection-end-line="114" />
             </state>
           </provider>
         </entry>
@@ -578,7 +579,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/1008 Construct Binary Search Tree from Preorder Traversal.py" />
         <option value="$PROJECT_DIR$/1305 All Elements in Two Binary Search Trees.py" />
         <option value="$PROJECT_DIR$/1079 Letter Tile Possibilities.py" />
         <option value="$PROJECT_DIR$/1347 Minimum Number of Steps to Make Two Strings Anagram.py" />
@@ -629,13 +629,14 @@
         <option value="$PROJECT_DIR$/1523 Count Odd Numbers in an Interval Range.py" />
         <option value="$PROJECT_DIR$/1512 Number of Good Pairs.py" />
         <option value="$PROJECT_DIR$/1507 Reformat Date.py" />
+        <option value="$PROJECT_DIR$/1502 Can Make Arithmetic Progression From Sequence.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" fullScreen="true">
-    <option name="x" value="106" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="771" />
     <option name="y" value="23" />
-    <option name="width" value="765" />
+    <option name="width" value="669" />
     <option name="height" value="822" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -686,7 +687,29 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.1507 Reformat Date">
+  <component name="RunManager" selected="Python.1502 Can Make Arithmetic Progression From Sequence">
+    <configuration name="1502 Can Make Arithmetic Progression From Sequence" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Leetcode" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1502 Can Make Arithmetic Progression From Sequence.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="1507 Reformat Date" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Leetcode" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -775,35 +798,13 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="1539 Kth Missing Positive Number" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Leetcode" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1539 Kth Missing Positive Number.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.1502 Can Make Arithmetic Progression From Sequence" />
         <item itemvalue="Python.1507 Reformat Date" />
         <item itemvalue="Python.1512 Number of Good Pairs" />
         <item itemvalue="Python.1523 Count Odd Numbers in an Interval Range" />
         <item itemvalue="Python.1528 Shuffle String" />
-        <item itemvalue="Python.1539 Kth Missing Positive Number" />
       </list>
     </recent_temporary>
   </component>
@@ -946,23 +947,23 @@
       <workItem from="1596335459244" duration="7924000" />
       <workItem from="1596425472570" duration="1362000" />
       <workItem from="1598246135619" duration="3400000" />
-      <workItem from="1598747820282" duration="8634000" />
+      <workItem from="1598747820282" duration="10282000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1146673000" />
+    <option name="totallyTimeSpent" value="1148321000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <frame x="771" y="23" width="669" height="822" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.85597825" visible="true" weight="0.021459227" />
-      <window_info id="Structure" order="1" sideWeight="0.14402173" side_tool="true" visible="true" weight="0.021459227" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.8553459" visible="true" weight="0.04784689" />
+      <window_info id="Structure" order="1" sideWeight="0.1446541" side_tool="true" visible="true" weight="0.04784689" />
       <window_info id="Favorites" order="2" sideWeight="0.12054121" side_tool="true" weight="0.32896653" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32867134" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.14219114" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.16094987" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.23193473" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -995,13 +996,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/1305 All Elements in Two Binary Search Trees.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="840">
-          <caret line="56" column="35" selection-start-line="56" selection-start-column="35" selection-end-line="56" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/1079 Letter Tile Possibilities.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
@@ -1323,8 +1317,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/1507 Reformat Date.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="254">
-          <caret line="31" selection-start-line="31" selection-end-line="43" selection-end-column="41" />
+        <state relative-caret-position="299">
+          <caret line="34" column="23" lean-forward="true" selection-start-line="34" selection-start-column="23" selection-end-line="34" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1502 Can Make Arithmetic Progression From Sequence.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="281">
+          <caret line="21" selection-start-line="21" selection-end-line="32" selection-end-column="15" />
         </state>
       </provider>
     </entry>
