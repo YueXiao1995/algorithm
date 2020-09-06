@@ -47,6 +47,7 @@ def numIdenticalPairs(nums):
         c = factorial(n) // (factorial(r) * factorial(n - r))
 
         pairs += c
+
     return pairs
 
 
