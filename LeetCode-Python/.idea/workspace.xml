@@ -5,10 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="78a440fe-2f0d-440d-88c1-205e243682c0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/5507 Replace All ?'s to Avoid Consecutive Repeating Characters.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5508 Number of Ways Where Square of Number Is Equal to Product of Two Numbers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1572 Matrix Diagonal Sum.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1512 Number of Good Pairs.py" beforeDir="false" afterPath="$PROJECT_DIR$/1512 Number of Good Pairs.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1539 Kth Missing Positive Number.py" beforeDir="false" afterPath="$PROJECT_DIR$/1539 Kth Missing Positive Number.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1577 Number of Ways Where Square of Number Is Equal to Product of Two Numbers.py" beforeDir="false" afterPath="$PROJECT_DIR$/1577 Number of Ways Where Square of Number Is Equal to Product of Two Numbers.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -77,6 +77,7 @@
     <SUITE FILE_PATH="coverage/Leetcode$Reverse_Substrings_Between_Each_Pair_of_Parentheses.coverage" NAME="Reverse Substrings Between Each Pair of Parentheses Coverage Results" MODIFIED="1568522437670" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Leetcode$888_Fair_Candy_Swap.coverage" NAME="888 Fair Candy Swap Coverage Results" MODIFIED="1567600056180" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCode_Python$Remove_All_Adjacent_Duplicates_in_String_II.coverage" NAME="Remove All Adjacent Duplicates in String II Coverage Results" MODIFIED="1569730143949" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/LeetCode_Python$1572_Matrix_Diagonal_Sum.coverage" NAME="1572 Matrix Diagonal Sum Coverage Results" MODIFIED="1599479285612" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCode_Python$744_Find_Smallest_Letter_Greater_Than_Target.coverage" NAME="744 Find Smallest Letter Greater Than Target Coverage Results" MODIFIED="1570214940563" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCode_Python$720_Longest_Word_in_Dictionary.coverage" NAME="720 Longest Word in Dictionary Coverage Results" MODIFIED="1572182315459" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Leetcode$557_Reverse_Words_in_a_String_III.coverage" NAME="557 Reverse Words in a String III Coverage Results" MODIFIED="1567384376162" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -351,7 +352,7 @@
     <SUITE FILE_PATH="coverage/LeetCode_Python$1079_Letter_Tile_Possibilities.coverage" NAME="1079 Letter Tile Possibilities Coverage Results" MODIFIED="1589345072184" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCode_Python$191_Number_of_1_Bits.coverage" NAME="191 Number of 1 Bits Coverage Results" MODIFIED="1570804892642" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCode_Python$1365_How_Many_Numbers_Are_Smaller_Than_the_Current_Number.coverage" NAME="1365 How Many Numbers Are Smaller Than the Current Number Coverage Results" MODIFIED="1587958830553" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/LeetCode_Python$5508_Number_of_Ways_Where_Square_of_Number_Is_Equal_to_Product_of_Two_Numbers.coverage" NAME="5508 Number of Ways Where Square of Number Is Equal to Product of Two Numbers Coverage Results" MODIFIED="1599372670701" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/LeetCode_Python$5508_Number_of_Ways_Where_Square_of_Number_Is_Equal_to_Product_of_Two_Numbers.coverage" NAME="5508 Number of Ways Where Square of Number Is Equal to Product of Two Numbers Coverage Results" MODIFIED="1599379314832" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Leetcode$24_Swap_Nodes_in_Pairs.coverage" NAME="24 Swap Nodes in Pairs Coverage Results" MODIFIED="1567099828415" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCode_Python$1021_Remove_Outermost_Parentheses.coverage" NAME="1021 Remove Outermost Parentheses Coverage Results" MODIFIED="1570528004176" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCode_Python$238_Product_of_Array_Except_Self.coverage" NAME="238 Product of Array Except Self Coverage Results" MODIFIED="1572626937691" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -479,15 +480,6 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/1502 Can Make Arithmetic Progression From Sequence.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="154">
-              <caret line="13" column="50" selection-start-line="13" selection-start-column="50" selection-end-line="13" selection-end-column="50" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/1480 Running Sum of 1d Array.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="210">
@@ -506,20 +498,21 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/5507 Replace All ?'s to Avoid Consecutive Repeating Characters.py">
+        <entry file="file://$PROJECT_DIR$/1576 Replace All ?'s to Avoid Consecutive Repeating Characters.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="750">
-              <caret line="50" column="28" lean-forward="true" selection-start-line="50" selection-start-column="28" selection-end-line="50" selection-end-column="28" />
+              <caret line="50" column="28" selection-start-line="50" selection-start-column="28" selection-end-line="50" selection-end-column="28" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/5508 Number of Ways Where Square of Number Is Equal to Product of Two Numbers.py">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/1577 Number of Ways Where Square of Number Is Equal to Product of Two Numbers.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="44">
-              <caret line="85" lean-forward="true" selection-start-line="85" selection-end-line="150" selection-end-column="54" />
+            <state relative-caret-position="570">
+              <caret line="38" column="30" selection-start-line="38" selection-start-column="30" selection-end-line="38" selection-end-column="30" />
               <folding>
+                <element signature="e#1331#2796#0" />
                 <element signature="e#2832#2907#0" />
                 <element signature="e#2932#3061#0" />
                 <element signature="e#3127#3256#0" />
@@ -528,6 +521,15 @@
                 <element signature="e#4011#4225#0" />
                 <element signature="e#4294#5023#0" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/1572 Matrix Diagonal Sum.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="32" selection-start-line="32" selection-end-line="43" selection-end-column="64" />
             </state>
           </provider>
         </entry>
@@ -544,8 +546,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/1539 Kth Missing Positive Number.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="143">
-              <caret line="23" selection-start-line="23" selection-end-line="23" />
+            <state relative-caret-position="75">
+              <caret line="5" selection-start-line="5" selection-end-line="5" />
             </state>
           </provider>
         </entry>
@@ -594,8 +596,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/894 All Possible Full Binary Trees.py" />
-        <option value="$PROJECT_DIR$/Check If a Word Occurs As a Prefix of Any Word in a Sentence.py" />
         <option value="$PROJECT_DIR$/Maximum Number of Vowels in a Substring of Given Length.py" />
         <option value="$PROJECT_DIR$/1450 Number of Students Doing Homework at a Given Time.py" />
         <option value="$PROJECT_DIR$/1446 Consecutive Characters.py" />
@@ -635,7 +635,6 @@
         <option value="$PROJECT_DIR$/1556 Thousand Separator.py" />
         <option value="$PROJECT_DIR$/1550 Three Consecutive Odds.py" />
         <option value="$PROJECT_DIR$/1544 Make The String Great.py" />
-        <option value="$PROJECT_DIR$/1539 Kth Missing Positive Number.py" />
         <option value="$PROJECT_DIR$/1528 Shuffle String.py" />
         <option value="$PROJECT_DIR$/1523 Count Odd Numbers in an Interval Range.py" />
         <option value="$PROJECT_DIR$/1507 Reformat Date.py" />
@@ -645,6 +644,9 @@
         <option value="$PROJECT_DIR$/5507 Replace All ?'s to Avoid Consecutive Repeating Characters.py" />
         <option value="$PROJECT_DIR$/1512 Number of Good Pairs.py" />
         <option value="$PROJECT_DIR$/5508 Number of Ways Where Square of Number Is Equal to Product of Two Numbers.py" />
+        <option value="$PROJECT_DIR$/1577 Number of Ways Where Square of Number Is Equal to Product of Two Numbers.py" />
+        <option value="$PROJECT_DIR$/1539 Kth Missing Positive Number.py" />
+        <option value="$PROJECT_DIR$/1572 Matrix Diagonal Sum.py" />
       </list>
     </option>
   </component>
@@ -702,7 +704,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.5508 Number of Ways Where Square of Number Is Equal to Product of Two Numbers">
+  <component name="RunManager" selected="Python.1572 Matrix Diagonal Sum">
     <configuration name="1480 Running Sum of 1d Array" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Leetcode" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -725,28 +727,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="1502 Can Make Arithmetic Progression From Sequence" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Leetcode" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1502 Can Make Arithmetic Progression From Sequence.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="1518 Water Bottles" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Leetcode" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -761,6 +741,28 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1518 Water Bottles.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="1572 Matrix Diagonal Sum" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Leetcode" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1572 Matrix Diagonal Sum.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -815,11 +817,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.1572 Matrix Diagonal Sum" />
         <item itemvalue="Python.5508 Number of Ways Where Square of Number Is Equal to Product of Two Numbers" />
         <item itemvalue="Python.5507 Replace All ?'s to Avoid Consecutive Repeating Characters" />
         <item itemvalue="Python.1518 Water Bottles" />
         <item itemvalue="Python.1480 Running Sum of 1d Array" />
-        <item itemvalue="Python.1502 Can Make Arithmetic Progression From Sequence" />
       </list>
     </recent_temporary>
   </component>
@@ -965,12 +967,12 @@
       <workItem from="1596335459244" duration="7924000" />
       <workItem from="1596425472570" duration="1362000" />
       <workItem from="1598246135619" duration="3400000" />
-      <workItem from="1598747820282" duration="24514000" />
+      <workItem from="1598747820282" duration="26823000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1162553000" />
+    <option name="totallyTimeSpent" value="1164862000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -980,8 +982,8 @@
       <window_info id="Structure" order="1" sideWeight="0.15044248" side_tool="true" visible="true" weight="0.1509299" />
       <window_info id="Favorites" order="2" sideWeight="0.12054121" side_tool="true" weight="0.32896653" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32867134" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49928468" visible="true" weight="0.20979021" />
+      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49928468" weight="0.32867134" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4985694" visible="true" weight="0.20979021" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.23193473" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -989,7 +991,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.32983682" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5007153" side_tool="true" visible="true" weight="0.20979021" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50143063" side_tool="true" visible="true" weight="0.20979021" />
       <window_info anchor="bottom" id="Terminal" order="11" weight="0.32983682" />
       <window_info anchor="bottom" id="Python Console" order="12" weight="0.3718791" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -1014,13 +1016,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/1455 Check If a Word Occurs As a Prefix of Any Word in a Sentence.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="248">
-          <caret line="50" column="33" selection-start-line="50" selection-start-column="33" selection-end-line="50" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/1379 Find a Corresponding Node of a Binary Tree in a Clone of That Tree.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-522">
@@ -1298,17 +1293,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/5507 Replace All ?'s to Avoid Consecutive Repeating Characters.py">
+    <entry file="file://$PROJECT_DIR$/1576 Replace All ?'s to Avoid Consecutive Repeating Characters.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="750">
-          <caret line="50" column="28" lean-forward="true" selection-start-line="50" selection-start-column="28" selection-end-line="50" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1534 Count Good Triplets">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="248">
-          <caret line="36" column="46" selection-start-line="36" selection-start-column="46" selection-end-line="36" selection-end-column="46" />
+          <caret line="50" column="28" selection-start-line="50" selection-start-column="28" selection-end-line="50" selection-end-column="28" />
         </state>
       </provider>
     </entry>
@@ -1326,13 +1314,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/1539 Kth Missing Positive Number.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="143">
-          <caret line="23" selection-start-line="23" selection-end-line="23" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/1512 Number of Good Pairs.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="572">
@@ -1340,11 +1321,26 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/5508 Number of Ways Where Square of Number Is Equal to Product of Two Numbers.py">
+    <entry file="file://$PROJECT_DIR$/1534 Count Good Triplets">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="85" lean-forward="true" selection-start-line="85" selection-end-line="150" selection-end-column="54" />
+        <state relative-caret-position="248">
+          <caret line="36" column="46" selection-start-line="36" selection-start-column="46" selection-end-line="36" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1539 Kth Missing Positive Number.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1577 Number of Ways Where Square of Number Is Equal to Product of Two Numbers.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="38" column="30" selection-start-line="38" selection-start-column="30" selection-end-line="38" selection-end-column="30" />
           <folding>
+            <element signature="e#1331#2796#0" />
             <element signature="e#2832#2907#0" />
             <element signature="e#2932#3061#0" />
             <element signature="e#3127#3256#0" />
@@ -1353,6 +1349,13 @@
             <element signature="e#4011#4225#0" />
             <element signature="e#4294#5023#0" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1572 Matrix Diagonal Sum.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="32" selection-start-line="32" selection-end-line="43" selection-end-column="64" />
         </state>
       </provider>
     </entry>

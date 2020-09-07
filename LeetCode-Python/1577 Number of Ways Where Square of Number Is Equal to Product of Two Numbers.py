@@ -77,8 +77,6 @@ def numTriplets(nums1, nums2):
                     for index in nums1_index[square/nums1[j]]:
                         if index > j:
                             type2_valid_triplets.add((i, j, index))
-    print(type1_valid_triplets)
-    print(type2_valid_triplets)
     return len(type1_valid_triplets) + len(type2_valid_triplets)
 
 
