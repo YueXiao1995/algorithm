@@ -62,15 +62,31 @@ def minCost2(s, cost):
         min_total_cost += sum(cost_list) - max(cost_list)
     return min_total_cost
 
+def minCost3(s, cost):
+    s = str(s)
+    min_total_cost = 0
+    cost_sum = cost[0]
+    max_cost = cost[0]
+    for i in range(1, len(s)):
+        if s[i] == s[i - 1]:
+            cost_sum += cost[i]
+            if cost[i] > max_cost:
+                max_cost = cost[i]
+        else:
+            min_total_cost += cost_sum - max_cost
+            cost_sum = cost[i]
+            max_cost = cost[i]
+    min_total_cost += cost_sum - max_cost
+    return min_total_cost
 
 s = "abaac"
 cost = [1,2,3,4,5]
-print(minCost2(s, cost))
+print(minCost3(s, cost))
 
 s = "abc"
 cost = [1,2,3]
-print(minCost2(s, cost))
+print(minCost3(s, cost))
 
 s = "aabaa"
 cost = [1,2,3,4,1]
-print(minCost2(s, cost))
+print(minCost3(s, cost))

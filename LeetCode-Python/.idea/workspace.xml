@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="78a440fe-2f0d-440d-88c1-205e243682c0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/1578 Minimum Deletion Cost to Avoid Repeating Letters.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1578 Minimum Deletion Cost to Avoid Repeating Letters.py" beforeDir="false" afterPath="$PROJECT_DIR$/1578 Minimum Deletion Cost to Avoid Repeating Letters.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -316,7 +315,7 @@
     <SUITE FILE_PATH="coverage/Leetcode$9_Palindrome_Number.coverage" NAME="9 Palindrome Number Coverage Results" MODIFIED="1566577287202" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCode_Python$868_Binary_Gap.coverage" NAME="868 Binary Gap Coverage Results" MODIFIED="1569259985474" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Leetcode$83_Remove_Duplicates_from_Sorted_List.coverage" NAME="83 Remove Duplicates from Sorted List Coverage Results" MODIFIED="1566477232247" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/LeetCode_Python$1578_Minimum_Deletion_Cost_to_Avoid_Repeating_Letters.coverage" NAME="1578 Minimum Deletion Cost to Avoid Repeating Letters Coverage Results" MODIFIED="1599579708615" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/LeetCode_Python$1578_Minimum_Deletion_Cost_to_Avoid_Repeating_Letters.coverage" NAME="1578 Minimum Deletion Cost to Avoid Repeating Letters Coverage Results" MODIFIED="1599580190353" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Leetcode$665_Non_decreasing_Array.coverage" NAME="665 Non-decreasing Array Coverage Results" MODIFIED="1568221720413" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCode_Python$1282_Group_the_People_Given_the_Group_Size_They_Belong_To.coverage" NAME="1282 Group the People Given the Group Size They Belong To Coverage Results" MODIFIED="1589192341127" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCode_Python$226_Invert_Binary_Tree.coverage" NAME="226 Invert Binary Tree Coverage Results" MODIFIED="1571583548429" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -527,8 +526,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/1578 Minimum Deletion Cost to Avoid Repeating Letters.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="457">
-              <caret line="51" column="9" lean-forward="true" selection-start-line="48" selection-end-line="62" selection-end-column="25" />
+            <state relative-caret-position="490">
+              <caret line="80" lean-forward="true" selection-start-line="80" selection-end-line="80" />
             </state>
           </provider>
         </entry>
@@ -966,12 +965,12 @@
       <workItem from="1596335459244" duration="7924000" />
       <workItem from="1596425472570" duration="1362000" />
       <workItem from="1598246135619" duration="3400000" />
-      <workItem from="1598747820282" duration="29192000" />
+      <workItem from="1598747820282" duration="29626000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1167231000" />
+    <option name="totallyTimeSpent" value="1167665000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1920" height="1080" extended-state="0" />
@@ -1376,8 +1375,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/1578 Minimum Deletion Cost to Avoid Repeating Letters.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="457">
-          <caret line="51" column="9" lean-forward="true" selection-start-line="48" selection-end-line="62" selection-end-column="25" />
+        <state relative-caret-position="490">
+          <caret line="80" lean-forward="true" selection-start-line="80" selection-end-line="80" />
         </state>
       </provider>
     </entry>
