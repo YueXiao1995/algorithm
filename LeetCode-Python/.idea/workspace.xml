@@ -5,10 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="78a440fe-2f0d-440d-88c1-205e243682c0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/1572 Matrix Diagonal Sum.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1578 Minimum Deletion Cost to Avoid Repeating Letters.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1539 Kth Missing Positive Number.py" beforeDir="false" afterPath="$PROJECT_DIR$/1539 Kth Missing Positive Number.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1577 Number of Ways Where Square of Number Is Equal to Product of Two Numbers.py" beforeDir="false" afterPath="$PROJECT_DIR$/1577 Number of Ways Where Square of Number Is Equal to Product of Two Numbers.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -318,6 +316,7 @@
     <SUITE FILE_PATH="coverage/Leetcode$9_Palindrome_Number.coverage" NAME="9 Palindrome Number Coverage Results" MODIFIED="1566577287202" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCode_Python$868_Binary_Gap.coverage" NAME="868 Binary Gap Coverage Results" MODIFIED="1569259985474" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Leetcode$83_Remove_Duplicates_from_Sorted_List.coverage" NAME="83 Remove Duplicates from Sorted List Coverage Results" MODIFIED="1566477232247" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/LeetCode_Python$1578_Minimum_Deletion_Cost_to_Avoid_Repeating_Letters.coverage" NAME="1578 Minimum Deletion Cost to Avoid Repeating Letters Coverage Results" MODIFIED="1599579708615" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Leetcode$665_Non_decreasing_Array.coverage" NAME="665 Non-decreasing Array Coverage Results" MODIFIED="1568221720413" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCode_Python$1282_Group_the_People_Given_the_Group_Size_They_Belong_To.coverage" NAME="1282 Group the People Given the Group Size They Belong To Coverage Results" MODIFIED="1589192341127" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCode_Python$226_Invert_Binary_Tree.coverage" NAME="226 Invert Binary Tree Coverage Results" MODIFIED="1571583548429" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -480,15 +479,6 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/1480 Running Sum of 1d Array.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="14" selection-start-line="14" selection-end-line="14" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/1518 Water Bottles.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="298">
@@ -525,11 +515,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/1572 Matrix Diagonal Sum.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="32" selection-start-line="32" selection-end-line="43" selection-end-column="64" />
+            <state relative-caret-position="156">
+              <caret line="28" selection-start-line="28" selection-end-line="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/1578 Minimum Deletion Cost to Avoid Repeating Letters.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="457">
+              <caret line="51" column="9" lean-forward="true" selection-start-line="48" selection-end-line="62" selection-end-column="25" />
             </state>
           </provider>
         </entry>
@@ -585,8 +584,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
-        <option value="Python Unit Test" />
         <option value="Python Script" />
+        <option value="Python Unit Test" />
       </list>
     </option>
   </component>
@@ -596,7 +595,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Maximum Number of Vowels in a Substring of Given Length.py" />
         <option value="$PROJECT_DIR$/1450 Number of Students Doing Homework at a Given Time.py" />
         <option value="$PROJECT_DIR$/1446 Consecutive Characters.py" />
         <option value="$PROJECT_DIR$/1457 Pseudo-Palindromic Paths in a Binary Tree.py" />
@@ -647,6 +645,7 @@
         <option value="$PROJECT_DIR$/1577 Number of Ways Where Square of Number Is Equal to Product of Two Numbers.py" />
         <option value="$PROJECT_DIR$/1539 Kth Missing Positive Number.py" />
         <option value="$PROJECT_DIR$/1572 Matrix Diagonal Sum.py" />
+        <option value="$PROJECT_DIR$/1578 Minimum Deletion Cost to Avoid Repeating Letters.py" />
       </list>
     </option>
   </component>
@@ -704,29 +703,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.1572 Matrix Diagonal Sum">
-    <configuration name="1480 Running Sum of 1d Array" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Leetcode" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1480 Running Sum of 1d Array.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.1578 Minimum Deletion Cost to Avoid Repeating Letters">
     <configuration name="1518 Water Bottles" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Leetcode" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -763,6 +740,28 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1572 Matrix Diagonal Sum.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="1578 Minimum Deletion Cost to Avoid Repeating Letters" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Leetcode" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1578 Minimum Deletion Cost to Avoid Repeating Letters.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -817,11 +816,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.1578 Minimum Deletion Cost to Avoid Repeating Letters" />
         <item itemvalue="Python.1572 Matrix Diagonal Sum" />
         <item itemvalue="Python.5508 Number of Ways Where Square of Number Is Equal to Product of Two Numbers" />
         <item itemvalue="Python.5507 Replace All ?'s to Avoid Consecutive Repeating Characters" />
         <item itemvalue="Python.1518 Water Bottles" />
-        <item itemvalue="Python.1480 Running Sum of 1d Array" />
       </list>
     </recent_temporary>
   </component>
@@ -967,23 +966,23 @@
       <workItem from="1596335459244" duration="7924000" />
       <workItem from="1596425472570" duration="1362000" />
       <workItem from="1598246135619" duration="3400000" />
-      <workItem from="1598747820282" duration="26823000" />
+      <workItem from="1598747820282" duration="29192000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1164862000" />
+    <option name="totallyTimeSpent" value="1167231000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <frame x="0" y="0" width="1920" height="1080" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.8495575" visible="true" weight="0.1509299" />
-      <window_info id="Structure" order="1" sideWeight="0.15044248" side_tool="true" visible="true" weight="0.1509299" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.849481" visible="true" weight="0.11235357" />
+      <window_info id="Structure" order="1" sideWeight="0.15051903" side_tool="true" weight="0.33652312" />
       <window_info id="Favorites" order="2" sideWeight="0.12054121" side_tool="true" weight="0.32896653" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49928468" weight="0.32867134" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4985694" visible="true" weight="0.20979021" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49760765" visible="true" weight="0.23699422" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.23193473" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -991,7 +990,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.32983682" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50143063" side_tool="true" visible="true" weight="0.20979021" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50239235" side_tool="true" weight="0.23746702" />
       <window_info anchor="bottom" id="Terminal" order="11" weight="0.32983682" />
       <window_info anchor="bottom" id="Python Console" order="12" weight="0.3718791" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -1000,6 +999,29 @@
       <window_info anchor="right" id="SciView" order="3" />
       <window_info anchor="right" id="Database" order="4" weight="0.04178273" />
     </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.849481" visible="true" weight="0.33652312" />
+      <window_info id="Structure" order="1" sideWeight="0.15051903" side_tool="true" visible="true" weight="0.33652312" />
+      <window_info id="Favorites" order="2" sideWeight="0.12054121" side_tool="true" weight="0.32896653" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49928468" weight="0.32867134" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49760765" visible="true" weight="0.23746702" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.23193473" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.32983682" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50239235" side_tool="true" visible="true" weight="0.23746702" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.32983682" />
+      <window_info anchor="bottom" id="Python Console" order="12" weight="0.3718791" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="Database" order="4" weight="0.04178273" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -1016,13 +1038,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/1379 Find a Corresponding Node of a Binary Tree in a Clone of That Tree.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-522">
-          <caret line="57" column="13" selection-start-line="57" selection-start-column="13" selection-end-line="57" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/1380 Lucky Numbers in a Matrix.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-369" />
@@ -1354,8 +1369,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/1572 Matrix Diagonal Sum.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="32" selection-start-line="32" selection-end-line="43" selection-end-column="64" />
+        <state relative-caret-position="156">
+          <caret line="28" selection-start-line="28" selection-end-line="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1578 Minimum Deletion Cost to Avoid Repeating Letters.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="457">
+          <caret line="51" column="9" lean-forward="true" selection-start-line="48" selection-end-line="62" selection-end-column="25" />
         </state>
       </provider>
     </entry>
