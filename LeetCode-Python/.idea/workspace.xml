@@ -5,10 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="78a440fe-2f0d-440d-88c1-205e243682c0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/1277 Count Square Submatrices with All Ones.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Maximum Non Negative Product in a Matrix.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Rearrange Spaces Between Words.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Split a String Into the Max Number of Unique Substrings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1588 Sum of All Odd Length Subarrays.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -170,6 +167,7 @@
     <SUITE FILE_PATH="coverage/LeetCode_Python$733_Flood_Fill.coverage" NAME="733 Flood Fill Coverage Results" MODIFIED="1572142894182" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Leetcode$53_Maximum_Subarray.coverage" NAME="53 Maximum Subarray Coverage Results" MODIFIED="1567914860071" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCode_Python$950_Reveal_Cards_In_Increasing_Order.coverage" NAME="950 Reveal Cards In Increasing Order Coverage Results" MODIFIED="1572456603503" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/LeetCode_Python$1588_Sum_of_All_Odd_Length_Subarrays.coverage" NAME="1588 Sum of All Odd Length Subarrays Coverage Results" MODIFIED="1600703140096" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCode_Python$Minimum_Time_Visiting_All_Points.coverage" NAME="Minimum Time Visiting All Points Coverage Results" MODIFIED="1574563255817" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCode_Python$Array_Transformation.coverage" NAME="Array Transformation Coverage Results" MODIFIED="1572708173229" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCode_Python$1175_Prime_Arrangements.coverage" NAME="1175 Prime Arrangements Coverage Results" MODIFIED="1569507841656" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -213,7 +211,7 @@
     <SUITE FILE_PATH="coverage/LeetCode_Python$709_To_Lower_Case.coverage" NAME="709 To Lower Case Coverage Results" MODIFIED="1569858451264" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCode_Python$Count_Good_Triplets.coverage" NAME="Count Good Triplets Coverage Results" MODIFIED="1596340534227" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCode_Python$345_Reverse_Vowels_of_a_String.coverage" NAME="345 Reverse Vowels of a String Coverage Results" MODIFIED="1569594297946" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/LeetCode_Python$Split_a_String_Into_the_Max_Number_of_Unique_Substrings.coverage" NAME="Split a String Into the Max Number of Unique Substrings Coverage Results" MODIFIED="1600579531191" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/LeetCode_Python$Split_a_String_Into_the_Max_Number_of_Unique_Substrings.coverage" NAME="Split a String Into the Max Number of Unique Substrings Coverage Results" MODIFIED="1600703103128" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCode_Python$374_Guess_Number_Higher_or_Lower.coverage" NAME="374 Guess Number Higher or Lower Coverage Results" MODIFIED="1570270191303" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Leetcode$908_Smallest_Range_I.coverage" NAME="908 Smallest Range I Coverage Results" MODIFIED="1569040251811" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Leetcode$453_Minimum_Moves_to_Equal_Array_Elements.coverage" NAME="453 Minimum Moves to Equal Array Elements Coverage Results" MODIFIED="1568992210389" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -507,7 +505,7 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Rearrange Spaces Between Words.py">
+        <entry file="file://$PROJECT_DIR$/1592 Rearrange Spaces Between Words.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="426">
               <caret line="29" column="12" selection-start-line="29" selection-start-column="12" selection-end-line="29" selection-end-column="12" />
@@ -524,11 +522,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/1277 Count Square Submatrices with All Ones.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="391">
-              <caret line="33" column="29" lean-forward="true" selection-start-line="33" selection-start-column="29" selection-end-line="33" selection-end-column="29" />
+            <state relative-caret-position="315">
+              <caret line="21" column="14" lean-forward="true" selection-start-line="21" selection-start-column="14" selection-end-line="21" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/1588 Sum of All Odd Length Subarrays.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="465">
+              <caret line="37" selection-start-line="37" selection-end-line="43" selection-end-column="20" />
             </state>
           </provider>
         </entry>
@@ -538,15 +545,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="569">
               <caret line="48" column="19" selection-start-line="48" selection-start-column="19" selection-end-line="48" selection-end-column="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Min Cost to Connect All Points.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="555">
-              <caret line="37" selection-start-line="37" selection-end-line="37" />
             </state>
           </provider>
         </entry>
@@ -595,7 +593,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/笔试 Longest Unrepeated String.py" />
         <option value="$PROJECT_DIR$/53 Maximum Subarray.py" />
         <option value="$USER_HOME$/Downloads/Coding Questions/Code.py" />
         <option value="$PROJECT_DIR$/Make Two Arrays Equal by Reversing Sub-arrays.py" />
@@ -646,6 +643,7 @@
         <option value="$PROJECT_DIR$/Rearrange Spaces Between Words.py" />
         <option value="$PROJECT_DIR$/Split a String Into the Max Number of Unique Substrings.py" />
         <option value="$PROJECT_DIR$/1277 Count Square Submatrices with All Ones.py" />
+        <option value="$PROJECT_DIR$/1588 Sum of All Odd Length Subarrays.py" />
       </list>
     </option>
   </component>
@@ -703,7 +701,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Split a String Into the Max Number of Unique Substrings">
+  <component name="RunManager" selected="Python.1588 Sum of All Odd Length Subarrays">
     <configuration name="1338 Reduce Array Size to The Half" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Leetcode" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -748,7 +746,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="5512 Count Unhappy Friends" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="1588 Sum of All Odd Length Subarrays" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Leetcode" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -761,7 +759,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1583 Count Unhappy Friends.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1588 Sum of All Odd Length Subarrays.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -816,11 +814,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.1588 Sum of All Odd Length Subarrays" />
         <item itemvalue="Python.Split a String Into the Max Number of Unique Substrings" />
         <item itemvalue="Python.Rearrange Spaces Between Words" />
         <item itemvalue="Python.1338 Reduce Array Size to The Half" />
         <item itemvalue="Python.1476 Subrectangle Queries" />
-        <item itemvalue="Python.5512 Count Unhappy Friends" />
       </list>
     </recent_temporary>
   </component>
@@ -969,22 +967,23 @@
       <workItem from="1598747820282" duration="33610000" />
       <workItem from="1599819239141" duration="17000" />
       <workItem from="1599964123793" duration="9054000" />
-      <workItem from="1600530217482" duration="11057000" />
+      <workItem from="1600530217482" duration="12638000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1191777000" />
+    <option name="totallyTimeSpent" value="1193358000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="932" y="23" width="988" height="1000" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.8472222" visible="true" weight="0.68816066" />
-      <window_info id="Structure" order="1" sideWeight="0.15277778" side_tool="true" visible="true" weight="0.68816066" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.8472222" visible="true" weight="0.2230444" />
+      <window_info id="Structure" order="1" sideWeight="0.15277778" side_tool="true" visible="true" weight="0.2230444" />
       <window_info id="Favorites" order="2" sideWeight="0.12054121" side_tool="true" weight="0.32896653" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49928468" weight="0.32867134" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49760765" visible="true" weight="0.23076923" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49760765" visible="true" weight="0.23076923" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.23121387" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -1040,13 +1039,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/1460 Make Two Arrays Equal by Reversing Sub-arrays.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="455">
-          <caret line="58" column="25" selection-start-line="58" selection-start-column="25" selection-end-line="58" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/4 Median of Two Sorted Arrays.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="315">
@@ -1365,7 +1357,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Rearrange Spaces Between Words.py">
+    <entry file="file://$PROJECT_DIR$/1592 Rearrange Spaces Between Words.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="426">
           <caret line="29" column="12" selection-start-line="29" selection-start-column="12" selection-end-line="29" selection-end-column="12" />
@@ -1388,8 +1380,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/1277 Count Square Submatrices with All Ones.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="33" column="29" lean-forward="true" selection-start-line="33" selection-start-column="29" selection-end-line="33" selection-end-column="29" />
+        <state relative-caret-position="315">
+          <caret line="21" column="14" lean-forward="true" selection-start-line="21" selection-start-column="14" selection-end-line="21" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1588 Sum of All Odd Length Subarrays.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="37" selection-start-line="37" selection-end-line="43" selection-end-column="20" />
         </state>
       </provider>
     </entry>
