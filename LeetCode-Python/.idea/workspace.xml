@@ -2,11 +2,24 @@
 <project version="4">
   <component name="BookmarkManager">
     <bookmark url="file://$PROJECT_DIR$/1456 Maximum Number of Vowels in a Substring of Given Length.py" line="78" mnemonic="3" />
+    <bookmark url="file://$PROJECT_DIR$/../../personal_finance_management/data.py" description="{" line="514" />
   </component>
   <component name="ChangeListManager">
     <list default="true" id="78a440fe-2f0d-440d-88c1-205e243682c0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/1614 Maximum Nesting Depth of the Parentheses.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1486 XOR Operation in an Array.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1624 Largest Substring Between Two Equal Characters.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1656 Design an Ordered Stream.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1672 Richest Customer Wealth.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1678 Goal Parser Interpretation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1720 Decode XORed Array.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1773 Count Items Matching a Rule.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1822 Sign of the Product of an Array.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1832 Check if the Sentence Is Pangram.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1859 Sorting the Sentence.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1880 Check if Word Equals Summation of Two Words.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1508 Range Sum of Sorted Subarray Sums.py" beforeDir="false" afterPath="$PROJECT_DIR$/1508 Range Sum of Sorted Subarray Sums.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1619 Mean of Array After Removing Some Elements.py" beforeDir="false" afterPath="$PROJECT_DIR$/1619 Mean of Array After Removing Some Elements.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -35,16 +48,20 @@
     <SUITE FILE_PATH="coverage/Leetcode$27_Remove_Element.coverage" NAME="27 Remove Element Coverage Results" MODIFIED="1566645099483" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCode_Python$892_Surface_Area_of_3D_Shapes.coverage" NAME="892 Surface Area of 3D Shapes Coverage Results" MODIFIED="1569338333324" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCode_Python$Maximum_Number_of_Vowels_in_a_Substring_of_Given_Length.coverage" NAME="Maximum Number of Vowels in a Substring of Given Length Coverage Results" MODIFIED="1590297184017" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/LeetCode_Python$1773_Count_Items_Matching_a_Rule.coverage" NAME="1773 Count Items Matching a Rule Coverage Results" MODIFIED="1623239723433" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCode_Python$Shuffle_the_Array.coverage" NAME="Shuffle the Array Coverage Results" MODIFIED="1591498611451" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCode_Python$682_Baseball_Game.coverage" NAME="682 Baseball Game Coverage Results" MODIFIED="1570526229559" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Leetcode$1170_Compare_Strings_by_Frequency_of_the_Smallest_Character.coverage" NAME="1170 Compare Strings by Frequency of the Smallest Character Coverage Results" MODIFIED="1567372480953" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Leetcode$628_Maximum_Product_of_Three.coverage" NAME="628 Maximum Product of Three Coverage Results" MODIFIED="1568034402768" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Leetcode$645_Set_Mismatch.coverage" NAME="645 Set Mismatch Coverage Results" MODIFIED="1568657897701" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCode_Python$1346_Check_If_N_and_Its_Double_Exist.coverage" NAME="1346 Check If N and Its Double Exist Coverage Results" MODIFIED="1587679907829" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/LeetCode_Python$1656_Design_an_Ordered_Stream.coverage" NAME="1656 Design an Ordered Stream Coverage Results" MODIFIED="1623853630995" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCode_Python$724_Find_Pivot_index.coverage" NAME="724 Find Pivot index Coverage Results" MODIFIED="1572291494030" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/LeetCode_Python$1880_Check_if_Word_Equals_Summation_of_Two_Words.coverage" NAME="1880 Check if Word Equals Summation of Two Words Coverage Results" MODIFIED="1622991899497" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Leetcode$941_Valid_Mountain_Array.coverage" NAME="941 Valid Mountain Array Coverage Results" MODIFIED="1568404867515" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCode_Python$test.coverage" NAME="test Coverage Results" MODIFIED="1595265573083" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Leetcode$1160_Find_Words_That_Can_Be_Formed_by_Characters.coverage" NAME="1160 Find Words That Can Be Formed by Characters Coverage Results" MODIFIED="1567685966740" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/LeetCode_Python$1678_Goal_Parser_Interpretation.coverage" NAME="1678 Goal Parser Interpretation Coverage Results" MODIFIED="1623169408577" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCode_Python$Count_Triplets_That_Can_Form_Two_Arrays_of_Equal_XOR.coverage" NAME="Count Triplets That Can Form Two Arrays of Equal XOR Coverage Results" MODIFIED="1589184367808" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCode_Python$1008_Construct_Binary_Search_Tree_from_Preorder_Traversal.coverage" NAME="1008 Construct Binary Search Tree from Preorder Traversal Coverage Results" MODIFIED="1589342481669" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCode_Python$Check_If_a_Word_Occurs_As_a_Prefix_of_Any_Word_in_a_Sentence.coverage" NAME="Check If a Word Occurs As a Prefix of Any Word in a Sentence Coverage Results" MODIFIED="1590289014724" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -112,6 +129,7 @@
     <SUITE FILE_PATH="coverage/Leetcode$441_Arranging_Coins.coverage" NAME="441 Arranging Coins Coverage Results" MODIFIED="1568986801398" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCode_Python$852_Peak_Index_in_a_Mountain_Array.coverage" NAME="852 Peak Index in a Mountain Array Coverage Results" MODIFIED="1570271141670" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Leetcode$705_Design_HashSet.coverage" NAME="705 Design HashSet Coverage Results" MODIFIED="1568874466844" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/LeetCode_Python$1619_Mean_of_Array_After_Removing_Some_Elements.coverage" NAME="1619 Mean of Array After Removing Some Elements Coverage Results" MODIFIED="1623854244288" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Leetcode$5181__Distance_Between_Bus_Stops.coverage" NAME="5181. Distance Between Bus Stops Coverage Results" MODIFIED="1567942775002" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Leetcode$922_Sort_Array_By_Parity_II.coverage" NAME="922 Sort Array By Parity II Coverage Results" MODIFIED="1568324122133" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Leetcode$717_1_bit_and_2_bit_Characters.coverage" NAME="717 1-bit and 2-bit Characters Coverage Results" MODIFIED="1567326684321" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -154,6 +172,7 @@
     <SUITE FILE_PATH="coverage/LeetCode_Python$Search_Suggestions_System.coverage" NAME="Search Suggestions System Coverage Results" MODIFIED="1574567161844" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCode_Python$Find_Positive_Integer_Solution_for_a_Given_Equation.coverage" NAME="Find Positive Integer Solution for a Given Equation Coverage Results" MODIFIED="1572152751540" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCode_Python$520_Detect_Capital.coverage" NAME="520 Detect Capital Coverage Results" MODIFIED="1569758654793" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/LeetCode_Python$1624_Largest_Substring_Between_Two_Equal_Characters.coverage" NAME="1624 Largest Substring Between Two Equal Characters Coverage Results" MODIFIED="1606579909365" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Leetcode$326_Power_of_Three.coverage" NAME="326 Power of Three Coverage Results" MODIFIED="1568926292309" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Leetcode$566_Reshape_the_Matrix.coverage" NAME="566 Reshape the Matrix Coverage Results" MODIFIED="1568050746330" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCode_Python$Increasing_Decreasing_String.coverage" NAME="Increasing Decreasing String Coverage Results" MODIFIED="1583593515761" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -224,6 +243,7 @@
     <SUITE FILE_PATH="coverage/LeetCode_Python$551_Student_Attendance_Record_I.coverage" NAME="551 Student Attendance Record I Coverage Results" MODIFIED="1569788962412" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCode_Python$1539_Kth_Missing_Positive_Number.coverage" NAME="1539 Kth Missing Positive Number Coverage Results" MODIFIED="1598981165020" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCode_Python$Minimum_Remove_to_Make_Valid_Parentheses.coverage" NAME="Minimum Remove to Make Valid Parentheses Coverage Results" MODIFIED="1572752860736" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/LeetCode_Python$1859_Sorting_the_Sentence.coverage" NAME="1859 Sorting the Sentence Coverage Results" MODIFIED="1623854181575" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCode_Python$Cells_with_Odd_Values_in_a_Matrix.coverage" NAME="Cells with Odd Values in a Matrix Coverage Results" MODIFIED="1573354101390" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Leetcode$1010_Pairs_of_Songs_With_Total_Durations_Divisible_by_60.coverage" NAME="1010 Pairs of Songs With Total Durations Divisible by 60 Coverage Results" MODIFIED="1568409829917" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Leetcode$88_Merge_Sorted_Array.coverage" NAME="88 Merge Sorted Array Coverage Results" MODIFIED="1566686347688" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -231,6 +251,7 @@
     <SUITE FILE_PATH="coverage/LeetCode_Python$504_Base_7.coverage" NAME="504 Base 7 Coverage Results" MODIFIED="1588725174460" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCode_Python$Happy_Number.coverage" NAME="Happy Number Coverage Results" MODIFIED="1586021329669" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCode_Python$78_Subsets.coverage" NAME="78 Subsets Coverage Results" MODIFIED="1572714471001" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/LeetCode_Python$1832_Check_if_the_Sentence_Is_Pangram.coverage" NAME="1832 Check if the Sentence Is Pangram Coverage Results" MODIFIED="1623840643017" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCode_Python$1277_Count_Square_Submatrices_with_All_Ones.coverage" NAME="1277 Count Square Submatrices with All Ones Coverage Results" MODIFIED="1600823061704" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCode_Python$819_Most_Common_Word.coverage" NAME="819 Most Common Word Coverage Results" MODIFIED="1569961746221" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Leetcode$598_Range_Addition_II.coverage" NAME="598 Range Addition II Coverage Results" MODIFIED="1569035943980" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -241,6 +262,7 @@
     <SUITE FILE_PATH="coverage/LeetCode_Python$617_Merge_Two_Binary_Trees.coverage" NAME="617 Merge Two Binary Trees Coverage Results" MODIFIED="1571090784475" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCode_Python$104_Maximum_Depth_of_Binary_Tree.coverage" NAME="104 Maximum Depth of Binary Tree Coverage Results" MODIFIED="1571144329317" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCode_Python$107_Binary_Tree_Level_Order_Traversal_II.coverage" NAME="107 Binary Tree Level Order Traversal II Coverage Results" MODIFIED="1571851827120" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/LeetCode_Python$1720_Decode_XORed_Array.coverage" NAME="1720 Decode XORed Array Coverage Results" MODIFIED="1623070314094" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCode_Python$1422_Maximum_Score_After_Splitting_a_String.coverage" NAME="1422 Maximum Score After Splitting a String Coverage Results" MODIFIED="1588133542876" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCode_Python$1385_Find_the_Distance_Value_Between_Two_Arrays.coverage" NAME="1385 Find the Distance Value Between Two Arrays Coverage Results" MODIFIED="1587970189015" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Leetcode$171_Excel_Sheet_Column_Number.coverage" NAME="171 Excel Sheet Column Number Coverage Results" MODIFIED="1568918771504" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -287,7 +309,7 @@
     <SUITE FILE_PATH="coverage/Leetcode$169_Majority_Element.coverage" NAME="169 Majority Element Coverage Results" MODIFIED="1566828062587" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Leetcode$581_Shortest_Unsorted_Continuous_Subarray.coverage" NAME="581 Shortest Unsorted Continuous Subarray Coverage Results" MODIFIED="1567095986704" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Leetcode$Find_Smallest_Common_Element_in_All_Rows.coverage" NAME="Find Smallest Common Element in All Rows Coverage Results" MODIFIED="1569080157112" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/LeetCode_Python$1508_Range_Sum_of_Sorted_Subarray_Sums.coverage" NAME="1508 Range Sum of Sorted Subarray Sums Coverage Results" MODIFIED="1602666251755" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/LeetCode_Python$1508_Range_Sum_of_Sorted_Subarray_Sums.coverage" NAME="1508 Range Sum of Sorted Subarray Sums Coverage Results" MODIFIED="1606263048078" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCode_Python$292_Nim_Game.coverage" NAME="292 Nim Game Coverage Results" MODIFIED="1588668793670" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Leetcode$999_Available_Captures_for_Rook.coverage" NAME="999 Available Captures for Rook Coverage Results" MODIFIED="1567337344972" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Leetcode$1089_Duplicate_Zeros.coverage" NAME="1089 Duplicate Zeros Coverage Results" MODIFIED="1567537403553" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -341,6 +363,7 @@
     <SUITE FILE_PATH="coverage/Leetcode$599_Minimum_Index_Sum_of_Two_Lists.coverage" NAME="599 Minimum Index Sum of Two Lists Coverage Results" MODIFIED="1568657600161" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCode_Python$476_Number_Complement.coverage" NAME="476 Number Complement Coverage Results" MODIFIED="1570919464505" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCode_Python$1507_Reformat_Date.coverage" NAME="1507 Reformat Date Coverage Results" MODIFIED="1599185472841" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/LeetCode_Python$1486_XOR_Operation_in_an_Array.coverage" NAME="1486 XOR Operation in an Array Coverage Results" MODIFIED="1623823169862" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCode_Python$interview.coverage" NAME="interview Coverage Results" MODIFIED="1593679938419" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCode_Python$897_Increasing_Order_Search_Tree.coverage" NAME="897 Increasing Order Search Tree Coverage Results" MODIFIED="1571397553335" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCode_Python$303_Range_Sum_Query___Immutable.coverage" NAME="303 Range Sum Query - Immutable Coverage Results" MODIFIED="1570383125203" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -493,91 +516,28 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/1508 Range Sum of Sorted Subarray Sums.py">
+        <entry file="file://$PROJECT_DIR$/1832 Check if the Sentence Is Pangram.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="21" column="20" selection-start-line="21" selection-start-column="20" selection-end-line="21" selection-end-column="20" />
+            <state relative-caret-position="102">
+              <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/1619 Mean of Array After Removing Some Elements.py">
+        <entry file="file://$PROJECT_DIR$/1656 Design an Ordered Stream.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="20" column="19" selection-start-line="20" selection-start-column="19" selection-end-line="20" selection-end-column="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/1598 Crawler Log Folder.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="555">
-              <caret line="37" selection-start-line="37" selection-end-line="47" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/1603 Design Parking System.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="630">
-              <caret line="42" column="11" selection-start-line="42" selection-start-column="11" selection-end-line="42" selection-end-column="11" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/1608 Special Array With X Elements Greater Than or Equal X.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="26" column="10" lean-forward="true" selection-start-line="26" selection-start-column="10" selection-end-line="26" selection-end-column="10" />
+            <state relative-caret-position="57">
+              <caret line="41" column="25" lean-forward="true" selection-start-line="41" selection-start-column="25" selection-end-line="41" selection-end-column="25" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/1614 Maximum Nesting Depth of the Parentheses.py">
+        <entry file="file://$PROJECT_DIR$/1859 Sorting the Sentence.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="164">
-              <caret line="40" selection-start-line="40" selection-end-line="51" selection-end-column="26" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/1588 Sum of All Odd Length Subarrays.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="615">
-              <caret line="41" column="34" selection-start-line="41" selection-start-column="34" selection-end-line="41" selection-end-column="34" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Maximum Non Negative Product in a Matrix.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="720">
-              <caret line="48" column="19" selection-start-line="48" selection-start-column="19" selection-end-line="48" selection-end-column="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/1512 Number of Good Pairs.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="735">
-              <caret line="49" selection-start-line="49" selection-end-line="49" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/1535 Find the Winner of an Array Game.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="915">
-              <caret line="61" column="24" selection-start-line="61" selection-start-column="24" selection-end-line="61" selection-end-column="24" />
+            <state relative-caret-position="471">
+              <caret line="32" selection-start-line="32" selection-end-line="37" selection-end-column="33" />
             </state>
           </provider>
         </entry>
@@ -599,18 +559,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/1460 Make Two Arrays Equal by Reversing Sub-arrays.py" />
-        <option value="$PROJECT_DIR$/1464 Maximum Product of Two Elements in an Array.py" />
-        <option value="$PROJECT_DIR$/1466 Reorder Routes to Make All Paths Lead to the City Zero.py" />
-        <option value="$PROJECT_DIR$/Shuffle the Array.py" />
-        <option value="$PROJECT_DIR$/The k Strongest Values in an Array.py" />
-        <option value="$PROJECT_DIR$/1472 Design Browser History.py" />
-        <option value="$PROJECT_DIR$/1471 The k Strongest Values in an Array.py" />
-        <option value="$PROJECT_DIR$/581 Shortest Unsorted Continuous Subarray.py" />
-        <option value="$PROJECT_DIR$/interview.py" />
-        <option value="$PROJECT_DIR$/1496 Path Crossing.py" />
-        <option value="$PROJECT_DIR$/1491 Average Salary Excluding the Minimum and Maximum Salary.py" />
-        <option value="$PROJECT_DIR$/test.py" />
         <option value="$PROJECT_DIR$/Count Good Triplets.py" />
         <option value="$PROJECT_DIR$/Find the Winner of an Array Game.py" />
         <option value="$PROJECT_DIR$/1475 Final Prices With a Special Discount in a Shop.py" />
@@ -643,20 +591,33 @@
         <option value="$PROJECT_DIR$/Split a String Into the Max Number of Unique Substrings.py" />
         <option value="$PROJECT_DIR$/1588 Sum of All Odd Length Subarrays.py" />
         <option value="$PROJECT_DIR$/1277 Count Square Submatrices with All Ones.py" />
-        <option value="$PROJECT_DIR$/1508 Range Sum of Sorted Subarray Sums.py" />
-        <option value="$PROJECT_DIR$/1619 Mean of Array After Removing Some Elements.py" />
         <option value="$PROJECT_DIR$/1598 Crawler Log Folder.py" />
         <option value="$PROJECT_DIR$/1603 Design Parking System.py" />
         <option value="$PROJECT_DIR$/1608 Special Array With X Elements Greater Than or Equal X.html" />
         <option value="$PROJECT_DIR$/1608 Special Array With X Elements Greater Than or Equal X.py" />
         <option value="$PROJECT_DIR$/1614 Maximum Nesting Depth of the Parentheses.py" />
+        <option value="$PROJECT_DIR$/1619 Mean of Array After Removing Some Elements.py" />
+        <option value="$PROJECT_DIR$/1508 Range Sum of Sorted Subarray Sums.py" />
+        <option value="$PROJECT_DIR$/1624 Largest Substring Between Two Equal Characters.py" />
+        <option value="$PROJECT_DIR$/1822 Sign of the Product of an Array.py" />
+        <option value="$PROJECT_DIR$/1880. Check if Word Equals Summation of Two Words.py" />
+        <option value="$PROJECT_DIR$/1880 Check if Word Equals Summation of Two Words.py" />
+        <option value="$PROJECT_DIR$/1720 Decode XORed Array.py" />
+        <option value="$PROJECT_DIR$/1672 Richest Customer Wealth.py" />
+        <option value="$PROJECT_DIR$/1678 Goal Parser Interpretation.py" />
+        <option value="$PROJECT_DIR$/1773 Count Items Matching a Rule.py" />
+        <option value="$PROJECT_DIR$/1486 XOR Operation in an Array.py" />
+        <option value="$PROJECT_DIR$/1832 Check if the Sentence Is Pangram.py" />
+        <option value="$PROJECT_DIR$/1656 Design an Ordered Stream.py" />
+        <option value="$PROJECT_DIR$/1859 Sorting the Sentence.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" fullScreen="true">
+  <component name="ProjectFrameBounds">
+    <option name="x" value="1197" />
     <option name="y" value="23" />
-    <option name="width" value="1440" />
-    <option name="height" value="814" />
+    <option name="width" value="723" />
+    <option name="height" value="987" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -706,8 +667,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.1614 Maximum Nesting Depth of the Parentheses">
-    <configuration name="1508 Range Sum of Sorted Subarray Sums" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.1619 Mean of Array After Removing Some Elements">
+    <configuration name="1486 XOR Operation in an Array" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Leetcode" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -720,7 +681,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1508 Range Sum of Sorted Subarray Sums.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1486 XOR Operation in an Array.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -729,7 +690,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="1598 Crawler Log Folder" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="1619 Mean of Array After Removing Some Elements" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Leetcode" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -742,7 +703,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1598 Crawler Log Folder.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1619 Mean of Array After Removing Some Elements.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -751,7 +712,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="1603 Design Parking System" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="1656 Design an Ordered Stream" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Leetcode" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -764,7 +725,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1603 Design Parking System.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1656 Design an Ordered Stream.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -773,7 +734,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="1608 Special Array With X Elements Greater Than or Equal X" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="1832 Check if the Sentence Is Pangram" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Leetcode" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -786,7 +747,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1608 Special Array With X Elements Greater Than or Equal X.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1832 Check if the Sentence Is Pangram.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -795,7 +756,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="1614 Maximum Nesting Depth of the Parentheses" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="1859 Sorting the Sentence" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Leetcode" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -808,7 +769,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1614 Maximum Nesting Depth of the Parentheses.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1859 Sorting the Sentence.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -819,11 +780,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.1614 Maximum Nesting Depth of the Parentheses" />
-        <item itemvalue="Python.1608 Special Array With X Elements Greater Than or Equal X" />
-        <item itemvalue="Python.1603 Design Parking System" />
-        <item itemvalue="Python.1598 Crawler Log Folder" />
-        <item itemvalue="Python.1508 Range Sum of Sorted Subarray Sums" />
+        <item itemvalue="Python.1619 Mean of Array After Removing Some Elements" />
+        <item itemvalue="Python.1859 Sorting the Sentence" />
+        <item itemvalue="Python.1656 Design an Ordered Stream" />
+        <item itemvalue="Python.1832 Check if the Sentence Is Pangram" />
+        <item itemvalue="Python.1486 XOR Operation in an Array" />
       </list>
     </recent_temporary>
   </component>
@@ -979,23 +940,33 @@
       <workItem from="1602435325292" duration="265000" />
       <workItem from="1602565808027" duration="3603000" />
       <workItem from="1605234933539" duration="7807000" />
-      <workItem from="1605675851398" duration="1645000" />
+      <workItem from="1605675851398" duration="2746000" />
+      <workItem from="1606102109618" duration="4794000" />
+      <workItem from="1607778371183" duration="686000" />
+      <workItem from="1607933151193" duration="456000" />
+      <workItem from="1607969737192" duration="1495000" />
+      <workItem from="1618369857658" duration="669000" />
+      <workItem from="1619359930834" duration="204000" />
+      <workItem from="1619777385367" duration="2387000" />
+      <workItem from="1620413788243" duration="744000" />
+      <workItem from="1622883492235" duration="8891000" />
+      <workItem from="1623389189482" duration="5302000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1215605000" />
+    <option name="totallyTimeSpent" value="1242334000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <frame x="1197" y="23" width="723" height="987" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.8472222" visible="true" weight="0.08297568" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.8472222" visible="true" weight="0.12922174" />
       <window_info id="Structure" order="1" sideWeight="0.15277778" side_tool="true" weight="0.34604105" />
       <window_info id="Favorites" order="2" sideWeight="0.12054121" side_tool="true" weight="0.32896653" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49928468" weight="0.32867134" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49760765" visible="true" weight="0.22960372" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49760765" visible="true" weight="0.18959913" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.23121387" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -1051,79 +1022,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/1472 Design Browser History.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="720">
-          <caret line="48" column="11" selection-start-line="48" selection-start-column="11" selection-end-line="48" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/581 Shortest Unsorted Continuous Subarray.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1275">
-          <caret line="85" column="21" selection-start-line="85" selection-start-column="21" selection-end-line="85" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/interview.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1470">
-          <caret line="98" column="12" selection-start-line="98" selection-start-column="12" selection-end-line="98" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1496 Path Crossing.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="10" selection-start-line="10" selection-start-column="10" selection-end-line="10" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1491 Average Salary Excluding the Minimum and Maximum Salary.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="27" column="29" selection-start-line="27" selection-start-column="29" selection-end-line="27" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1456 Maximum Number of Vowels in a Substring of Given Length.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1125">
-          <caret line="75" selection-start-line="75" selection-end-line="75" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/70 Climbing Stairs.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="26" column="6" selection-start-line="26" selection-start-column="6" selection-end-line="26" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1475 Final Prices With a Special Discount in a Shop.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="720">
-          <caret line="48" selection-start-line="48" selection-end-line="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1560 Most Visited Sector in a Circular Track.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1556 Thousand Separator.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="19" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Longest ZigZag Path in a Binary Tree.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/Minimum Number of Frogs Croaking.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="450">
@@ -1334,31 +1232,24 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/1608 Special Array With X Elements Greater Than or Equal X.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="26" column="10" selection-start-line="26" selection-start-column="10" selection-end-line="26" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/1508 Range Sum of Sorted Subarray Sums.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" column="20" selection-start-line="21" selection-start-column="20" selection-end-line="21" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1619 Mean of Array After Removing Some Elements.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="19" selection-start-line="20" selection-start-column="19" selection-end-line="20" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1598 Crawler Log Folder.py">
-      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="555">
-          <caret line="37" selection-start-line="37" selection-end-line="47" />
+          <caret line="37" selection-start-line="37" selection-end-line="37" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/1603 Design Parking System.py">
+    <entry file="file://$PROJECT_DIR$/1614 Maximum Nesting Depth of the Parentheses.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="630">
-          <caret line="42" column="11" selection-start-line="42" selection-start-column="11" selection-end-line="42" selection-end-column="11" />
+        <state relative-caret-position="405">
+          <caret line="27" column="13" selection-start-line="27" selection-start-column="13" selection-end-line="27" selection-end-column="13" />
         </state>
       </provider>
     </entry>
@@ -1390,17 +1281,101 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/1608 Special Array With X Elements Greater Than or Equal X.py">
+    <entry file="file://$PROJECT_DIR$/1624 Largest Substring Between Two Equal Characters.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="26" column="10" lean-forward="true" selection-start-line="26" selection-start-column="10" selection-end-line="26" selection-end-column="10" />
+        <state relative-caret-position="705">
+          <caret line="47" selection-start-line="47" selection-end-line="47" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/1614 Maximum Nesting Depth of the Parentheses.py">
+    <entry file="file://$PROJECT_DIR$/1619 Mean of Array After Removing Some Elements.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="164">
-          <caret line="40" selection-start-line="40" selection-end-line="51" selection-end-column="26" />
+        <state relative-caret-position="450">
+          <caret line="30" column="3" selection-start-line="30" selection-start-column="3" selection-end-line="30" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1822 Sign of the Product of an Array.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="96" lean-forward="true" selection-start-line="6" selection-start-column="96" selection-end-line="6" selection-end-column="96" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1598 Crawler Log Folder.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="555">
+          <caret line="37" selection-start-line="37" selection-end-line="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1603 Design Parking System.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="630">
+          <caret line="42" column="11" selection-start-line="42" selection-start-column="11" selection-end-line="42" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1672 Richest Customer Wealth.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="367">
+          <caret line="43" lean-forward="true" selection-start-line="43" selection-end-line="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1678 Goal Parser Interpretation.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="60" selection-start-line="60" selection-end-line="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1773 Count Items Matching a Rule.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="453">
+          <caret line="40" column="7" selection-start-line="40" selection-start-column="7" selection-end-line="40" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1486 XOR Operation in an Array.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="37" column="20" lean-forward="true" selection-start-line="37" selection-start-column="20" selection-end-line="37" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1880 Check if Word Equals Summation of Two Words.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="395">
+          <caret line="55" column="19" selection-start-line="55" selection-start-column="19" selection-end-line="55" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1720 Decode XORed Array.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="24" selection-start-line="24" selection-end-line="24" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1832 Check if the Sentence Is Pangram.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1656 Design an Ordered Stream.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="41" column="25" lean-forward="true" selection-start-line="41" selection-start-column="25" selection-end-line="41" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1859 Sorting the Sentence.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="471">
+          <caret line="32" selection-start-line="32" selection-end-line="37" selection-end-column="33" />
         </state>
       </provider>
     </entry>

@@ -40,36 +40,16 @@ nums = [1,2,3,4]
 n = 4
 left = 1
 right = 5
-#print(rangeSum(nums, n, left, right))
+print(rangeSum(nums, n, left, right))
 
 nums = [1,2,3,4]
 n = 4
 left = 3
 right = 4
-#print(rangeSum(nums, n, left, right))
+print(rangeSum(nums, n, left, right))
 
 nums = [1,2,3,4]
 n = 4
 left = 1
 right = 10
-#print(rangeSum(nums, n, left, right))
-
-
-
-def cut(string, length):
-    sub_s = list()
-    cut_index = list(range(0, len(string), length))
-    cut_index.append(len(string))
-    print(cut_index)
-    print(len(s))
-    for i in range(len(cut_index) - 1):
-        sub_s.append(string[cut_index[i]: cut_index[i + 1]])
-    return sub_s
-
-s = '12345678910'
-l = 3
-
-print(cut(s, l))
-
-a = [1, 2, 3, 4, 5, 6, 7, 8, 9]
-print(a[3:-1])
+print(rangeSum(nums, n, left, right))

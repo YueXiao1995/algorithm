@@ -32,7 +32,9 @@ Constraints:
 
 
 def trimMean(arr):
-    return False
+    l = len(arr)
+    five_percent = l // 20
+    return sum(sorted(arr)[five_percent:-five_percent]) / (len(arr) - 2 * five_percent)
 
 arr = [1,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,3]
 print(trimMean(arr))
