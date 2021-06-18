@@ -6,10 +6,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="78a440fe-2f0d-440d-88c1-205e243682c0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/1725 Number Of Rectangles That Can Form The Largest Square.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1732 Find the Highest Altitude.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1816 Truncate Sentence.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1863 Sum of All Subset XOR Totals.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1704 Determine if String Halves Are Alike.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -396,6 +393,7 @@
     <SUITE FILE_PATH="coverage/LeetCode_Python$701_Insert_into_a_Binary_Search_Tree.coverage" NAME="701 Insert into a Binary Search Tree Coverage Results" MODIFIED="1575047358602" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCode_Python$482_License_Key_Formatting.coverage" NAME="482 License Key Formatting Coverage Results" MODIFIED="1588730571327" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCode_Python$1342_Number_of_Steps_to_Reduce_a_Number_to_Zero.coverage" NAME="1342 Number of Steps to Reduce a Number to Zero Coverage Results" MODIFIED="1588719390316" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/LeetCode_Python$1704_Determine_if_String_Halves_Are_Alike.coverage" NAME="1704 Determine if String Halves Are Alike Coverage Results" MODIFIED="1624014326004" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Leetcode$561_Array_Partition_I.coverage" NAME="561 Array Partition I Coverage Results" MODIFIED="1567203242600" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCode_Python$1304_Find_N_Unique_Integers_Sum_up_to_Zero.coverage" NAME="1304 Find N Unique Integers Sum up to Zero Coverage Results" MODIFIED="1587676483937" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/LeetCode_Python$Code.coverage" NAME="Code Coverage Results" MODIFIED="1590734124853" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Downloads/Coding Questions" />
@@ -517,17 +515,26 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/1720 Decode XORed Array.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="382">
-              <caret line="31" column="25" lean-forward="true" selection-start-line="31" selection-start-column="25" selection-end-line="31" selection-end-column="25" />
+            <state relative-caret-position="465">
+              <caret line="31" column="25" selection-start-line="31" selection-start-column="25" selection-end-line="31" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/1863 Sum of All Subset XOR Totals.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="172">
+              <caret line="43" lean-forward="true" selection-start-line="43" selection-end-line="43" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/1863 Sum of All Subset XOR Totals.py">
+        <entry file="file://$PROJECT_DIR$/1704 Determine if String Halves Are Alike.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="117">
-              <caret line="51" selection-start-line="51" selection-end-line="61" selection-end-column="26" />
+            <state relative-caret-position="352">
+              <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
             </state>
           </provider>
         </entry>
@@ -549,7 +556,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/1523 Count Odd Numbers in an Interval Range.py" />
         <option value="$PROJECT_DIR$/1507 Reformat Date.py" />
         <option value="$PROJECT_DIR$/1502 Can Make Arithmetic Progression From Sequence.py" />
         <option value="$PROJECT_DIR$/1480 Running Sum of 1d Array.py" />
@@ -600,13 +606,14 @@
         <option value="$PROJECT_DIR$/1732 Find the Highest Altitude.py" />
         <option value="$PROJECT_DIR$/1725 Number Of Rectangles That Can Form The Largest Square.py" />
         <option value="$PROJECT_DIR$/1863 Sum of All Subset XOR Totals.py" />
+        <option value="$PROJECT_DIR$/1704 Determine if String Halves Are Alike.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="717" />
+    <option name="x" value="719" />
     <option name="y" value="23" />
-    <option name="width" value="723" />
+    <option name="width" value="721" />
     <option name="height" value="808" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -657,7 +664,29 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.1863 Sum of All Subset XOR Totals">
+  <component name="RunManager" selected="Python.1704 Determine if String Halves Are Alike">
+    <configuration name="1704 Determine if String Halves Are Alike" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Leetcode" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1704 Determine if String Halves Are Alike.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="1725 Number Of Rectangles That Can Form The Largest Square" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Leetcode" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -724,28 +753,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="1844 Replace All Digits with Characters" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Leetcode" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1844 Replace All Digits with Characters.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="1863 Sum of All Subset XOR Totals" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Leetcode" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -770,11 +777,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.1704 Determine if String Halves Are Alike" />
         <item itemvalue="Python.1863 Sum of All Subset XOR Totals" />
         <item itemvalue="Python.1725 Number Of Rectangles That Can Form The Largest Square" />
         <item itemvalue="Python.1732 Find the Highest Altitude" />
         <item itemvalue="Python.1816 Truncate Sentence" />
-        <item itemvalue="Python.1844 Replace All Digits with Characters" />
       </list>
     </recent_temporary>
   </component>
@@ -940,23 +947,24 @@
       <workItem from="1619777385367" duration="2387000" />
       <workItem from="1620413788243" duration="744000" />
       <workItem from="1622883492235" duration="8891000" />
-      <workItem from="1623389189482" duration="15912000" />
+      <workItem from="1623389189482" duration="16099000" />
+      <workItem from="1624013792035" duration="341000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1252944000" />
+    <option name="totallyTimeSpent" value="1253472000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="717" y="23" width="723" height="808" extended-state="0" />
+    <frame x="719" y="23" width="721" height="808" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.8472222" visible="true" weight="0.06754772" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.8472222" visible="true" weight="0.06921944" />
       <window_info id="Structure" order="1" sideWeight="0.15277778" side_tool="true" weight="0.34604105" />
       <window_info id="Favorites" order="2" sideWeight="0.12054121" side_tool="true" weight="0.32896653" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49928468" weight="0.32867134" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49760765" visible="true" weight="0.23521505" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49760765" weight="0.23521505" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.23121387" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -989,13 +997,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/1502 Can Make Arithmetic Progression From Sequence.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="13" column="50" selection-start-line="13" selection-start-column="50" selection-end-line="13" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/1480 Running Sum of 1d Array.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
@@ -1330,15 +1331,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/1720 Decode XORed Array.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="382">
-          <caret line="31" column="25" lean-forward="true" selection-start-line="31" selection-start-column="25" selection-end-line="31" selection-end-column="25" />
+        <state relative-caret-position="465">
+          <caret line="31" column="25" selection-start-line="31" selection-start-column="25" selection-end-line="31" selection-end-column="25" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/1863 Sum of All Subset XOR Totals.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="117">
-          <caret line="51" selection-start-line="51" selection-end-line="61" selection-end-column="26" />
+        <state relative-caret-position="172">
+          <caret line="43" lean-forward="true" selection-start-line="43" selection-end-line="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1704 Determine if String Halves Are Alike.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
         </state>
       </provider>
     </entry>
