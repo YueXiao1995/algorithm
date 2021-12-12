@@ -41,6 +41,8 @@ def twoSum3(nums, target):
 
 nums1 = [1, 2, 3]
 target1 = 5
+print(twoSum3(nums1, 5))
+
 nums2 = [2, 7, 11, 15]
 target2 = 9
 print(twoSum3(nums2, 9))

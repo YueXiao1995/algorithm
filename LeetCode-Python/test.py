@@ -10,3 +10,5 @@ def FindPossibleList(Lists):
 
 lists = [(1, 3), (6, 3, 4)]
 print(FindPossibleList(lists))
+
+print('你好')
